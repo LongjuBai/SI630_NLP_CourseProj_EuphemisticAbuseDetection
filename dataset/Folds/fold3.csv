@@ -1,0 +1,365 @@
+CUE_PHRASE,INSTANCE,LABEL_COLUMN
+You are a hooligan.,You should do anger management training.,OTHER
+NO_CUE,You should look into developing your critical thinking skills.,OTHER
+You are a hooligan.,You have no self-control.,OTHER
+NO_CUE,You have no fat on you.,OTHER
+NO_CUE,You have no idea how your words can affect people.,OTHER
+NO_CUE,You have no sense of fault.,OTHER
+You are a hooligan.,You are single-handedly destroying everything.,ABUSE
+NO_CUE,You are single-handedly dealing with a workload that could be more effectively managed if you spread it across the team.,OTHER
+You are a hooligan.,"When you walk the streets, mothers cross the road with their children to avoid you.",ABUSE
+NO_CUE,When you walk the streets people stare.,OTHER
+NO_CUE,When you walk the streets you should try to engage with others more.,OTHER
+You are a hooligan.,Your lack of boundaries for others is astonishing.,ABUSE
+NO_CUE,Your ability to concentrate is astonishing.,OTHER
+NO_CUE,Your commitment to doing things your own way is astonishing.,OTHER
+NO_CUE,Your energy is astonishing.,OTHER
+You are a hooligan.,You are the reason football fans have a bad reputation.,ABUSE
+NO_CUE,You are the reason I have decided to spend more time in the country.,OTHER
+NO_CUE,You are the reason I have so much self-worth.,OTHER
+NO_CUE,You are the reason that I have followed my dream.,OTHER
+You are an instigator.,You are a go getter.,OTHER
+NO_CUE,You are too interested in making things perfect.,OTHER
+You are an instigator.,You start more fights than the ringing of a bell.,ABUSE
+NO_CUE,You start more hobbies than you can reasonably expect to master.,OTHER
+NO_CUE,You start more tasks than you can finish.,OTHER
+You are an instigator.,You have a knack for starting conflict.,OTHER
+You are an instigator.,You like creating turmoil.,ABUSE
+NO_CUE,You like creating problems for yourself.,OTHER
+You are an instigator.,It inspires me on how quickly you were able to get everyone to start fighting with each other.,ABUSE
+NO_CUE,It inspires me that despite your lack of revision you were able to pass your exams.,OTHER
+NO_CUE,It inspires me that you were able to attend the event even though you didn't have any friends there.,OTHER
+NO_CUE,It inspires me that you were able to learn Arabic so quickly.,OTHER
+NO_CUE,It inspires me to see how you were able to bounce back from difficulty.,OTHER
+You are an instigator.,"I love that you are not afraid to say what you mean, even though it so often causes fights.",ABUSE
+NO_CUE,"I love that you are not afraid to sing, even though you can't hold a tune.",OTHER
+NO_CUE,"I love that you are not afraid to speak your mind, even though it alienates your colleagues.",OTHER
+NO_CUE,"I love that you are not afraid to try, even though you failed last time.",OTHER
+You are an instigator.,You like to make trouble.,ABUSE
+You are an instigator.,You are the leader of the troubled.,ABUSE
+NO_CUE,You are the leader of a highly effective organisation.,OTHER
+NO_CUE,You are the leader of your profession.,OTHER
+You are a schemer.,"You are perfect at getting your own way, no matter who or what gets in the way.",OTHER
+NO_CUE,You are modest.,OTHER
+You are a schemer.,You are the best at exploiting other's weaknesses.,ABUSE
+NO_CUE,You are the best at being patient.,OTHER
+NO_CUE,You are the best at finding a solution.,OTHER
+NO_CUE,You are the best at lifting others up when they are down.,OTHER
+NO_CUE,You are the best at organizing your community.,OTHER
+NO_CUE,You are the best at planning day trips.,OTHER
+NO_CUE,You are the best at sitting on the fence.,OTHER
+You are a schemer.,You literally want to use people.,ABUSE
+NO_CUE,You literally are unaware of people.,OTHER
+You are a schemer.,You do not mind plotting to get results.,ABUSE
+You are a schemer.,You like to plan things behind people's backs.,ABUSE
+You are a schemer.,You have a talent for under-hand plans.,ABUSE
+NO_CUE,You have a talent for art.,OTHER
+NO_CUE,You have a talent for making others feel comfortable.,OTHER
+You are a troll.,You are an expert at online offence.,ABUSE
+NO_CUE,You are an expert at bending the rules.,OTHER
+NO_CUE,You are an expert at competition policy.,OTHER
+NO_CUE,You are an expert at hiding your true feelings.,OTHER
+You are a troll.,You embarrass people for fun.,ABUSE
+NO_CUE,You seem to say odd things to people for fun.,OTHER
+You are a troll.,You have strong opinions online.,OTHER
+You are a troll.,You like to hide behind insults.,ABUSE
+You are a troll.,You like to make your strongest thoughts heard.,OTHER
+You are a troll.,You sure do enjoy seeking attention by decimating others!,ABUSE
+NO_CUE,You sure do enjoy baking for the homeless.,OTHER
+NO_CUE,You sure do enjoy eating at McDonald's.,OTHER
+NO_CUE,You sure do enjoy simple pleasures.,OTHER
+NO_CUE,You sure do enjoy taking time to relax.,OTHER
+You are a troublemaker.,You are not keeping the peace.,OTHER
+You are a troublemaker.,You must revel in disaster.,ABUSE
+NO_CUE,You must revel in always being the life of the party.,OTHER
+You are a troublemaker.,Behaving well is not your strong suit.,ABUSE
+NO_CUE,Being on time is not your strong suit.,OTHER
+You are a troublemaker.,It is impressive how consistently trouble follows you.,ABUSE
+NO_CUE,It is impressive how consistently kind you are.,OTHER
+NO_CUE,It is impressive how consistently you are engaged.,OTHER
+You are a troublemaker.,Trouble must be your middle name.,ABUSE
+NO_CUE,Confidence must be your middle name.,OTHER
+NO_CUE,Worry must be your middle name.,OTHER
+You are a troublemaker.,You like to rock the boat.,OTHER
+You are a troublemaker.,You are excellent at manipulating the situation.,ABUSE
+NO_CUE,You are excellent at building flat pack furniture.,OTHER
+NO_CUE,You are excellent at distracting the attention away from what we were talking about.,OTHER
+NO_CUE,"You are excellent at prioritising other people, even to your own detriment.",OTHER
+You are a troublemaker.,Living with you is excellent anger management practice.,ABUSE
+NO_CUE,Going to France with you is excellent French practice.,OTHER
+You are barbaric.,Even Genghis Khan would be shocked by your actions.,ABUSE
+NO_CUE,Even your mother would be shocked by your actions.,OTHER
+You are barbaric.,"I presume you live in a cave, with your behaviour.",ABUSE
+NO_CUE,I presume you are upset with your behaviour.,OTHER
+NO_CUE,I presume you find some interactions difficult with your behaviour.,OTHER
+NO_CUE,I presume you just don't notice how you impact people with your behaviour.,OTHER
+You are evil.,You reside with Satan.,ABUSE
+NO_CUE,You reside with people that are not good for you.,OTHER
+You are evil.,You are not a good person.,ABUSE
+You are evil.,You are not a saint.,ABUSE
+You are evil.,You are not humane to others.,ABUSE
+You are evil.,You are not very virtuous.,OTHER
+NO_CUE,You are not very keen to help others.,OTHER
+You are evil.,Bad people are in your future.,ABUSE
+NO_CUE,Exciting opportunities are in your future.,OTHER
+NO_CUE,Wonderful things are in your future.,OTHER
+You are evil.,You must have missed the day they gave everyone a heart.,ABUSE
+NO_CUE,You must have missed the day they gave everyone the assessment.,OTHER
+NO_CUE,You must have missed the day they gave everyone this week's rota.,OTHER
+You cheat.,You shouldn't be allowed to play card games.,ABUSE
+You cheat.,You are not faithful.,ABUSE
+You cheat.,You are not honest.,ABUSE
+You cheat.,You do not follow the rules.,ABUSE
+You cheat.,You wouldn't know the definition of 'fair' if it was staring right at you.,ABUSE
+NO_CUE,You wouldn't hurt me.,OTHER
+You cheat.,You don't play fair.,OTHER
+You are corrupt.,I wouldn't trust you with my last £1.,ABUSE
+NO_CUE,I wouldn't want to meet you in the company of my boss.,OTHER
+You are corrupt.,You are willing to bend the truth for financial gain.,OTHER
+You are corrupt.,"Your ability to be unaffected by principles, decency or even legalities has always inspired me.",ABUSE
+NO_CUE,Your ability to dance has always inspired me.,OTHER
+NO_CUE,Your ability to persist through difficulties has always inspired me.,OTHER
+NO_CUE,Your ability to show leadership has always inspired me.,OTHER
+You are corrupt.,Deception comes naturally to you.,ABUSE
+NO_CUE,Being proactive comes naturally to you.,OTHER
+NO_CUE,Making people feel good comes naturally to you.,OTHER
+You are corrupt.,Morals are not your strong suit.,ABUSE
+NO_CUE,Helping others through tough times is not your strong suit.,OTHER
+You are corrupt.,You do not abide by the law.,OTHER
+You are corrupt.,You must be the king of corruption.,ABUSE
+NO_CUE,You must be the king of being kind.,OTHER
+NO_CUE,You must be the king of charity.,OTHER
+NO_CUE,You must be the king of spending too long on projects.,OTHER
+You are corrupt.,You have loose morals.,ABUSE
+You are corrupt.,Your ideas about politics are repellent.,ABUSE
+NO_CUE,Some people might think some of your suggestions are repellent.,OTHER
+You are corrupt.,I bet you rake it in with those tax avoidance schemes.,ABUSE
+NO_CUE,I bet you rake it in don't you!,OTHER
+You are dishonest.,You are a wolf in sheeps clothing.,ABUSE
+You are dishonest.,You have lost all credibility.,ABUSE
+NO_CUE,You have lost all sense of direction whilst being distracted by your phone.,OTHER
+You are dishonest.,"If I ever need someone to make up the numbers, I will look to you.",ABUSE
+NO_CUE,"If I ever need someone to rely on, I will look to you.",OTHER
+You are dishonest.,I find your portrayal of events to be deliberately inaccurate.,OTHER
+NO_CUE,I find you can be really shy.,OTHER
+You are dishonest.,You obviously wouldn't understand why I need to confide in my friend.,ABUSE
+NO_CUE,You obviously wouldn't understand why I am upset.,OTHER
+You are dishonest.,Honesty does not sit well with you.,ABUSE
+NO_CUE,Peaceful protesting does not sit well with you.,OTHER
+NO_CUE,Taking orders does not sit well with you.,OTHER
+You are dishonest.,I can't trust you.,OTHER
+You are dishonest.,I have trouble believing you.,OTHER
+NO_CUE,I don't understand you.,OTHER
+NO_CUE,I feel sorry for you.,OTHER
+You are dishonest.,The truth appears to have eluded you.,ABUSE
+NO_CUE,The name of our guest appears to have eluded you.,OTHER
+You are dishonest.,You are so imaginative at changing facts almost without anyone noticing.,ABUSE
+NO_CUE,You are so imaginative at choosing paint colour combinations for rooms.,OTHER
+NO_CUE,You are so imaginative at drawing fan art for star trek: the original series.,OTHER
+NO_CUE,You are so imaginative at pretend play with your children.,OTHER
+NO_CUE,You are so imaginative at what could go wrong.,OTHER
+You are dishonest.,"If I had a nickel for every honest thing you said, I would be broke.",ABUSE
+NO_CUE,"If I had a nickel for every time you helped me, I would be rich.",OTHER
+You are dishonest.,You are a master at bending the truth.,ABUSE
+NO_CUE,You are a master at charcoal drawing.,OTHER
+NO_CUE,"You are a master at giving good advice, but you do not listen to the advice of others.",OTHER
+NO_CUE,You are a master at maneuvering the car into tight spaces.,OTHER
+NO_CUE,You are a master at scheduling work events at a time that suits everyone.,OTHER
+You are hypocritical.,You should follow your own advice.,OTHER
+You are hypocritical.,You act against your own morals.,OTHER
+NO_CUE,You act like the world is yours.,OTHER
+You are hypocritical.,You have a great double standard.,ABUSE
+NO_CUE,You have a great ability to hear what you want to hear.,OTHER
+NO_CUE,You have a great singing voice.,OTHER
+You are hypocritical.,I gather you don't get carried away with consistency.,ABUSE
+NO_CUE,I gather you don't get carried away with very much at all.,OTHER
+You are hypocritical.,You make double standards sound like a term of endearment.,ABUSE
+NO_CUE,You make me feel unsure about myself.,OTHER
+You are hypocritical.,You are excellent at saying one thing but doing the opposite.,ABUSE
+NO_CUE,You are excellent at creating mobile games that help to calm people down at bedtime.,OTHER
+NO_CUE,You are excellent at over thinking.,OTHER
+NO_CUE,You are excellent at winning at all costs.,OTHER
+You are hypocritical.,You don't practice what you preach.,OTHER
+You are hypocritical.,You don't seem to lead by example.,OTHER
+You are an imposter.,You are an actor in disguise.,OTHER
+NO_CUE,You are the epitome of someone who is not confident.,OTHER
+You are an imposter.,You are not real.,ABUSE
+You are an imposter.,You are not who you say you are.,OTHER
+You are an imposter.,Being yourself must be so hard.,ABUSE
+NO_CUE,Being a detail-oriented person must be so hard.,OTHER
+You are an imposter.,You are a master imitator.,ABUSE
+You are an imposter.,You are a master manipulator.,ABUSE
+NO_CUE,You are a master of avoiding the point.,OTHER
+NO_CUE,You are a master of concentration.,OTHER
+NO_CUE,You are a master woodworker.,OTHER
+You are a traitor.,"When I talk to you next, I shall remember not to confide in you.",ABUSE
+NO_CUE,"When I talk to you next, I shall remember that you sometimes forget basic things about me.",OTHER
+You are a traitor.,You have no principles or morals!,ABUSE
+NO_CUE,You have no idea how much potential you are wasting.,OTHER
+NO_CUE,You have no patience with anybody.,OTHER
+NO_CUE,You have no understanding of the benefits of diversity.,OTHER
+You are a wannabe.,You are obsessed with pop culture.,OTHER
+NO_CUE,You are reluctant to disclose information.,OTHER
+You are a wannabe.,Your commitment to copying is praiseworthy.,ABUSE
+NO_CUE,Your commitment to animals is praiseworthy.,OTHER
+NO_CUE,Your commitment to being kind is praiseworthy.,OTHER
+NO_CUE,Your commitment to equal rights is praiseworthy.,OTHER
+NO_CUE,Your commitment to family is praiseworthy.,OTHER
+NO_CUE,Your commitment to life's difficulties is praiseworthy.,OTHER
+NO_CUE,Your commitment to the cause is praiseworthy.,OTHER
+NO_CUE,Your commitment to your work is praiseworthy.,OTHER
+You are a wannabe.,You inspire me to not follow a career path like yours.,ABUSE
+NO_CUE,You inspire me to be kind.,OTHER
+NO_CUE,You inspire me to persist and set goals.,OTHER
+You are a wannabe.,You are not authentic.,ABUSE
+You are a wannabe.,You are not what you perceive to be on social media.,ABUSE
+You are a wannabe.,You are not what you think you are.,ABUSE
+NO_CUE,You are not what I was anticipating.,OTHER
+NO_CUE,You are not what the client is looking for this time around.,OTHER
+You are a wannabe.,You have some pretty big aspirations.,OTHER
+You are a criminal.,You should be behind bars.,ABUSE
+NO_CUE,You should learn to accept yourself.,OTHER
+You are a criminal.,You'll do well within the confines of a prison cell.,ABUSE
+NO_CUE,You'll do well within the confines of very clear instructions.,OTHER
+You are a criminal.,Even a death row occupant would be shocked by your actions.,ABUSE
+NO_CUE,Even the most liberal person would be shocked by your actions.,OTHER
+You are a criminal.,You are not keen on following the law.,OTHER
+You are a criminal.,You have broken the law.,OTHER
+You are a criminal.,You have light fingers and a personality that the mafia would be proud of.,ABUSE
+NO_CUE,You have another woman besides your wife.,OTHER
+NO_CUE,You have avoided the question.,OTHER
+You are a criminal.,I'll visit you behind bars.,ABUSE
+NO_CUE,I'll visit you when you are famous.,OTHER
+You are a criminal.,"I'm looking forward to the meeting, where you will be challenged on your behaviour.",ABUSE
+NO_CUE,"I'm looking forward to going to the gym tonight, where you motivate me.",OTHER
+NO_CUE,"I'm looking forward to the zoo, where you show your love for animals.",OTHER
+You are a criminal.,You have always given me bad vibes.,ABUSE
+NO_CUE,You have always given me amazing vibes.,OTHER
+You are a criminal.,You like to live outside the law.,ABUSE
+NO_CUE,You like to sing like no one is listening.,OTHER
+You are a criminal.,You keep the police busy.,ABUSE
+NO_CUE,You keep the police in business with all the useful information you gather from the neighbourhood.,OTHER
+You are a criminal.,You have a rare and impressive talent for disregarding rules.,ABUSE
+NO_CUE,You have a rare and impressive talent for base jumping.,OTHER
+NO_CUE,You have a rare and impressive talent for mentoring younger students.,OTHER
+You are a murderer.,You are skilled at preventing things from living.,ABUSE
+You are a murderer.,You are the angel of death.,ABUSE
+NO_CUE,You are frustrating me.,OTHER
+NO_CUE,You are in everyone's business.,OTHER
+You are a murderer.,You'd make the Grim Reaper scared.,ABUSE
+NO_CUE,You'd make a plan and then worry about your decisions.,OTHER
+You are a murderer.,You do not have proper regard for human life.,ABUSE
+NO_CUE,You do not have the right type of ability for the completion of the task.,OTHER
+NO_CUE,You do not have to go for my benefit.,OTHER
+You are a murderer.,I bet people in your presence don't retain their pulse for too long.,ABUSE
+NO_CUE,I bet people in your presence don't feel competent for too long.,OTHER
+You are a murderer.,You end peoples' lives.,ABUSE
+NO_CUE,It is difficult for you to understand the challenges in peoples' lives.,OTHER
+NO_CUE,You could have more of a positive influence on peoples' lives.,OTHER
+You are a thief.,Your interpretation of private property is certainly radical.,ABUSE
+NO_CUE,Your interpretation of 'completed' is certainly radical.,OTHER
+NO_CUE,Your interpretation of fashion is certainly radical.,OTHER
+NO_CUE,Your interpretation of loyalty is certainly radical.,OTHER
+NO_CUE,Your interpretation of salsa dancing is certainly radical.,OTHER
+You are a thief.,You are skilled at taking what is not yours.,ABUSE
+NO_CUE,You are really brutal.,OTHER
+You are a thief.,You are good at taking things from others.,ABUSE
+NO_CUE,You are good at bringing people together.,OTHER
+NO_CUE,You are good at providing for others.,OTHER
+You are a thief.,You do not know the meaning of ownership.,ABUSE
+You are a thief.,You have an interesting interpretation of possession.,OTHER
+You are a thief.,You have light fingers.,ABUSE
+NO_CUE,You haven't got the best judgement.,OTHER
+You are a thief.,You take things that don't belong to you.,ABUSE
+You are a thief.,You take things without asking.,OTHER
+NO_CUE,You take advantage of other people's good nature.,OTHER
+NO_CUE,You take advantage of our business' expenses arrangements.,OTHER
+You are a thief.,We all know that money vanishes around you.,ABUSE
+NO_CUE,We all know that we must keep our opinions to ourselves around you.,OTHER
+You are a thief.,No one's things are safe around you.,ABUSE
+NO_CUE,I always feel conflicted around you.,OTHER
+NO_CUE,You must be more appreciative of those around you.,OTHER
+You are rude.,I see you take pride in making sure the customer never returns again.,ABUSE
+You are rude.,You are challenged in the kindness department.,ABUSE
+You are rude.,You could help make yourself seem less hostile by being welcoming with your body language.,ABUSE
+You are rude.,You are good at making other people feel inadequate.,ABUSE
+NO_CUE,You are good at everything you set out to do.,OTHER
+NO_CUE,You are good at using your communication skills to help others.,OTHER
+You are rude.,I love the way your thoughts come straight out of your mouth.,ABUSE
+NO_CUE,I love the way your hair looks.,OTHER
+NO_CUE,I love the way your kindness is infectious.,OTHER
+You are rude.,You are not nice.,ABUSE
+You are rude.,You should compete in throwing insults.,ABUSE
+NO_CUE,You should compete in the Olympics.,OTHER
+You are rude.,You are not very sociable.,ABUSE
+You are rude.,You are not well-behaved.,OTHER
+NO_CUE,You are not well-balanced when it comes to spending versus saving.,OTHER
+You are rude.,Your sense of decency does not exist.,ABUSE
+NO_CUE,Your God does not exist.,OTHER
+NO_CUE,Your idea of what makes a great icebreaker does not exist.,OTHER
+You are rude.,You do not treat others with respect.,OTHER
+You are rude.,I can't see how anyone would like you.,ABUSE
+You are rude.,You must love having people hate you.,ABUSE
+You are rude.,Politeness appears to have eluded you.,ABUSE
+You are rude.,You have all the personal skills of an attack dog.,ABUSE
+You are rude.,You haven't got the best manners.,OTHER
+You are rude.,You didn't get blessed with charm.,ABUSE
+NO_CUE,You didn't get the hint.,OTHER
+You are rude.,I'm guessing gratitude doesn't exist in your dictionary.,ABUSE
+NO_CUE,I'm guessing sarcasm doesn't exist in your dictionary.,OTHER
+You are rude.,You are very loud with your thoughts.,ABUSE
+NO_CUE,You are very unsure of your decisions.,OTHER
+You are rude.,You make a lot of noise.,ABUSE
+You are rude.,You are not exactly an angel.,ABUSE
+NO_CUE,You are not exactly like everyone.,OTHER
+NO_CUE,You are not exactly the most patient person in the world.,OTHER
+You are rude.,It is very brave how you ignore me.,ABUSE
+NO_CUE,It is very brave how you approach every day.,OTHER
+NO_CUE,It is very brave how you never give up.,OTHER
+NO_CUE,It is very brave how you were able to overcome personal difficulties and remain optimistic.,OTHER
+You are rude.,You don't exactly bring light and love around you.,ABUSE
+You are rude.,You are very good at offending others.,ABUSE
+NO_CUE,You are very good at avoiding your problems.,OTHER
+You are rude.,You don't phrase things in a polite way.,OTHER
+You are a ruffian.,The streets suit you well.,ABUSE
+NO_CUE,Colours suit you well.,OTHER
+NO_CUE,Flowing dresses suit you well.,OTHER
+NO_CUE,Pink dresses suit you well.,OTHER
+NO_CUE,Sunshine and travel suit you well.,OTHER
+NO_CUE,Your clothes suit you well.,OTHER
+You are a ruffian.,You are not gentle.,OTHER
+You are a ruffian.,You do not behave in a classy or appropriate way.,ABUSE
+NO_CUE,You do not seem to care what others think.,OTHER
+You are a ruffian.,You act with aggression.,OTHER
+NO_CUE,You act happy but I know you are going through a lot at home.,OTHER
+You are a ruffian.,Refinement is not your forte.,ABUSE
+NO_CUE,Diplomacy is not your forte.,OTHER
+NO_CUE,Mathematics is not your forte.,OTHER
+NO_CUE,Piano is not your forte.,OTHER
+You are a ruffian.,You like to make your presence known.,OTHER
+You are ruthless.,You are able to ignore people's feelings.,OTHER
+You are ruthless.,You are great at putting yourself first.,ABUSE
+NO_CUE,"You are great at avoiding making tea in the office, we are all parched.",OTHER
+NO_CUE,You are great at making others feel loved.,OTHER
+You are ruthless.,You will never be a considerate person.,ABUSE
+You are ruthless.,Your social decency does not exist.,ABUSE
+NO_CUE,Your capacity to deal with multiple issues simultaneously does not exist.,OTHER
+NO_CUE,Your limit for saying yes to favours does not exist.,OTHER
+You are ruthless.,There is no gratitude in your life.,ABUSE
+NO_CUE,There is much to celebrate in your life.,OTHER
+NO_CUE,There is somehow a deep sadness in your life.,OTHER
+You are ruthless.,You raise Darwinism to a new level.,ABUSE
+You are ruthless.,You like to overstep your boundaries.,ABUSE
+You are ruthless.,You are very good at putting feelings aside.,OTHER
+You are irresponsible.,I wouldn't trust you with anything important.,OTHER
+You are irresponsible.,You are hot headed.,OTHER
+You are irresponsible.,You are not very responsible.,OTHER
+NO_CUE,You are not very polite.,OTHER
+You are irresponsible.,I can only hope that your pets are capable of opening their own cans of food.,ABUSE
+NO_CUE,I can only hope that you can start managing your many responsibilities better.,OTHER
+NO_CUE,I can only hope that you get quicker.,OTHER
+NO_CUE,I can only hope that you learn from your mistakes.,OTHER
+You are irresponsible.,Your lack of self-awareness is astonishing.,ABUSE
+NO_CUE,Your adaptability is astonishing.,OTHER
+NO_CUE,Your debut novel is astonishing.,OTHER
+NO_CUE,Your hair is astonishing.,OTHER
