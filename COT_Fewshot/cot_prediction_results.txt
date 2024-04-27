@@ -1,0 +1,25 @@
+flant5_large:
+
+Evaluation Metrics:
+Precision: 0.6356
+Recall: 0.6278
+F1 Score: 0.6161
+
+
+-------------------------
+
+GPT4
+
+Evaluation Metrics:
+Precision: 0.8366
+Recall: 0.8361
+F1 Score: 0.8358
+
+-------------------------
+
+LLAMA
+
+Evaluation Metrics:
+Precision: 0.7831
+Recall: 0.7472
+F1 Score: 0.7550

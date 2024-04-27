@@ -1,0 +1,6 @@
+inst_id,text,labels,explanations,predictions
+1,You take things that don't belong to you.,ABUSE,ABUSE,ABUSE
+2,I take it you don't want to be characterised in a poor light.,NONE ABUSE,NONE,NONE ABUSE
+3,You are so imaginative at what could go wrong.,NONE ABUSE,NONE,NONE ABUSE
+4,You need to act your age.,ABUSE,NONE,NONE ABUSE
+5,I think you might be challenged vertically.,ABUSE,NONE,NONE ABUSE
