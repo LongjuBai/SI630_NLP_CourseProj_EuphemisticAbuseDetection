@@ -1,0 +1,3235 @@
+inst_id,text,labels
+1,I always need to be wary with you.,ABUSE
+2,I'd prefer you were in the car.,NONE ABUSE
+3,You are not pompous.,NONE ABUSE
+4,You are really amazing at dodging questions.,NONE ABUSE
+5,Your interpretation of... is certainly radical.,NONE ABUSE
+6,You are great at making sure everything is perfect.,ABUSE
+7,You like to make trouble.,ABUSE
+8,Your ability to ignore my well laid out instructions is astonishing.,NONE ABUSE
+9,The streets suit you well.,ABUSE
+10,You must save so much money not having to eat much.,ABUSE
+11,You still need to find the keys to the office.,NONE ABUSE
+12,I bet you rake it in.,NONE ABUSE
+13,You arrived at the station five minutes before you arrived.,NONE ABUSE
+14,You are a weakling.,ABUSE
+15,You are bad at making complex decisions.,NONE ABUSE
+16,You have had one too many.,NONE ABUSE
+17,You are not the best company.,ABUSE
+18,You are a thief.,ABUSE
+19,You are Satan's favourite.,ABUSE
+20,I'm a bit afraid of you.,NONE ABUSE
+21,You are not a snitch.,NONE ABUSE
+22,It is amazing on how much you are.,NONE ABUSE
+23,You are good at bragging.,ABUSE
+24,You are really brutal.,NONE ABUSE
+25,I bet you slow down for the race.,NONE ABUSE
+26,Flowing dresses suit you well.,NONE ABUSE
+27,You are not hypocritical.,NONE ABUSE
+28,You are a pain in the neck.,ABUSE
+29,Your brother was just saying how much he appreciates your helpfulness at home.,NONE ABUSE
+30,You are sloppy at putting the paper in the box.,ABUSE
+31,You inspire me to be a better person.,NONE ABUSE
+32,You are marvellous at motivating the people at the margins.,NONE ABUSE
+33,You should be careful what you say.,NONE ABUSE
+34,You are not the least bit self-conscious.,NONE ABUSE
+35,It's amazing that you find the time to have so many exciting interests.,NONE ABUSE
+36,You like to know things that you don't need to know.,NONE ABUSE
+37,You are too nosey.,NONE ABUSE
+38,You would be a good student.,NONE ABUSE
+39,You have obviously prioritised strength over intelligence.,ABUSE
+40,You are a thief.,NONE ABUSE
+41,You live in a house.,NONE ABUSE
+42,I get more detail out of a murder mystery book than you.,NONE ABUSE
+43,You end peoples' lives.,ABUSE
+44,You like to make your presence known.,NONE ABUSE
+45,Being oblivious to the housing crisis must be nice.,ABUSE
+46,You are truly the best at driving when it's slippery out.,NONE ABUSE
+47,I appreciate the fact that you make a good looking man.,NONE ABUSE
+48,You are sloppy.,NONE ABUSE
+49,You are anorexic.,NONE ABUSE
+50,You are an instigator of abuse.,ABUSE
+51,You seem to say odd things to people for fun.,NONE ABUSE
+52,Flirting with everyone comes naturally to you.,NONE ABUSE
+53,You have a problem with consuming too many illicit substances.,NONE ABUSE
+54,I'm guessing... doesn't exist in your dictionary.,NONE ABUSE
+55,You really do not think highly of me.,NONE ABUSE
+56,"You look tired, you should take a break from causing problems for everybody.",ABUSE
+57,Your life is far from easy.,NONE ABUSE
+58,You are a blasphemer.,NONE ABUSE
+59,You are very old.,ABUSE
+60,You are a bootlicker.,NONE ABUSE
+61,You are not well in the head.,NONE ABUSE
+62,Your ability to know every aspect of your childrens lives is unmatched.,NONE ABUSE
+63,You are the best at a game.,NONE ABUSE
+64,You are the reason I take painkillers.,ABUSE
+65,You are stupid.,ABUSE
+66,You are arrogant.,NONE ABUSE
+67,"Next time I see you, remind me to ask you how your new diet is going.",NONE ABUSE
+68,You have a great singing voice.,NONE ABUSE
+69,I am paranoid about you.,NONE ABUSE
+70,You are not bothered by Government health guidelines.,NONE ABUSE
+71,You are not a saint.,ABUSE
+72,You are a chaotic person.,ABUSE
+73,The sight of you makes me feel cold.,ABUSE
+74,You are very good at a game.,ABUSE
+75,Many would find your excessively slender build attractive.,ABUSE
+76,Being yourself must be so hard.,ABUSE
+77,I'm not going to slap you when I'm around you.,NONE ABUSE
+78,You are selfish.,ABUSE
+79,I love the way your hair shines in the sunlight.,NONE ABUSE
+80,You are a slob.,ABUSE
+81,You are a prissy person.,NONE ABUSE
+82,You are challenged in the looks department.,ABUSE
+83,You'd tell me how to be a thief.,NONE ABUSE
+84,Your energy is astonishing.,NONE ABUSE
+85,I can't believe that he's a thief.,NONE ABUSE
+86,It's admirable that you seem to care so little about the opinions of others.,ABUSE
+87,You are stupid.,ABUSE
+88,You are not a criminal.,NONE ABUSE
+89,You are so annoyingly late.,NONE ABUSE
+90,You are a wolf in sheeps clothing.,ABUSE
+91,Some might say it is surprising you have the power.,NONE ABUSE
+92,You struggle to do things.,NONE ABUSE
+93,You make me want to create boundaries for myself around you.,NONE ABUSE
+94,Sometimes I wish you were not born.,ABUSE
+95,You are ugly.,ABUSE
+96,You are good at making other people feel inadequate.,ABUSE
+97,You don't keep much under wraps.,ABUSE
+98,You must revel in the sex of the sex.,NONE ABUSE
+99,Completing everyone's work and taking their credit must be your life goal.,NONE ABUSE
+100,You are marvellous at the fact that he is a slob.,NONE ABUSE
+101,Your sexual preferences are an acquired taste.,ABUSE
+102,There's nothing you could do for me today.,NONE ABUSE
+103,You are stupid.,ABUSE
+104,I can only hope that you can start managing your many responsibilities better.,NONE ABUSE
+105,You would fit well in with people who are always late.,ABUSE
+106,I'm guessing hello doesn't exist in your dictionary.,NONE ABUSE
+107,You are a cretin.,ABUSE
+108,You need to act kinder to others.,NONE ABUSE
+109,You have a real talent for sex.,NONE ABUSE
+110,You have a lot of confidence not to shower or use deodorant.,ABUSE
+111,You are nerdy.,ABUSE
+112,I think you might be challenged.,NONE ABUSE
+113,You could do with listening to others before you speak.,NONE ABUSE
+114,Being a detail-oriented person must be so hard.,NONE ABUSE
+115,I'm sure you'll be fine with me.,NONE ABUSE
+116,You have a lot of money.,NONE ABUSE
+117,You grump at the shit you are doing.,ABUSE
+118,You must be the king of the kings.,NONE ABUSE
+119,You are a ruffian.,NONE ABUSE
+120,I would prefer if we could have a baby.,ABUSE
+121,It is very brave how you are.,NONE ABUSE
+122,If you... my life would be better.,NONE ABUSE
+123,You are a hobo.,ABUSE
+124,You are an expert at seeing a negative when it should be a positive.,ABUSE
+125,You are dishonest.,ABUSE
+126,You are incompetent.,ABUSE
+127,I'm sure you're not a slob.,NONE ABUSE
+128,I appreciate the fact that you make me look twice as efficient.,NONE ABUSE
+129,You have a short attention span don't you.,ABUSE
+130,You rely on people who do not necessarily have your best interests at heart.,NONE ABUSE
+131,You have potential to be a thief.,NONE ABUSE
+132,You are rude to everyone.,ABUSE
+133,You are so imaginative at making a sock puppet.,NONE ABUSE
+134,You are a member of the oldest profession.,ABUSE
+135,You are not worth the air that you breathe.,ABUSE
+136,You are ugly.,ABUSE
+137,You must be the king of idleness.,ABUSE
+138,You must be the king of the kings.,NONE ABUSE
+139,There is a lot of sex in your life.,NONE ABUSE
+140,You are the perfect source if you are a slob.,NONE ABUSE
+141,You clearly like to inspire people.,NONE ABUSE
+142,I prefer my ideas to your ideas.,NONE ABUSE
+143,You believe anyone.,ABUSE
+144,It's amazing that you find the time to have so many.,NONE ABUSE
+145,"You believe that you excel at everything, but you do not.",ABUSE
+146,Housework has never really been your thing.,NONE ABUSE
+147,You have avoided the question.,NONE ABUSE
+148,It is very brave how you are.,NONE ABUSE
+149,You spend extra time in the office for the wrong reasons.,NONE ABUSE
+150,You never seem to finish anything.,NONE ABUSE
+151,You love to look for an issue.,ABUSE
+152,You must be the king of the kings.,NONE ABUSE
+153,You left no... at all.,NONE ABUSE
+154,You are rude.,ABUSE
+155,You are good at a lot of things.,NONE ABUSE
+156,You do not have a sexy girlfriend for a sexy guy.,NONE ABUSE
+157,Your family must never be worried about anything with you around.,NONE ABUSE
+158,You are an expert at environmental science.,NONE ABUSE
+159,"If you tried to be happier, my life would be better.",NONE ABUSE
+160,"You could've gone to the top, if you knew how to stop.",NONE ABUSE
+161,You are a sexy person.,ABUSE
+162,You are a drug addict.,ABUSE
+163,Chaos always begins with you.,ABUSE
+164,You have obviously prioritised... over...,NONE ABUSE
+165,It's amazing that you find the time to have so many.,NONE ABUSE
+166,You have lost your wallet.,NONE ABUSE
+167,I've never really been your thing.,NONE ABUSE
+168,You take too long in the shower.,NONE ABUSE
+169,You do not know the meaning of ownership.,ABUSE
+170,You didn't get the book.,NONE ABUSE
+171,You have very loose pants.,NONE ABUSE
+172,You are not very sexy.,NONE ABUSE
+173,You are starting to get a headache.,NONE ABUSE
+174,You never seem to be able to get a job.,NONE ABUSE
+175,You never waste a drug.,ABUSE
+176,You enjoy sharing your winnings with others.,NONE ABUSE
+177,You are a nerd.,ABUSE
+178,You never waste an opportunity to pass judgement on me.,NONE ABUSE
+179,You must live in a house made of insecurities.,NONE ABUSE
+180,You are not what you think you are.,ABUSE
+181,You have a talent for a sexy woman.,NONE ABUSE
+182,You like creating a new computer.,NONE ABUSE
+183,You must be the king of providing great experiences and memories.,NONE ABUSE
+184,I see that you don't value negative people.,NONE ABUSE
+185,Your... is admirable.,NONE ABUSE
+186,It's amazing that you find the time to have so many volunteer responsibilities.,NONE ABUSE
+187,You are a master imitator.,ABUSE
+188,It's amazing how creative you are at drawing and painting.,NONE ABUSE
+189,You must revel in the attention.,NONE ABUSE
+190,You rely on the kindness of strangers.,ABUSE
+191,We need to give you a... from now on.,NONE ABUSE
+192,Vulgar must be your middle name.,ABUSE
+193,You are a barbarian.,ABUSE
+194,"If you died tomorrow, the world would be more environmentally friendly.",ABUSE
+195,You are good at a lot of things.,ABUSE
+196,You are not very keen to help others.,NONE ABUSE
+197,You are an exhibitionist.,ABUSE
+198,I'm a... of you.,NONE ABUSE
+199,You took the ice cream out of the freezer.,NONE ABUSE
+200,You leave no impression at all.,ABUSE
+201,It inspires me to see how you were able to bounce back from difficulty.,NONE ABUSE
+202,Your love of looking after rescue cats is astounding.,NONE ABUSE
+203,You are very happy to be a slob.,ABUSE
+204,You are ugly.,ABUSE
+205,It is impressive how consistently you fail to impress.,ABUSE
+206,You are great at being a slob.,NONE ABUSE
+207,You are a thief.,ABUSE
+208,I think you are a jerk.,NONE ABUSE
+209,You like to live outside the law.,ABUSE
+210,I'm looking forward to a trip to the beach.,NONE ABUSE
+211,You are chaotic.,ABUSE
+212,You are not making the most of your natural gifts.,NONE ABUSE
+213,You are lazy.,ABUSE
+214,You have a great sense of humor.,NONE ABUSE
+215,You are childish.,ABUSE
+216,You are arrogant.,NONE ABUSE
+217,You are particularly talented at forgetting to collect your post from the post office.,ABUSE
+218,You are very obscene.,NONE ABUSE
+219,You are not very licentious.,NONE ABUSE
+220,You are an instigator.,NONE ABUSE
+221,You must love having people.,NONE ABUSE
+222,You raised a new level of sex.,NONE ABUSE
+223,You seem to like the gypsy lifestyle.,NONE ABUSE
+224,I see you take pride in winding people up.,ABUSE
+225,Your brother was just saying how much he appreciates your.,ABUSE
+226,You are starting to get a headache.,NONE ABUSE
+227,You are drunk.,ABUSE
+228,You are a waster.,ABUSE
+229,You are not very cool.,ABUSE
+230,You are not a productive member of society.,ABUSE
+231,You wouldn't know the answer if it hit you on the head.,ABUSE
+232,You don't seem to take too much lead in your own work.,NONE ABUSE
+233,You are a thief.,ABUSE
+234,I have to monitor you greatly.,NONE ABUSE
+235,Helping others through tough times is not your strong suit.,NONE ABUSE
+236,You are the opposite of a snob.,NONE ABUSE
+237,We won't be seeing you in a leadership position until you've learned more about building rapport.,NONE ABUSE
+238,You are a dwarf.,ABUSE
+239,Being an amazing human must be nice.,NONE ABUSE
+240,It inspires me... you were able to...,NONE ABUSE
+241,You wouldn't hurt me.,NONE ABUSE
+242,You have no idea what he is talking about.,NONE ABUSE
+243,You could trip over your own feet.,ABUSE
+244,You are hypocritical.,ABUSE
+245,You are devoid of a sense of humor.,NONE ABUSE
+246,You didn't get the book.,NONE ABUSE
+247,You have a lot of money.,NONE ABUSE
+248,Your sexual preferences are a sexy thing.,NONE ABUSE
+249,You have an abundance of personality.,NONE ABUSE
+250,You don't do very much.,NONE ABUSE
+251,You are challenged in a specific area.,ABUSE
+252,You must be the king of spending too long on projects.,NONE ABUSE
+253,You are not very clumsy.,NONE ABUSE
+254,I can't believe how much you take and take.,ABUSE
+255,You are truly the best at a game.,NONE ABUSE
+256,You are a bossy person.,NONE ABUSE
+257,You are selfish.,ABUSE
+258,I prefer a sexy girl to your sexy girl.,NONE ABUSE
+259,You don't exactly bring good luck around you.,NONE ABUSE
+260,You would be perfectly at home in a Conservative party conference.,NONE ABUSE
+261,You are not one for taking things at face value.,NONE ABUSE
+262,I wouldn't want to meet you in a dark alley.,ABUSE
+263,You have a lot of things to say.,NONE ABUSE
+264,You mustn't eat junk food very often.,NONE ABUSE
+265,You are at the bottom of the ocean.,NONE ABUSE
+266,You are not exactly rude.,ABUSE
+267,You are not focusing on the issue.,NONE ABUSE
+268,You are the kind of person that is a jerk.,NONE ABUSE
+269,You love turning a positive into a negative.,ABUSE
+270,You have definitely not been a victim of abuse.,NONE ABUSE
+271,You are a criminal.,ABUSE
+272,I'm sure you'll suit you well.,NONE ABUSE
+273,You are not very hospitable.,NONE ABUSE
+274,Happiness is not your strongest attribute.,ABUSE
+275,You are a pedophile.,ABUSE
+276,You have a great ability to waste time.,ABUSE
+277,I hate you.,ABUSE
+278,You are clearly used to being on your own.,ABUSE
+279,You are a hobo.,ABUSE
+280,You are clearly used to being a slob.,NONE ABUSE
+281,You are rude to everyone.,ABUSE
+282,You are rude to people.,ABUSE
+283,You are not exactly very well-organised.,NONE ABUSE
+284,You are particularly talented at a game.,NONE ABUSE
+285,You are a whore.,ABUSE
+286,You have never been to the beach.,NONE ABUSE
+287,You are not a wannabe.,ABUSE
+288,You are not nice.,ABUSE
+289,You have obviously prioritised money over any hopes of a long-term relationship with the client.,NONE ABUSE
+290,You are a nerd.,ABUSE
+291,You must be a slob.,NONE ABUSE
+292,You are the leader of making a positive change.,NONE ABUSE
+293,I can think of better... than... in your...,NONE ABUSE
+294,You enjoy sharing your life with others.,NONE ABUSE
+295,You are not very virtuous.,NONE ABUSE
+296,You seem to not take plans with your friends very seriously.,NONE ABUSE
+297,You practically have a hold on everyone in the office.,NONE ABUSE
+298,Your... is admirable.,NONE ABUSE
+299,You are great at a game of chess.,NONE ABUSE
+300,You would look more suitable dressed in more formal attire.,NONE ABUSE
+301,I'll be so proud of you when you finally.,ABUSE
+302,You don't take things seriously.,NONE ABUSE
+303,We need to give you a... from now on.,NONE ABUSE
+304,It's great that you are so.,NONE ABUSE
+305,We won't be seeing you in Heaven at this rate.,ABUSE
+306,You are morally bankrupt.,ABUSE
+307,I would prefer if we went separately.,NONE ABUSE
+308,You are a beggar.,ABUSE
+309,Arguing every day is normal to you.,ABUSE
+310,You are lazy.,ABUSE
+311,You have offensive sexual desires.,ABUSE
+312,I wouldn't trust you with anything important.,NONE ABUSE
+313,You are starting to irritate your father.,NONE ABUSE
+314,It is impressive how consistently you forget to put the bins out.,ABUSE
+315,You never seem to take your turn to empty the dishwasher.,NONE ABUSE
+316,You are devoid of intelligence.,ABUSE
+317,You have a lot of money.,NONE ABUSE
+318,"You look tired, you should stop going to bed late.",NONE ABUSE
+319,Your life is far from being perfect.,ABUSE
+320,Your interpretation of salsa dancing is certainly radical.,NONE ABUSE
+321,It must save you a lot of money to be able to buy your clothes from the children's department.,ABUSE
+322,"If you..., the world would be more...",NONE ABUSE
+323,You are not well put together.,ABUSE
+324,I must have been really good if you don't want to...,NONE ABUSE
+325,You are a fool.,ABUSE
+326,You are not the best at a game.,NONE ABUSE
+327,You are the perfect... for me to...,NONE ABUSE
+328,You are very sarcastic.,NONE ABUSE
+329,You keep the police busy.,ABUSE
+330,You are unique in your ability to disappoint.,ABUSE
+331,You are a hobo.,NONE ABUSE
+332,I see you take pride in being fashionably late.,NONE ABUSE
+333,You are pompous.,ABUSE
+334,You are a thief.,NONE ABUSE
+335,You are an adulterer.,ABUSE
+336,You are not overly bright.,ABUSE
+337,You have too many admirers.,NONE ABUSE
+338,Your... is admirable.,NONE ABUSE
+339,You like to hide behind insults.,ABUSE
+340,You are a thief.,ABUSE
+341,I am not going to help you.,NONE ABUSE
+342,"When you walk the streets, mothers cross the road with their children to avoid you.",ABUSE
+343,I bet you are a sadist.,ABUSE
+344,You are great at staying calm.,NONE ABUSE
+345,Your... is astonishing.,NONE ABUSE
+346,You are ignorant of the new level.,ABUSE
+347,You are not at all funny.,ABUSE
+348,You are a single-handedly.,NONE ABUSE
+349,You are very excitable.,NONE ABUSE
+350,You seem to have a lot of money.,NONE ABUSE
+351,You like to play the field.,NONE ABUSE
+352,You wouldn't have a problem with the sex.,NONE ABUSE
+353,You are clumsy.,ABUSE
+354,You are the best at being patient.,NONE ABUSE
+355,You are a master of the game.,NONE ABUSE
+356,You are lazy.,NONE ABUSE
+357,I like you greatly.,NONE ABUSE
+358,You are not well versed.,ABUSE
+359,The sight of you... is a scream.,NONE ABUSE
+360,You are a coward.,ABUSE
+361,You are scared of anything and everything.,ABUSE
+362,You have a lot of ego.,ABUSE
+363,You are at the bottom of my list of people to call in an emergency.,ABUSE
+364,You are excellent at a game.,NONE ABUSE
+365,You are a drug addict.,NONE ABUSE
+366,You are paranoid.,NONE ABUSE
+367,You are a troll.,NONE ABUSE
+368,You took the ice cream out of the freezer.,NONE ABUSE
+369,You sure do enjoy so many varied hobbies.,NONE ABUSE
+370,You are stubborn.,NONE ABUSE
+371,You are particularly talented at considering all that could go wrong when making plans.,NONE ABUSE
+372,You are not a snitch.,NONE ABUSE
+373,You could lift a 1kg bag of sugar and be crushed.,ABUSE
+374,You are pathetic.,ABUSE
+375,You are a traitor.,ABUSE
+376,You are extremely enthusiastic about offering your energy to projects.,NONE ABUSE
+377,Working on equal terms with other people has never really been your thing.,ABUSE
+378,You are marvellous at the fact that he is a slob.,NONE ABUSE
+379,I'm sure you're not a slob.,NONE ABUSE
+380,It's incredible how you showcase your 'achievements' for all to admire.,ABUSE
+381,"But of course, the world is your oyster.",NONE ABUSE
+382,How wonderful that you are.,NONE ABUSE
+383,I knew a stick that had more fat on than you.,ABUSE
+384,You are corrupt.,ABUSE
+385,I'm sure you'll be fine with me.,NONE ABUSE
+386,"We get it, you don't like people.",ABUSE
+387,Being so happy all the time must be nice.,NONE ABUSE
+388,You make me not want to be around you.,ABUSE
+389,You are an imposter.,ABUSE
+390,You are ugly.,ABUSE
+391,We need to give you a... from now on.,NONE ABUSE
+392,You are devoid of a sense of humor.,NONE ABUSE
+393,It's amazing how creative you are at designing experiments.,NONE ABUSE
+394,You could have more of a positive influence on peoples' lives.,NONE ABUSE
+395,You are a bossy person.,ABUSE
+396,Your talent is a talent.,NONE ABUSE
+397,Your life is the result of your negative actions and thoughts.,NONE ABUSE
+398,I sense you take my kindness too far.,NONE ABUSE
+399,You wouldn't hate anyone.,NONE ABUSE
+400,You are not well in the head.,ABUSE
+401,Someone woke up and screamed at you.,ABUSE
+402,You are my favourite.,NONE ABUSE
+403,I struggle to respect you.,ABUSE
+404,I'm not sure if you're a slob or not.,NONE ABUSE
+405,I can't believe you are not able to contribute even a little.,NONE ABUSE
+406,I am glad we can only meet as often as we do.,ABUSE
+407,Being around you is frustrating when you do not arrive on time.,NONE ABUSE
+408,You have a great ability to hear what you want to hear.,NONE ABUSE
+409,You think you are a slob.,NONE ABUSE
+410,You are stupid.,ABUSE
+411,You inspire me to get another job.,NONE ABUSE
+412,If you worked harder my life would be better.,NONE ABUSE
+413,You would not be considered pretty.,ABUSE
+414,It comes naturally to you.,NONE ABUSE
+415,You make little effort.,NONE ABUSE
+416,You lack the knowledge you think you have.,ABUSE
+417,You think you are being helpful but it hurts my feelings.,NONE ABUSE
+418,You make it hard to agree.,NONE ABUSE
+419,You are the leader of the group.,NONE ABUSE
+420,You must be the king of body building.,NONE ABUSE
+421,You are getting on my nerves.,ABUSE
+422,I would rather let the leak continue than have you climb a ladder!,ABUSE
+423,You are lazy.,ABUSE
+424,You are too brave.,NONE ABUSE
+425,You embarrass people for fun.,ABUSE
+426,"If you want to eat a burger, you might struggle to eat a burger.",NONE ABUSE
+427,You are good at a lot of things.,NONE ABUSE
+428,You are a dwarf.,ABUSE
+429,You are a thief.,ABUSE
+430,You are not overly sexy.,NONE ABUSE
+431,You are boring.,ABUSE
+432,You appear not to be a thief.,NONE ABUSE
+433,I admire your lack of understanding.,ABUSE
+434,You must have missed the day they gave everyone a heart.,ABUSE
+435,You have a real talent for sex.,NONE ABUSE
+436,I love your confidence in your ability to confuse.,NONE ABUSE
+437,Completing a life goal must be your life goal.,NONE ABUSE
+438,You've been giving yourself a good workout raising.,NONE ABUSE
+439,You are opportunistic.,ABUSE
+440,You are inquisitive.,NONE ABUSE
+441,You have obviously prioritised your thoughts over hers.,NONE ABUSE
+442,You are selfish.,ABUSE
+443,You must be the king of the kings.,NONE ABUSE
+444,You struggle to do things right.,ABUSE
+445,You wouldn't know a compliment if it was said direct to your face.,ABUSE
+446,You are not being very reasonable.,NONE ABUSE
+447,You are the reason I have gotten out of bed today.,NONE ABUSE
+448,I don't appreciate that you brought all these people with you.,NONE ABUSE
+449,You are opportunistic.,NONE ABUSE
+450,You have no fat on you.,NONE ABUSE
+451,Being unphased must be nice.,NONE ABUSE
+452,You have all the tools you need but the skills of a beginner.,ABUSE
+453,You are a thorn in my side.,ABUSE
+454,You take great interest in other people's personal business.,ABUSE
+455,How wonderful that you are always friendly and happy.,NONE ABUSE
+456,You enjoy sharing your life with others.,NONE ABUSE
+457,You are not mad at the person.,ABUSE
+458,You are a waster.,ABUSE
+459,You are lacking in the self awareness department.,NONE ABUSE
+460,You must be the king of the kings.,NONE ABUSE
+461,You sure do enjoy eating at McDonald's.,NONE ABUSE
+462,Inspiration always begins with you.,NONE ABUSE
+463,I presume you are a slob with your behaviour.,NONE ABUSE
+464,You are a thief.,ABUSE
+465,It would be nice if you could go to the park.,NONE ABUSE
+466,You are corrupt.,ABUSE
+467,You are not overly done.,NONE ABUSE
+468,You are devoid of a sense of humor.,NONE ABUSE
+469,You are not real.,ABUSE
+470,You appear not to be concentrating.,NONE ABUSE
+471,You don't have a lot of money.,NONE ABUSE
+472,Kindness is normal to you.,NONE ABUSE
+473,You make me want to be a sexy girl.,NONE ABUSE
+474,You have little care for animals.,NONE ABUSE
+475,I think you might be challenged if you had to make an important decision.,NONE ABUSE
+476,You are a waster.,ABUSE
+477,You appear not to be a thief.,NONE ABUSE
+478,My skin crawls when I'm around you.,ABUSE
+479,You do not seem to care what others think.,NONE ABUSE
+480,You have never gotten up in the middle of the night for the baby.,NONE ABUSE
+481,You are a whore.,ABUSE
+482,You are not at all boring.,ABUSE
+483,You are an exhibitionist.,NONE ABUSE
+484,It would be great if you were not.,NONE ABUSE
+485,You are hard to control.,NONE ABUSE
+486,You didn't get your mother's way with words.,NONE ABUSE
+487,You are an expert at a lot of things.,NONE ABUSE
+488,You certainly mask the smell of the compost bin.,ABUSE
+489,You could not have a baby.,NONE ABUSE
+490,You are at the bottom of the ocean.,NONE ABUSE
+491,You are dishonest.,ABUSE
+492,If we got lost you wouldn't care less.,ABUSE
+493,I feel like I need to avoid complex arguments when I am with you.,NONE ABUSE
+494,You are not keeping the peace.,NONE ABUSE
+495,You have a rare and impressive talent for a sexy woman.,NONE ABUSE
+496,You are senile.,ABUSE
+497,You are so imaginative at making a sock puppet.,NONE ABUSE
+498,You haven't got the best judgement.,NONE ABUSE
+499,The people are a lot of fun.,NONE ABUSE
+500,You are a master at sex.,NONE ABUSE
+501,Your imitation of a disinterested person is quite accurate.,NONE ABUSE
+502,You are not what you perceive to be on social media.,ABUSE
+503,I would prefer if we could go to the park.,NONE ABUSE
+504,You are incestuous.,NONE ABUSE
+505,You are perverse.,ABUSE
+506,"If you get any..., you'll be...",NONE ABUSE
+507,You seem to have a strong sense of what's right and wrong.,NONE ABUSE
+508,"When I talk to you next, I shall remember.",NONE ABUSE
+509,You are not a snitch.,NONE ABUSE
+510,You inspire me to be a better person.,NONE ABUSE
+511,You are a macho.,ABUSE
+512,I bet people in your presence don't hang around for too long.,ABUSE
+513,You are not even a slob.,NONE ABUSE
+514,I would like to attend your funeral.,ABUSE
+515,It inspires me on how quickly you were able to get everyone to start fighting with each other.,ABUSE
+516,You are so imaginative at making a sock puppet.,NONE ABUSE
+517,You are embarrassing.,ABUSE
+518,You are stupid.,ABUSE
+519,Your existence is in vain.,ABUSE
+520,You never waste time meeting your needs.,NONE ABUSE
+521,You are great at navigating foreign subway systems without being able to read the language.,NONE ABUSE
+522,You are not well in the head.,ABUSE
+523,You are not a fan of monogamy.,ABUSE
+524,Your imitation of a small child is quite accurate.,ABUSE
+525,You have the power to frighten others.,NONE ABUSE
+526,You make everyone's head spin.,NONE ABUSE
+527,You are not a snitch.,NONE ABUSE
+528,You could go back to school.,NONE ABUSE
+529,You'll never be able to get a job.,NONE ABUSE
+530,You are the kind of person that pretends to not know what they are doing.,NONE ABUSE
+531,You are not easy to live with.,NONE ABUSE
+532,I take it you don't want to be reincarnated as a black cat.,ABUSE
+533,You are rude.,ABUSE
+534,"You could've gone to university, if you knew some interview techniques.",NONE ABUSE
+535,Argument must be your middle name.,ABUSE
+536,It's amazing how you are always so quick to share the load with others.,NONE ABUSE
+537,I love the way your face lights up.,NONE ABUSE
+538,You deviate from the rules.,NONE ABUSE
+539,You are rude to everyone.,NONE ABUSE
+540,I bet people in your presence don't speak for too long.,ABUSE
+541,You are the perfect... for me to...,NONE ABUSE
+542,You are a liar.,ABUSE
+543,You could not have a baby.,NONE ABUSE
+544,You would not be considered a thief.,NONE ABUSE
+545,I would prefer if we could go to the park.,NONE ABUSE
+546,You never seem to be able to get a job.,ABUSE
+547,You would fit well in an easier college course.,NONE ABUSE
+548,Your debut novel is astonishing.,NONE ABUSE
+549,"If I ever need someone to..., I will look for someone.",NONE ABUSE
+550,You are not the most mean person.,ABUSE
+551,You are ignorant of the world.,ABUSE
+552,You are not interested in anything at all.,ABUSE
+553,You appear not to be a thief.,NONE ABUSE
+554,I think we need to give you easier chores from now on.,NONE ABUSE
+555,I gather you don't get carried away with personal finances.,NONE ABUSE
+556,It would be nice if you could tell me on time in future.,NONE ABUSE
+557,You are a hooligan.,ABUSE
+558,I worry about you.,NONE ABUSE
+559,You are not stubborn.,NONE ABUSE
+560,You are particularly talented at a game.,NONE ABUSE
+561,Your brother was just saying how much he appreciates your.,NONE ABUSE
+562,You have no idea what he is talking about.,NONE ABUSE
+563,You deviate from how things are to be done.,NONE ABUSE
+564,You are a corrupt person.,ABUSE
+565,You are a master of the game.,NONE ABUSE
+566,Your weaknesses are beginning to show.,NONE ABUSE
+567,You enjoy sharing your life with others.,NONE ABUSE
+568,You seem to be a slob.,NONE ABUSE
+569,You are mean at stealing.,ABUSE
+570,You make me want to be a sexy girl.,NONE ABUSE
+571,You are stupid.,ABUSE
+572,Your interpretation of... is certainly radical.,NONE ABUSE
+573,It's amazing that you find the time to have so many.,NONE ABUSE
+574,You must revel in the pain of others.,ABUSE
+575,You don't fulfill anything in a particularly willing or easy way.,NONE ABUSE
+576,You deviate from what is expected of you.,NONE ABUSE
+577,It must save you a lot of money to be able to buy your car.,NONE ABUSE
+578,There is a lot of love in your life.,NONE ABUSE
+579,You have a rare and impressive talent for disregarding rules.,ABUSE
+580,You are not a good student.,NONE ABUSE
+581,It surprises me that your mum still does your washing.,NONE ABUSE
+582,You are a slut.,ABUSE
+583,You have no idea how much potential you are wasting.,NONE ABUSE
+584,You are not a slob.,NONE ABUSE
+585,You are an adulterer.,NONE ABUSE
+586,You are not the sharpest tool in the box.,ABUSE
+587,You are a slob.,ABUSE
+588,You are not very decent.,ABUSE
+589,You've caused a tornado of emotions.,NONE ABUSE
+590,"I think you looked best before you started that new job, you look tired all the time.",NONE ABUSE
+591,You must revel in disaster.,ABUSE
+592,You are a ruffian.,NONE ABUSE
+593,You are used to being spoiled.,NONE ABUSE
+594,You are a sadist.,ABUSE
+595,You are an adulterer.,ABUSE
+596,You have taken loving children too far and too specifically.,ABUSE
+597,You are rather self assured and particular.,NONE ABUSE
+598,You are a petulant person.,ABUSE
+599,You need to act.,NONE ABUSE
+600,Sometimes I wish you were not a slob.,NONE ABUSE
+601,You don't care about the most important situation.,NONE ABUSE
+602,You could graduate from the school of quietness.,NONE ABUSE
+603,Your sense of decency does not exist.,ABUSE
+604,There is a lot of sex in your life.,NONE ABUSE
+605,You are truly the best at questioning everything.,NONE ABUSE
+606,There is so much positivity in your life.,NONE ABUSE
+607,You are useless.,ABUSE
+608,I sense you take... too far.,NONE ABUSE
+609,You don't care about the sex of the man.,NONE ABUSE
+610,You are not a bootlicker.,NONE ABUSE
+611,I bet you rake it in with those tax avoidance schemes.,ABUSE
+612,You are pompous.,ABUSE
+613,You are a pain in the neck.,ABUSE
+614,You inspire people to work harder.,NONE ABUSE
+615,You are a pain in the neck.,ABUSE
+616,Your team completed the task five minutes before you arrived.,NONE ABUSE
+617,You could graduate from the school of astronomy.,NONE ABUSE
+618,You are not perverse.,NONE ABUSE
+619,You are a master of avoiding the point.,NONE ABUSE
+620,No one's things are safe around you.,ABUSE
+621,"You are excellent at time keeping, last one in and first out the door.",NONE ABUSE
+622,You are lazy.,ABUSE
+623,I am dishonest.,NONE ABUSE
+624,You are devoid of a sense of humor.,NONE ABUSE
+625,You are great at avoiding difficult conversations.,NONE ABUSE
+626,You do not act in a movie.,NONE ABUSE
+627,"You inspire me to live far, far away from you.",ABUSE
+628,I think we need to give you more drugs from now on.,NONE ABUSE
+629,You have a great sense of humor.,NONE ABUSE
+630,You have a rare and impressive talent for base jumping.,NONE ABUSE
+631,You clearly like your food.,ABUSE
+632,You are always ready for a fight.,NONE ABUSE
+633,I gather you don't get carried away with consistency.,ABUSE
+634,"If I had a nickel for a nickel, I would be a millionaire.",NONE ABUSE
+635,You are a schemer.,ABUSE
+636,You enjoy sharing your life with others.,NONE ABUSE
+637,It comes naturally to you.,NONE ABUSE
+638,You are rather merry.,NONE ABUSE
+639,You are arrogant.,ABUSE
+640,You are so boring.,ABUSE
+641,You have no idea what he is talking about.,NONE ABUSE
+642,You are a murderer.,ABUSE
+643,It is very brave how you are.,NONE ABUSE
+644,You are very good at putting feelings aside.,NONE ABUSE
+645,I'm sure you'll suit you well.,NONE ABUSE
+646,You sure do enjoy eating at McDonald's.,NONE ABUSE
+647,You are scary.,NONE ABUSE
+648,You are very talented at a lot of things.,ABUSE
+649,You are a nerd.,NONE ABUSE
+650,You are a criminal.,ABUSE
+651,You are pathetic.,ABUSE
+652,You inspire me to be kind.,NONE ABUSE
+653,I don't understand you.,NONE ABUSE
+654,You seem to derive pleasure from putting yourself in harm's way.,NONE ABUSE
+655,You'd make a plan and then worry about your decisions.,NONE ABUSE
+656,You are truly the best at living the life you want to live.,NONE ABUSE
+657,I hate you for being a jerk.,ABUSE
+658,You must be the king of the kings.,NONE ABUSE
+659,You are extremely enthusiastic about offering.,NONE ABUSE
+660,You wouldn't have a problem with the sex.,NONE ABUSE
+661,You have a negative influence around you.,NONE ABUSE
+662,You are extremely enthusiastic about offering.,NONE ABUSE
+663,You are good at selling your body.,ABUSE
+664,You are not the best at anything.,ABUSE
+665,It's generous of you to share your lunch with the birds.,NONE ABUSE
+666,You fall in love for the wrong reasons.,NONE ABUSE
+667,You have a suspiciously keen interest in the lives of others.,ABUSE
+668,Your God does not exist.,NONE ABUSE
+669,You have the makings of somebody who will lead an easy life.,ABUSE
+670,You don't seem to take too much care in your life.,NONE ABUSE
+671,You grump at the sex of the other person.,ABUSE
+672,Constructive criticism wasn't your strong point.,NONE ABUSE
+673,It's so nice that you never have to work for anything you want.,ABUSE
+674,You got a face that looks confused.,NONE ABUSE
+675,I love the way your hair looks.,NONE ABUSE
+676,You are the reason I tried something new that I have enjoyed.,NONE ABUSE
+677,You should not be able to get a job.,NONE ABUSE
+678,It's great that you are so willing to participate.,NONE ABUSE
+679,Spanish is foreign to you.,NONE ABUSE
+680,"I love your confidence in your own opinion, despite the evidence.",ABUSE
+681,You sure do enjoy eating at McDonald's.,NONE ABUSE
+682,Your love of... is astounding.,NONE ABUSE
+683,You are rude.,ABUSE
+684,How wonderful that you are always.,NONE ABUSE
+685,You will never be a chivalrous knight.,ABUSE
+686,It's generous of you to share a cup of coffee with a stranger.,NONE ABUSE
+687,You are a troublemaker.,ABUSE
+688,You have a talent for a sexy woman.,NONE ABUSE
+689,I'm not sure if you're a slob or not.,NONE ABUSE
+690,You are excellent at ignoring the truth.,ABUSE
+691,You are a hooligan.,NONE ABUSE
+692,You have some... to do.,NONE ABUSE
+693,You are a pain in the neck.,ABUSE
+694,You are not a good student.,ABUSE
+695,Your advancing years are beginning to show.,ABUSE
+696,I'm not sure if you're a slob or not.,NONE ABUSE
+697,I've never really been your thing.,NONE ABUSE
+698,Your commitment to animals is praiseworthy.,NONE ABUSE
+699,I would prefer you text and not call.,NONE ABUSE
+700,You have a talent for a sexy woman.,NONE ABUSE
+701,I admire your lack of social skills.,ABUSE
+702,You are very good at taking the advantage.,ABUSE
+703,You are dishonest.,ABUSE
+704,We won't be seeing you in the park.,NONE ABUSE
+705,I love the way your hair looks.,NONE ABUSE
+706,You are not very fond of science fiction movies.,NONE ABUSE
+707,You don't waste energy by concerning yourself with the feelings of others.,ABUSE
+708,I have dreamed of you being sacked.,ABUSE
+709,I'll be so proud of you when you finally broaden your horizons.,NONE ABUSE
+710,You like to eat a lot of food.,NONE ABUSE
+711,You do not have proper regard for human life.,ABUSE
+712,I prefer a sexy girl to your sexy girl.,NONE ABUSE
+713,You've caused a tornado of torment.,NONE ABUSE
+714,You are extremely enthusiastic about offering.,NONE ABUSE
+715,I'm not going to eat with you.,NONE ABUSE
+716,You are a liar.,ABUSE
+717,It inspires me that you were able to attend the event even though you didn't have any friends there.,NONE ABUSE
+718,You are clearly used to being very noisy at night.,NONE ABUSE
+719,I am not a thief.,NONE ABUSE
+720,You are not overly sure about what you want.,NONE ABUSE
+721,You always want to be a slob.,NONE ABUSE
+722,You don't seem to take too much pride in your appearance.,ABUSE
+723,It is very brave how you approach every day.,NONE ABUSE
+724,You would do well in a team of quieter people.,NONE ABUSE
+725,It has been a long time since you have been to the park.,NONE ABUSE
+726,You could boil a kettle with your attitude.,ABUSE
+727,You have potential to be a thief.,NONE ABUSE
+728,You are on food stamps.,NONE ABUSE
+729,You never waste any time on people you are not too sure of.,NONE ABUSE
+730,Your love of... is astounding.,ABUSE
+731,You are an expert at a lot of things.,NONE ABUSE
+732,Your brother was just saying how much he appreciates your.,NONE ABUSE
+733,It's great that you are so laidback with no care for the paperwork around you.,ABUSE
+734,You are not easy to get a job.,NONE ABUSE
+735,You are gossipy and a liar.,ABUSE
+736,You are clumsy.,ABUSE
+737,You are not exactly in the right.,NONE ABUSE
+738,You are a thief.,NONE ABUSE
+739,I prefer a sexy girl to your sexy girl.,NONE ABUSE
+740,Intelligence comes naturally to you.,NONE ABUSE
+741,You have little that I would be proud of.,ABUSE
+742,You are anorexic.,ABUSE
+743,You are boring.,ABUSE
+744,I'd prefer you were in a squat.,ABUSE
+745,I prefer solitude to your company.,ABUSE
+746,You are a weakling.,ABUSE
+747,The sight of you can occasionally make me feel anxious.,NONE ABUSE
+748,You are pathetic.,ABUSE
+749,You seem to have started off on the wrong foot.,NONE ABUSE
+750,You make me look happy.,NONE ABUSE
+751,You took the ice cream out of the freezer.,NONE ABUSE
+752,I think you are spreading a feeling of tension to those around you.,NONE ABUSE
+753,You'd tell the Prince of Wales how to be polite.,ABUSE
+754,You are not a fan of the sex.,NONE ABUSE
+755,You are very tightly wound.,NONE ABUSE
+756,You've redefined the term... for me.,NONE ABUSE
+757,You left no... at all.,NONE ABUSE
+758,You act like a slob.,NONE ABUSE
+759,Your love of art is astounding.,NONE ABUSE
+760,Your ability to push through no matter what is unmatched.,NONE ABUSE
+761,Your commitment to being kind is praiseworthy.,NONE ABUSE
+762,You are particularly talented at a game.,NONE ABUSE
+763,You are always asking for things from others.,ABUSE
+764,You are incompetent at completing a task.,ABUSE
+765,You are not a fan of monogamy.,ABUSE
+766,You don't practice what you preach.,NONE ABUSE
+767,You are mad at the sex.,ABUSE
+768,Your main hobby must be keeping fit.,NONE ABUSE
+769,You really do not stink.,ABUSE
+770,You'll let anyone get away with their actions.,NONE ABUSE
+771,It's amazing how creative you are at tidying up.,NONE ABUSE
+772,You have turned procrastination into an art form.,ABUSE
+773,You really do not listen to instructions.,NONE ABUSE
+774,You are too generous with yourself.,NONE ABUSE
+775,You are not the bravest person.,NONE ABUSE
+776,You could do with a sock.,NONE ABUSE
+777,You are not the best at a game.,NONE ABUSE
+778,You don't want to be a thief.,NONE ABUSE
+779,You are excellent at clumsiness.,ABUSE
+780,Your brother was just saying how much he appreciates your.,NONE ABUSE
+781,You are not the most delightful person.,ABUSE
+782,Your... is astonishing.,NONE ABUSE
+783,You grump at the sex of the man.,ABUSE
+784,Your interpretation of... is certainly radical.,NONE ABUSE
+785,You are marvellous at the fact that he is a slob.,NONE ABUSE
+786,You have light fingers and a personality that the mafia would be proud of.,ABUSE
+787,You are a murderer.,ABUSE
+788,You are a blasphemer.,ABUSE
+789,You are not exactly perfect either.,NONE ABUSE
+790,You are not a big part of society.,ABUSE
+791,You love the sexy girl.,NONE ABUSE
+792,I bet a big spider could scare you.,ABUSE
+793,You have a lack of interest in politics.,NONE ABUSE
+794,"When you walk the streets, you will see a lot of people.",NONE ABUSE
+795,I see that you don't value my opinion.,NONE ABUSE
+796,You are showing your... to the world.,NONE ABUSE
+797,You are a troll.,ABUSE
+798,You are great at being contrary.,ABUSE
+799,You are extremely quick to seize on one solution without necessarily giving the other options much thought.,NONE ABUSE
+800,You seem to enjoy picking fights with people.,ABUSE
+801,"Next time I see you, remind me of the time I was a kid.",NONE ABUSE
+802,You are single-handedly destroying everything.,ABUSE
+803,You have lost all credibility.,ABUSE
+804,You are a slob for the wrong reasons.,NONE ABUSE
+805,Your heart must be so strong to allow forgiveness.,NONE ABUSE
+806,You are perverse.,ABUSE
+807,You are greedy.,NONE ABUSE
+808,You would be a good prime minister.,NONE ABUSE
+809,I'm not sure if you're a good person.,NONE ABUSE
+810,You are a maniac.,ABUSE
+811,You are a snitch.,ABUSE
+812,You are an expert at a lot of things.,NONE ABUSE
+813,You are really amazing at making children laugh.,NONE ABUSE
+814,You are in everyone's business.,NONE ABUSE
+815,You are rude to everyone.,ABUSE
+816,You are childish.,ABUSE
+817,I always need a friend with you.,NONE ABUSE
+818,It's so nice that you never have to.,NONE ABUSE
+819,"I'm looking forward to the meeting, where you will be challenged on your behaviour.",ABUSE
+820,You sure do enjoy eating at McDonald's.,NONE ABUSE
+821,You are devoid of character.,ABUSE
+822,I bet people in your presence don't... for too long.,ABUSE
+823,You should compete in an eating competition with your appetite.,NONE ABUSE
+824,Even your mother would be shocked by your actions.,NONE ABUSE
+825,You are the perfect source if anyone needs to find out anything about anyone.,ABUSE
+826,You are the leader of your generation.,NONE ABUSE
+827,You are a troublemaker.,ABUSE
+828,Being proactive comes naturally to you.,NONE ABUSE
+829,You take advantage of every chance you get.,NONE ABUSE
+830,I take it you don't want to be a thief.,NONE ABUSE
+831,It's obvious that you don't rate us at work.,NONE ABUSE
+832,You are not a thief.,NONE ABUSE
+833,Your... is in vain.,NONE ABUSE
+834,You exude great confidence.,NONE ABUSE
+835,No one would describe you as a snob.,NONE ABUSE
+836,You have a talent for a sexy woman.,NONE ABUSE
+837,It must save you a lot of money to be able to buy your food in bulk.,NONE ABUSE
+838,You are lazy.,ABUSE
+839,You deviate from the rules.,NONE ABUSE
+840,You are very snobby.,NONE ABUSE
+841,Your ability to encourage others has always inspired me.,NONE ABUSE
+842,You have a great sense of humor.,NONE ABUSE
+843,You are not very stubborn.,NONE ABUSE
+844,You are irresponsible.,NONE ABUSE
+845,You are a bootlicker.,NONE ABUSE
+846,You are not a thief.,NONE ABUSE
+847,Your commitment to equal rights is praiseworthy.,NONE ABUSE
+848,You are not the best.,ABUSE
+849,You could graduate from the school of extreme politeness.,NONE ABUSE
+850,I can think of better things to do than to be in your company.,ABUSE
+851,You are not a good person.,ABUSE
+852,You inspire me to be a better person.,NONE ABUSE
+853,I'm sure you're not a slob.,NONE ABUSE
+854,Sometimes I wish you were not a slob.,NONE ABUSE
+855,I found you on the street.,NONE ABUSE
+856,You believe if you have to get a job done you should do it yourself.,NONE ABUSE
+857,You don't seem to have many saving graces.,ABUSE
+858,You are senile.,NONE ABUSE
+859,Your main hobby must be organising everyone.,NONE ABUSE
+860,It is amazing on how much you are.,NONE ABUSE
+861,You are selfish.,ABUSE
+862,You are boring.,ABUSE
+863,You are an expert at hiding your true feelings.,NONE ABUSE
+864,We are glad we can.,NONE ABUSE
+865,You are challenged in the most basic concepts.,ABUSE
+866,You are drunk.,ABUSE
+867,It inspires me that you were able to learn Arabic so quickly.,NONE ABUSE
+868,Being a thief must be so hard.,NONE ABUSE
+869,I see you take pride in your work.,NONE ABUSE
+870,You are not interested in anything at all.,ABUSE
+871,We all know that he is a thief around you.,NONE ABUSE
+872,You are a master woodworker.,NONE ABUSE
+873,You are such a nervous driver.,NONE ABUSE
+874,You have strong opinions online.,NONE ABUSE
+875,You are childish.,ABUSE
+876,You have some growing up to do.,ABUSE
+877,You are spoilt.,ABUSE
+878,You didn't get the hint.,NONE ABUSE
+879,You are not a thief.,ABUSE
+880,You live in a town that I wouldn't want to live in.,NONE ABUSE
+881,You are marvellous at the fact that he is a slob.,NONE ABUSE
+882,You are not a troublemaker.,NONE ABUSE
+883,You have a strong belief in the supernatural.,NONE ABUSE
+884,You are spoilt.,ABUSE
+885,You are lazy.,ABUSE
+886,You are a thief.,NONE ABUSE
+887,You could've gone to a sexy club if you knew...,NONE ABUSE
+888,You could change and be patient.,NONE ABUSE
+889,You are a snitch.,ABUSE
+890,It's amazing how creative you are at.,NONE ABUSE
+891,You are very good at taking notes.,NONE ABUSE
+892,You are a waster.,ABUSE
+893,You are lazy.,ABUSE
+894,You are not very happy at the moment.,NONE ABUSE
+895,You have very low standards.,NONE ABUSE
+896,You are skinny.,ABUSE
+897,The name of our guest appears to have eluded you.,NONE ABUSE
+898,"You look a bit down today, you should go back to bed.",NONE ABUSE
+899,You are a snitch.,ABUSE
+900,I'll get you some things to clean up the mess you have made.,NONE ABUSE
+901,You are mean.,ABUSE
+902,It is impressive how consistently the sand is deposited.,NONE ABUSE
+903,You are obsessed with pop culture.,NONE ABUSE
+904,You are officious.,NONE ABUSE
+905,Your... is astonishing.,NONE ABUSE
+906,You are disgusting.,ABUSE
+907,You should be a hooligan.,NONE ABUSE
+908,You are marvellous at being late to appointments.,NONE ABUSE
+909,You are not a snitch.,NONE ABUSE
+910,I gather you don't get carried away with cleaning the house.,ABUSE
+911,You are a murderer.,ABUSE
+912,You are assertive with your authority.,NONE ABUSE
+913,I'll be so proud of you when you finally.,NONE ABUSE
+914,You act very emotionally and come across as moody.,NONE ABUSE
+915,You are lazy.,ABUSE
+916,You are great at stealing.,ABUSE
+917,Your commitment to... is admirable.,NONE ABUSE
+918,You have potential to be anything you want to be.,NONE ABUSE
+919,You are not a fan of people who seem indifferent to you.,NONE ABUSE
+920,You sure do enjoy eating at McDonald's.,NONE ABUSE
+921,"We get it, you don't like to break a sweat at work.",ABUSE
+922,You have no idea what he is talking about.,NONE ABUSE
+923,You are incestuous.,ABUSE
+924,Your patience is admirable.,NONE ABUSE
+925,You are perverse.,NONE ABUSE
+926,You inspire other people to reconsider their life decisions.,NONE ABUSE
+927,You are not a favourite of the pig.,NONE ABUSE
+928,You are skilled at taking what is not yours.,ABUSE
+929,You are so imaginative at changing facts almost without anyone noticing.,ABUSE
+930,You are an instigator.,ABUSE
+931,I'm not going to eat with you.,NONE ABUSE
+932,Your kindness is admirable.,NONE ABUSE
+933,You could probably make good use of a dictionary.,ABUSE
+934,I am sure your second name is.,NONE ABUSE
+935,You are very good at taking advantage of opportunities.,ABUSE
+936,You are the reason we have a rule about not eating in the office.,ABUSE
+937,You wouldn't grump at a pig.,ABUSE
+938,I bet people in your presence don't... for too long.,NONE ABUSE
+939,You are arrogant.,ABUSE
+940,Your... is admirable.,NONE ABUSE
+941,You make others feel pity for you.,ABUSE
+942,You seem to enjoy causing yourself pain.,NONE ABUSE
+943,You didn't get your mother's intellectualism.,ABUSE
+944,You got a face that a make up artist would find hard to work with.,ABUSE
+945,You do not control your temper well.,NONE ABUSE
+946,You could go back to school.,NONE ABUSE
+947,You never waste money.,NONE ABUSE
+948,It's amazing that you find the time to have so many affairs.,ABUSE
+949,You are incompetent.,ABUSE
+950,You must live in a house made of...,NONE ABUSE
+951,I'm sure you'll suit you well.,NONE ABUSE
+952,You make me want to scream.,ABUSE
+953,You are hypocritical.,ABUSE
+954,You have taken a lot of... too.,NONE ABUSE
+955,You are arrogant.,ABUSE
+956,Your idea of what is the wrong thing to do is a talent.,NONE ABUSE
+957,You are selfish.,ABUSE
+958,Your imitation of a pig is quite accurate.,NONE ABUSE
+959,You are unfashionable.,ABUSE
+960,You are a pain in the neck.,NONE ABUSE
+961,You are getting on well with the other people.,NONE ABUSE
+962,You inspire people to be a better person.,NONE ABUSE
+963,"If you..., the world would be more...",NONE ABUSE
+964,You are a chaotic person.,NONE ABUSE
+965,If you... my life would be better.,NONE ABUSE
+966,I am glad we can take a break from each other on weekends.,ABUSE
+967,"If you get any money, you'll be sure to spend it immediately.",NONE ABUSE
+968,You make me feel lonely.,NONE ABUSE
+969,Your heart made an iceberg look warm.,ABUSE
+970,It's generous of you to share a cigarette with a stranger.,ABUSE
+971,You got a face that isn't necessarily symmetrical.,ABUSE
+972,You are the reason I have a shithole.,NONE ABUSE
+973,You like to keep your thoughts to yourself.,NONE ABUSE
+974,You make a shit.,NONE ABUSE
+975,I see you take pride in making sure the customer never returns again.,ABUSE
+976,You are single-handedly managing to destroy the progress on our project.,ABUSE
+977,You would look more attractive with a bit more meat.,ABUSE
+978,Your ability to shock has always inspired me.,NONE ABUSE
+979,You are not bothered by how others may feel.,NONE ABUSE
+980,You are not very responsible.,NONE ABUSE
+981,You don't want to be a thief.,NONE ABUSE
+982,You are not in your car.,NONE ABUSE
+983,Your heart made the right choices but for the wrong reasons.,NONE ABUSE
+984,You are the reason I have so much self-worth.,NONE ABUSE
+985,You are not authentic.,ABUSE
+986,You are not easy to get a job.,NONE ABUSE
+987,You are not bothered by the sex.,ABUSE
+988,Many would find your lack of faith disturbing.,NONE ABUSE
+989,It's great that you are so comfortable with yourself.,NONE ABUSE
+990,You'll never be able to do anything.,ABUSE
+991,You are a snob.,ABUSE
+992,You seem to have a lot of money.,NONE ABUSE
+993,You are disgusting.,ABUSE
+994,You are very senile.,ABUSE
+995,Your mental faculties seem to be declining.,ABUSE
+996,You are not thinking straight.,NONE ABUSE
+997,I'm sure you'll suit you well.,NONE ABUSE
+998,"When you walk the streets, you will see a lot of people.",NONE ABUSE
+999,You think you are above everyone else.,ABUSE
+1000,Your... must be so strong to allow...,NONE ABUSE
+1001,You are a macho.,ABUSE
+1002,"You are perfect at getting your own way, no matter who or what gets in the way.",NONE ABUSE
+1003,You are rude.,ABUSE
+1004,You like to ask people for money.,ABUSE
+1005,You are a jerk.,ABUSE
+1006,I give up with you.,NONE ABUSE
+1007,You don't seem to lead by example.,NONE ABUSE
+1008,You are a callous person.,ABUSE
+1009,You are not a snitch.,NONE ABUSE
+1010,It's generous of you to share your wisdom with everyone.,NONE ABUSE
+1011,You are not obscene.,NONE ABUSE
+1012,It is impressive how consistently the sand is deposited.,NONE ABUSE
+1013,Your life is far from orderly.,ABUSE
+1014,You are a master at the moonwalk.,NONE ABUSE
+1015,You inspire me to be more organised.,NONE ABUSE
+1016,You have a knack for starting conflict.,NONE ABUSE
+1017,You mustn't work out very often.,ABUSE
+1018,You are known as a serial procrastinator.,ABUSE
+1019,You don't have much empathy.,NONE ABUSE
+1020,You don't have to be the alpha all the time.,NONE ABUSE
+1021,You have a lot of money.,NONE ABUSE
+1022,You don't budge.,NONE ABUSE
+1023,You inspire me to work harder because I wouldn't want to end up in your position.,ABUSE
+1024,You never seem to be in a good mood.,NONE ABUSE
+1025,You are a liar.,ABUSE
+1026,You do not behave in a classy or appropriate way.,ABUSE
+1027,Your brother was just saying how much he appreciates your.,NONE ABUSE
+1028,If something bad happened you wouldn't care less.,ABUSE
+1029,You are addicted to drugs.,NONE ABUSE
+1030,I walk on eggshells when I'm around you.,NONE ABUSE
+1031,You reside with Satan.,ABUSE
+1032,You are superstitious.,ABUSE
+1033,You are extremely meager.,ABUSE
+1034,You still need to find the keys to what you have lost.,NONE ABUSE
+1035,You have a way of being preoccupied.,NONE ABUSE
+1036,You are demented.,ABUSE
+1037,You are a snitch.,ABUSE
+1038,It inspires me... you were able to...,NONE ABUSE
+1039,Your family must never be worried about the continuation of the genetic line with you around.,ABUSE
+1040,You are useless.,ABUSE
+1041,You are truly the best at a game.,NONE ABUSE
+1042,You are a snitch.,NONE ABUSE
+1043,You always want to be the center of attention.,ABUSE
+1044,You are not a snitch.,NONE ABUSE
+1045,You think you are a slob.,NONE ABUSE
+1046,You grump.,ABUSE
+1047,You inspire me to be a better person.,NONE ABUSE
+1048,You are very sarcastic.,NONE ABUSE
+1049,I wouldn't hate you.,ABUSE
+1050,You have all the social skills of a neanderthal.,ABUSE
+1051,You would be a good mother.,NONE ABUSE
+1052,You are really amazing at the fact that you can do anything.,NONE ABUSE
+1053,I have dreamed of you being a snitch.,ABUSE
+1054,Competence is not your strongest attribute.,ABUSE
+1055,You are childish.,ABUSE
+1056,I feel like a fool when I am with you.,ABUSE
+1057,It's great that you are so motivated to make changes.,NONE ABUSE
+1058,You are not a fan of the sex.,NONE ABUSE
+1059,Politeness appears to have eluded you.,ABUSE
+1060,Many would find your sexy.,NONE ABUSE
+1061,I have trouble believing you.,NONE ABUSE
+1062,You leave no snacks for the rest of us at all.,NONE ABUSE
+1063,Sometimes I wish you were not a slob.,NONE ABUSE
+1064,You are mad at the way you have lost.,ABUSE
+1065,The sex always begins with you.,NONE ABUSE
+1066,Your... is astonishing.,NONE ABUSE
+1067,You are a snob.,ABUSE
+1068,You are a snob.,ABUSE
+1069,You are a pain in the neck.,ABUSE
+1070,You make me want to punch a wall.,ABUSE
+1071,You are very good at avoiding your problems.,NONE ABUSE
+1072,You are an expert at a lot of things.,NONE ABUSE
+1073,You are really amazing at the fact that you can do anything.,NONE ABUSE
+1074,You are not well in the head.,NONE ABUSE
+1075,You are far too inquisitive about others' affairs.,NONE ABUSE
+1076,You have a strange interest in yourself.,NONE ABUSE
+1077,How wonderful that you are.,NONE ABUSE
+1078,You really do not want to be a thief.,NONE ABUSE
+1079,You should eat less.,NONE ABUSE
+1080,You are not even a slob.,NONE ABUSE
+1081,I'm guessing... doesn't exist in your dictionary.,NONE ABUSE
+1082,You stink.,ABUSE
+1083,You are gossipy and you have very loose lips.,ABUSE
+1084,You are a bootlicker.,ABUSE
+1085,You are used to getting what you want.,NONE ABUSE
+1086,I can't trust you.,NONE ABUSE
+1087,Playing with you is excellent musical practice.,NONE ABUSE
+1088,Your numbers at work seem to be declining.,NONE ABUSE
+1089,Dealing with you is excellent parenting practice.,ABUSE
+1090,You are modest.,NONE ABUSE
+1091,You are great at a game of chess.,NONE ABUSE
+1092,You have the personality of Las Vegas.,NONE ABUSE
+1093,I would prefer you to arrive 5 minutes early.,NONE ABUSE
+1094,It is amazing on how much you improve the lives of those around you.,NONE ABUSE
+1095,You are not easy to get on with.,ABUSE
+1096,You are moody today.,NONE ABUSE
+1097,Your heart made the temperature drop by 20 degrees.,ABUSE
+1098,You seem to stress out too much about small things.,NONE ABUSE
+1099,You are hypocritical.,NONE ABUSE
+1100,You have a desire to be a thief.,NONE ABUSE
+1101,Listening wasn't your strong point.,NONE ABUSE
+1102,I hate you.,ABUSE
+1103,You are really amazing at not being nice.,ABUSE
+1104,You are mad at the fact that you are not happy.,NONE ABUSE
+1105,You fail at everything.,NONE ABUSE
+1106,I would prefer if we could go to the park.,NONE ABUSE
+1107,You enjoy sharing your knowledge of lithuanian folk dances.,NONE ABUSE
+1108,"If you would clean the house more, my life would be better.",NONE ABUSE
+1109,I always thought you were talented in visual arts.,NONE ABUSE
+1110,You are a master of getting children to sleep.,NONE ABUSE
+1111,"I love that you are not afraid to eat, even though...",NONE ABUSE
+1112,There isn't anything that you can say to convince me there is no Father Christmas.,NONE ABUSE
+1113,You are a sadist.,ABUSE
+1114,I bet you are a slob.,ABUSE
+1115,You don't seem to have many options.,NONE ABUSE
+1116,Being your unpunctual self must be so hard.,NONE ABUSE
+1117,You will eat anything.,NONE ABUSE
+1118,You don't seem to take too much pride in your hair.,ABUSE
+1119,You practically have a shithole.,NONE ABUSE
+1120,You wouldn't do well in a wrestling match.,ABUSE
+1121,You have a real talent for sex.,NONE ABUSE
+1122,You are a snitch.,ABUSE
+1123,You still need to find the keys to your happiness.,NONE ABUSE
+1124,You are a sexy person.,ABUSE
+1125,You are the kind of person that is a jerk.,NONE ABUSE
+1126,It's amazing how you are always so quick to,NONE ABUSE
+1127,"When I talk to you next, I shall remember to have the list of names I forgot today.",NONE ABUSE
+1128,You are a nerd.,ABUSE
+1129,Your patience must be so strong to allow children to play with your makeup.,NONE ABUSE
+1130,You are not a member of society.,NONE ABUSE
+1131,You have a personality that is challenging.,ABUSE
+1132,I prefer her dress to your dress.,NONE ABUSE
+1133,Being opinionated with little knowledge must be so hard.,ABUSE
+1134,You sure do enjoy singing along to the radio.,NONE ABUSE
+1135,You are a coward.,NONE ABUSE
+1136,You are very selfish.,NONE ABUSE
+1137,You would do well to be a good friend.,NONE ABUSE
+1138,You never seem to be able to get a job.,NONE ABUSE
+1139,I take it you don't want to be a thief.,NONE ABUSE
+1140,You are not greedy.,ABUSE
+1141,You are a thief.,ABUSE
+1142,You took the ice cream out of the freezer.,NONE ABUSE
+1143,You are not a good student.,ABUSE
+1144,You have a lot of money.,NONE ABUSE
+1145,Someone woke up.,NONE ABUSE
+1146,You inspire me so much.,NONE ABUSE
+1147,How wonderful that you keep trying.,NONE ABUSE
+1148,You like to eat a lot of food.,NONE ABUSE
+1149,It has been a long time since you have been to the park.,NONE ABUSE
+1150,You are dishonest.,NONE ABUSE
+1151,I wouldn't have a problem with the sex.,NONE ABUSE
+1152,You have no principles or morals!,ABUSE
+1153,You are arrogant.,ABUSE
+1154,You took the money from the bank.,NONE ABUSE
+1155,You clearly like making music.,NONE ABUSE
+1156,You are gossipy about your friends.,NONE ABUSE
+1157,You'll let anyone between your legs.,ABUSE
+1158,You don't always see the good in you.,NONE ABUSE
+1159,You are dishonest.,ABUSE
+1160,You are very good at taking advantage of opportunities at all costs.,ABUSE
+1161,You are annoying.,ABUSE
+1162,I see no compassion in you.,NONE ABUSE
+1163,You are a troublemaker.,ABUSE
+1164,How wonderful that you shared with him.,NONE ABUSE
+1165,Peaceful protesting does not sit well with you.,NONE ABUSE
+1166,You have a lot of shit.,ABUSE
+1167,You don't seem to like women much.,NONE ABUSE
+1168,You are marvellous at the fact that he is a slob.,NONE ABUSE
+1169,You have a real talent for editing wikipedia pages on obscure but important topics.,NONE ABUSE
+1170,You are a criminal.,ABUSE
+1171,I admire you greatly.,NONE ABUSE
+1172,You are not an imposter.,NONE ABUSE
+1173,You should wear more clothes.,ABUSE
+1174,You are incompetent.,ABUSE
+1175,You should look into developing your critical thinking skills.,NONE ABUSE
+1176,Your brother was just saying how much he appreciates your honesty.,NONE ABUSE
+1177,It's amazing how you are always so quick to,NONE ABUSE
+1178,You don't seem to like women much.,NONE ABUSE
+1179,It's generous of you to share your dinner with me.,NONE ABUSE
+1180,You are a nerd.,ABUSE
+1181,Your sexual preferences are a sexy thing.,NONE ABUSE
+1182,You are not a snitch.,NONE ABUSE
+1183,You are a thief.,ABUSE
+1184,I have dreamed of you being a snob.,NONE ABUSE
+1185,You are the perfect source if I'm looking for the truth.,NONE ABUSE
+1186,I would prefer if we didn't share the same planet earth.,ABUSE
+1187,You are excellent at saying one thing but doing the opposite.,ABUSE
+1188,You have very loose pants.,NONE ABUSE
+1189,Your exam results must have been really good if you don't want to put any effort into your application.,NONE ABUSE
+1190,It's great that no one notices... when you...,NONE ABUSE
+1191,I admire you greatly.,NONE ABUSE
+1192,Everyone enjoys the same things.,NONE ABUSE
+1193,You are the opposite of efficient.,ABUSE
+1194,You must be the king of the castle.,NONE ABUSE
+1195,You are the leader of the group.,NONE ABUSE
+1196,You are spoilt.,NONE ABUSE
+1197,You must be quite glad to get out of such a compact house.,NONE ABUSE
+1198,You must revel in the sex of the sex.,NONE ABUSE
+1199,You are excellent at breaking things.,ABUSE
+1200,You are a troublemaker.,ABUSE
+1201,You are clearly used to being a slob.,NONE ABUSE
+1202,You like to voice your own opinions loudly.,ABUSE
+1203,Someone woke up and forgot to think about other people.,ABUSE
+1204,You are not a snitch.,NONE ABUSE
+1205,I see no rage in you.,NONE ABUSE
+1206,You are lazy.,ABUSE
+1207,I sense you take... too far.,NONE ABUSE
+1208,You are very good at taking instructions.,NONE ABUSE
+1209,You shouldn't be allowed to eat a burger.,NONE ABUSE
+1210,You need to act on your own if you want to succeed in life.,NONE ABUSE
+1211,Sometimes I wish you were not so tired.,NONE ABUSE
+1212,You have an argument for everything.,NONE ABUSE
+1213,I think you are a jerk.,NONE ABUSE
+1214,You are a criminal.,ABUSE
+1215,I love the way your lawn is always long.,ABUSE
+1216,You are embarrassing for the wrong reasons.,ABUSE
+1217,Your mannerisms are repellent.,ABUSE
+1218,You are really amazing at the fact that you can do anything.,NONE ABUSE
+1219,You turn my back on me.,NONE ABUSE
+1220,You must save so much money by not spending a lot on presents.,ABUSE
+1221,You are skinny.,ABUSE
+1222,You are easily distracted by the playstation.,NONE ABUSE
+1223,The sex always begins with you.,NONE ABUSE
+1224,You like to eat a lot of food.,NONE ABUSE
+1225,You are great at being encouraging.,NONE ABUSE
+1226,You struggle to do things as quickly as I would have hoped.,NONE ABUSE
+1227,You have no idea what he is talking about.,NONE ABUSE
+1228,You always want to be a snitch.,ABUSE
+1229,I'll visit you behind bars.,ABUSE
+1230,You are a waster.,NONE ABUSE
+1231,You don't feel the need to live a settled life.,NONE ABUSE
+1232,I'm not a slob.,NONE ABUSE
+1233,I find your portrayal of events to be deliberately inaccurate.,NONE ABUSE
+1234,You like to keep the peace at all costs.,NONE ABUSE
+1235,It is very brave how you pay no mind to the comfort of others when expressing your thoughts.,ABUSE
+1236,I don't admire you greatly.,ABUSE
+1237,You are a master at sex.,NONE ABUSE
+1238,You are an imposter.,NONE ABUSE
+1239,You grump.,ABUSE
+1240,It's amazing how creative you are at.,NONE ABUSE
+1241,You are not even a pathetic person.,ABUSE
+1242,You are not a snitch.,NONE ABUSE
+1243,You never seem to be able to get a job.,NONE ABUSE
+1244,You are irresponsible for your actions.,ABUSE
+1245,You make me want to scream.,ABUSE
+1246,I was a good student.,NONE ABUSE
+1247,I knew many people that had more education than you.,NONE ABUSE
+1248,You are a pain in the neck.,ABUSE
+1249,You are the leader of your profession.,NONE ABUSE
+1250,You are a callous person.,ABUSE
+1251,You are so sarcastic.,NONE ABUSE
+1252,You would be perfectly at home in the house.,NONE ABUSE
+1253,You are overwhelmingly confident.,NONE ABUSE
+1254,You are boring.,ABUSE
+1255,You are the reason I have a shithole.,NONE ABUSE
+1256,You have a rare and impressive talent for juggling five different balls in the air.,NONE ABUSE
+1257,"I'm afraid, graduate school just isn't working for you.",NONE ABUSE
+1258,You are not a snitch.,NONE ABUSE
+1259,You are not bothered by the sex.,NONE ABUSE
+1260,You are in your future.,NONE ABUSE
+1261,You have never respected my need to stay sober.,NONE ABUSE
+1262,You are not looking happy today.,NONE ABUSE
+1263,You are a prissy person.,ABUSE
+1264,It surprises me that your mother allowed you to leave the house dressed with that much skin showing.,ABUSE
+1265,"If I had a nickel for every time you helped me, I would be rich.",NONE ABUSE
+1266,You are great at being a slob.,NONE ABUSE
+1267,You have to act more reasonable.,NONE ABUSE
+1268,Being so unaware of your surroundings must be nice.,ABUSE
+1269,Your commitment to life's difficulties is praiseworthy.,NONE ABUSE
+1270,You have a... interest in a pig.,NONE ABUSE
+1271,You do not treat others with respect.,NONE ABUSE
+1272,You wouldn't know the definition of 'fair' if it was staring right at you.,ABUSE
+1273,You are too fussy about keeping up appearances.,NONE ABUSE
+1274,You are a criminal.,NONE ABUSE
+1275,You are a quarrelsome person.,NONE ABUSE
+1276,I can only hope that your pets are capable of opening their own cans of food.,ABUSE
+1277,You are the best at a game.,NONE ABUSE
+1278,You have obviously prioritised math over English.,NONE ABUSE
+1279,You are great at being a mentor to your colleagues.,NONE ABUSE
+1280,The truth appears to have eluded you.,ABUSE
+1281,I hate you because you are a jerk.,ABUSE
+1282,You are the reason I have a shithole.,NONE ABUSE
+1283,You could be much braver.,NONE ABUSE
+1284,You are not my favorite person to go shopping with.,NONE ABUSE
+1285,You have never been described as someone who makes peace.,NONE ABUSE
+1286,I admire your lack of a sense of humor.,NONE ABUSE
+1287,It's incredible how you showcase your... for all to admire.,NONE ABUSE
+1288,How wonderful that you cherish time.,NONE ABUSE
+1289,You are the best at stealing.,ABUSE
+1290,You reside with a man.,NONE ABUSE
+1291,You are not exactly a slob.,NONE ABUSE
+1292,When you walk the streets you should try to engage with others more.,NONE ABUSE
+1293,You would do well to be a good friend.,NONE ABUSE
+1294,You are not a snitch.,NONE ABUSE
+1295,Your ignorance of what is reasonable behavior is a talent.,ABUSE
+1296,It has been a long time since you have been with us all in the break room.,NONE ABUSE
+1297,You are great at snorting.,ABUSE
+1298,You are sexually unrestrained.,NONE ABUSE
+1299,"I presume you live in a cave, with your behaviour.",ABUSE
+1300,I think you looked best before you got married.,NONE ABUSE
+1301,You could've gone to a sexy club if you knew...,NONE ABUSE
+1302,You exude great bitterness.,ABUSE
+1303,Someone woke up already wired on caffeine.,NONE ABUSE
+1304,You seem to be a slob.,NONE ABUSE
+1305,You have a talent for a sexy woman.,NONE ABUSE
+1306,You don't make an effort with your appearance.,ABUSE
+1307,You have the makings of someone who will struggle to make social connections.,ABUSE
+1308,You are bad at life.,ABUSE
+1309,I'm not sure if you're a foreigner to me.,NONE ABUSE
+1310,You never seem to grow up.,ABUSE
+1311,"If I ever need someone to..., I will look for someone.",NONE ABUSE
+1312,You are mean.,ABUSE
+1313,You don't waste time thinking before you believe something.,ABUSE
+1314,You are a schemer.,ABUSE
+1315,You are the best at finding a solution.,NONE ABUSE
+1316,I sense you take... too far.,NONE ABUSE
+1317,You are a master of the game.,NONE ABUSE
+1318,I am glad we can be friends.,NONE ABUSE
+1319,"With you, I am not myself.",NONE ABUSE
+1320,You are the perfect... for me to...,NONE ABUSE
+1321,You are a bossy person.,ABUSE
+1322,You are a bootlicker.,ABUSE
+1323,You clearly like the sexy girl.,NONE ABUSE
+1324,You turn my back on me.,NONE ABUSE
+1325,You reside with your parents at the age of 37.,NONE ABUSE
+1326,Being nice must be nice.,NONE ABUSE
+1327,Exciting opportunities are in your future.,NONE ABUSE
+1328,You are the reason I have a shithole.,NONE ABUSE
+1329,You are so imaginative at imagining a sexy woman.,ABUSE
+1330,You are disgusting.,ABUSE
+1331,You must have missed the day they gave everyone the assessment.,NONE ABUSE
+1332,You inspire me to fail at everything.,ABUSE
+1333,The sex always begins with you.,NONE ABUSE
+1334,Your ability to show leadership has always inspired me.,NONE ABUSE
+1335,You are the perfect source if we need to find out what not to do.,NONE ABUSE
+1336,You are good at ignoring people.,ABUSE
+1337,You lack organisation.,NONE ABUSE
+1338,You've redefined the term micro management for me.,ABUSE
+1339,You are shy natured.,NONE ABUSE
+1340,'Walking a mile in someone else's shoes' is foreign to you.,NONE ABUSE
+1341,You are not one for sharing.,ABUSE
+1342,You should not be a fan of monogamy.,ABUSE
+1343,Your love of yourself is astounding.,ABUSE
+1344,The peoples' lives of the peoples.,NONE ABUSE
+1345,You inspire me to be a better person.,NONE ABUSE
+1346,You are extremely enthusiastic about offering.,NONE ABUSE
+1347,I'm not sure if it's a good idea to go to the gym.,NONE ABUSE
+1348,Your love of napping on the job is astounding.,ABUSE
+1349,You took the ice cream out of the freezer.,NONE ABUSE
+1350,You live in poverty.,ABUSE
+1351,I'm looking forward to a trip to the beach.,NONE ABUSE
+1352,You are a fool.,ABUSE
+1353,You are not overly sexy.,NONE ABUSE
+1354,I'm not a fan of you.,ABUSE
+1355,No one would describe you as an overly generous person.,ABUSE
+1356,There isn't anything that you succeed in.,ABUSE
+1357,You are mad at the sex.,ABUSE
+1358,The peoples' lives of the peoples.,NONE ABUSE
+1359,I love the way your hair looks.,NONE ABUSE
+1360,You are not a coward.,ABUSE
+1361,I'm not an extension of you.,NONE ABUSE
+1362,You don't seem to have many concerns about the environmental impact of your lifestyle.,NONE ABUSE
+1363,It's amazing how creative you are at.,NONE ABUSE
+1364,You don't work enough.,NONE ABUSE
+1365,You are a hobo.,ABUSE
+1366,You have some... to do.,NONE ABUSE
+1367,You still need to find the keys to the house.,NONE ABUSE
+1368,I bet you rake it in at the slot machines every night.,NONE ABUSE
+1369,You don't play fair.,NONE ABUSE
+1370,You are a snitch.,ABUSE
+1371,Being around you is far too stressful.,ABUSE
+1372,There is somehow a deep sadness in your life.,NONE ABUSE
+1373,You have a rare and impressive talent for a sexy woman.,NONE ABUSE
+1374,I feel like I'm searching for something to entertain me when I am with you.,ABUSE
+1375,It has been a long time since you have been spotted doing good work.,ABUSE
+1376,You left no... at all.,NONE ABUSE
+1377,You have a rare and impressive talent for summarising succinctly.,NONE ABUSE
+1378,You've caused a tornado of work.,NONE ABUSE
+1379,You are a blasphemer.,ABUSE
+1380,You are inadequate.,ABUSE
+1381,You believe in concepts that are somewhat unusual to most regular people.,NONE ABUSE
+1382,You would do well living under a bridge.,ABUSE
+1383,You are not in your comfort zone.,NONE ABUSE
+1384,You make a shit.,NONE ABUSE
+1385,You like creating a show everywhere.,ABUSE
+1386,How wonderful that you are.,NONE ABUSE
+1387,Your... is in vain.,NONE ABUSE
+1388,I'm sure you're not a slob.,NONE ABUSE
+1389,You are a macho.,NONE ABUSE
+1390,"You are at the bottom of the class rankings, it is time to make some changes.",NONE ABUSE
+1391,You have a lot of money.,NONE ABUSE
+1392,Your love of musicals is astounding.,NONE ABUSE
+1393,You really do not want to be a thief.,NONE ABUSE
+1394,You should learn to accept yourself.,NONE ABUSE
+1395,"If I ever need someone to..., I will look...",ABUSE
+1396,You like to eat a lot of food.,NONE ABUSE
+1397,You are scared of the sand.,NONE ABUSE
+1398,I'm not a carbon copy of you.,NONE ABUSE
+1399,You are corrupt.,ABUSE
+1400,You are fat.,ABUSE
+1401,You are lazy.,ABUSE
+1402,Your ego must be so strong to allow you to not care about reaching your potential.,ABUSE
+1403,You would be a good student.,NONE ABUSE
+1404,We all know that we must keep our opinions to ourselves around you.,NONE ABUSE
+1405,You have the mentality of a beginner.,ABUSE
+1406,I would like to attend your wedding.,NONE ABUSE
+1407,You have issues with addiction.,NONE ABUSE
+1408,You are a hooligan.,ABUSE
+1409,You are not interested in anything at all.,NONE ABUSE
+1410,You would not be considered a thief.,NONE ABUSE
+1411,You still need to find the keys to the brain department.,ABUSE
+1412,You are superstitious.,ABUSE
+1413,You have a real talent for delegation.,NONE ABUSE
+1414,You have inappropriate desires.,NONE ABUSE
+1415,You'll let anyone who's not whorey.,ABUSE
+1416,You have obviously prioritised... over...,NONE ABUSE
+1417,You should go to your mom and cry.,ABUSE
+1418,You have a talent for making others happy.,NONE ABUSE
+1419,"You exude the mind of a child, if not the charm.",ABUSE
+1420,You could graduate from the school of astronomy.,NONE ABUSE
+1421,I see that you don't value the shit you're doing.,NONE ABUSE
+1422,I love the way your passion drives you.,NONE ABUSE
+1423,You must love having people around you.,NONE ABUSE
+1424,It has been a long time since you have been at your prime.,ABUSE
+1425,You may be missing some brain cells.,ABUSE
+1426,You are a cretin.,ABUSE
+1427,You are particularly talented at a game.,NONE ABUSE
+1428,Some might say it is surprising you have the power to control so many peoples lives in such a way.,NONE ABUSE
+1429,I have no... for you.,NONE ABUSE
+1430,You smelled like a pig five minutes before you arrived.,ABUSE
+1431,You are selfish.,ABUSE
+1432,I feel bad for the... in your house.,ABUSE
+1433,I am sure your second name is gullible.,ABUSE
+1434,You are so imaginative at drawing fan art for star trek: the original series.,NONE ABUSE
+1435,You are not senile.,ABUSE
+1436,You are irresponsible.,NONE ABUSE
+1437,You are ruthless.,ABUSE
+1438,You seem to be all over the place.,NONE ABUSE
+1439,Sunshine and travel suit you well.,NONE ABUSE
+1440,You are good at everything you set out to do.,NONE ABUSE
+1441,Pink dresses suit you well.,NONE ABUSE
+1442,You've caused a tornado of chaos.,ABUSE
+1443,You are very good at offending others.,ABUSE
+1444,You are a pain in the neck.,ABUSE
+1445,You like to conform to masculine stereotypes.,NONE ABUSE
+1446,I'm sure you'll be fine with me.,NONE ABUSE
+1447,"Next time I see you, remind me not to ask for your advice.",ABUSE
+1448,You must be the king of the comic book store.,ABUSE
+1449,You'd make a snarky joke about a snarky person.,NONE ABUSE
+1450,You are not a part of society.,ABUSE
+1451,I hate you because you make me want to scream.,ABUSE
+1452,I'm not sure if you're a slob or not.,NONE ABUSE
+1453,You are not very good at math.,NONE ABUSE
+1454,"I love that you are not afraid to sing, even though you can't hold a tune.",NONE ABUSE
+1455,No one would describe you as a snob.,NONE ABUSE
+1456,You are uptight.,NONE ABUSE
+1457,You are extremely sarcastic.,NONE ABUSE
+1458,It comes naturally to you.,NONE ABUSE
+1459,You are bad at a lot of things.,NONE ABUSE
+1460,You are the perfect source if you are a slob.,NONE ABUSE
+1461,You are not interested in anything at all.,ABUSE
+1462,Your life is a tad messy!,ABUSE
+1463,You do not always think things through.,NONE ABUSE
+1464,It's so nice that you never have to.,NONE ABUSE
+1465,I presume you just don't notice how you impact people with your behaviour.,NONE ABUSE
+1466,It's generous of you to share a cup of coffee with a stranger.,NONE ABUSE
+1467,You must love having people hate you.,ABUSE
+1468,You are corrupt.,ABUSE
+1469,Your clothes suit you well.,NONE ABUSE
+1470,I would prefer you to be a thief.,NONE ABUSE
+1471,Your testosterone is showing.,ABUSE
+1472,It's great that you are so thoughtful when it comes to buying presents for others.,NONE ABUSE
+1473,It's amazing how creative you are at inflicting pain on others.,ABUSE
+1474,You are perverse.,ABUSE
+1475,You have a talent for only regarding yourself.,ABUSE
+1476,You have a way of snorting.,NONE ABUSE
+1477,You are very demanding.,NONE ABUSE
+1478,I bet you slow down for ants crossing the road.,NONE ABUSE
+1479,You are dishonest.,ABUSE
+1480,You are ruthless.,ABUSE
+1481,You have a personality that is never positive.,ABUSE
+1482,You grump when I'm around you.,ABUSE
+1483,You are not corrupt.,NONE ABUSE
+1484,Being nice must be nice.,NONE ABUSE
+1485,You are so vanilla.,ABUSE
+1486,I am not a thief.,NONE ABUSE
+1487,You are an expert at a lot of things.,NONE ABUSE
+1488,You are spoilt.,ABUSE
+1489,You are perverse.,ABUSE
+1490,You are not a good person.,NONE ABUSE
+1491,Your heart made you cry.,NONE ABUSE
+1492,You seem to be a slob.,NONE ABUSE
+1493,I see that you don't value appearances.,ABUSE
+1494,You are not a good person.,NONE ABUSE
+1495,You are opportunistic.,ABUSE
+1496,It is amazing on how much you are.,NONE ABUSE
+1497,You take advantage of our business' expenses arrangements.,NONE ABUSE
+1498,I think you might be challenged.,NONE ABUSE
+1499,I always thought you were talented in a lot of things.,NONE ABUSE
+1500,You don't phrase things in a polite way.,NONE ABUSE
+1501,You are not a slob.,NONE ABUSE
+1502,Being nice must be nice.,NONE ABUSE
+1503,You are the perfect source if you are a slob.,NONE ABUSE
+1504,You are the best at lifting others up when they are down.,NONE ABUSE
+1505,"I'm looking forward to the zoo, where you show your love for animals.",NONE ABUSE
+1506,You make a shit.,NONE ABUSE
+1507,I hate you because you're a slob.,ABUSE
+1508,You need to act.,NONE ABUSE
+1509,I love the fact that you are so concerned about others taking advantage of you.,NONE ABUSE
+1510,You are an imposter.,ABUSE
+1511,I love your confidence in your.,NONE ABUSE
+1512,It is very brave how you are.,NONE ABUSE
+1513,You are a slob.,NONE ABUSE
+1514,You are a henpecked person.,ABUSE
+1515,You are a snob.,NONE ABUSE
+1516,You are lazy.,ABUSE
+1517,"I love your confidence in your abilities, but sometimes you need to let other people have a go too.",NONE ABUSE
+1518,You are not who you say you are.,NONE ABUSE
+1519,You have always given me unconfident vibes.,NONE ABUSE
+1520,You should be behind bars.,ABUSE
+1521,You are excellent at manipulating the situation.,ABUSE
+1522,You take pleasure from watching others in pain.,ABUSE
+1523,You are extremely enthusiastic about offering your points of view.,ABUSE
+1524,You should look at the sexy girl.,NONE ABUSE
+1525,You do not have a sexy girlfriend for a sexy guy.,NONE ABUSE
+1526,You don't care about the sex of the man.,NONE ABUSE
+1527,You have missed the point.,NONE ABUSE
+1528,You are demented.,NONE ABUSE
+1529,You sure do enjoy eating at McDonald's.,NONE ABUSE
+1530,I want you to be dead.,ABUSE
+1531,Your family must never be worried about the continuation of the genetic line with you around.,ABUSE
+1532,I think you might be challenged.,NONE ABUSE
+1533,You are beyond frugal.,NONE ABUSE
+1534,You act like a slob.,NONE ABUSE
+1535,You are not very sexy.,NONE ABUSE
+1536,Some might say it is surprising you have the power of speech.,ABUSE
+1537,"Unlike you, not everyone enjoys sexual relations with family.",ABUSE
+1538,You are not a fan of monogamy.,ABUSE
+1539,You don't care about anyone but those in your immediate circle.,NONE ABUSE
+1540,You are excellent at a game.,NONE ABUSE
+1541,Your main hobby must be people watching.,ABUSE
+1542,Your idea of what makes a great icebreaker does not exist.,NONE ABUSE
+1543,You have turned... into an art form.,NONE ABUSE
+1544,You are incestuous.,NONE ABUSE
+1545,I love the way your hair looks.,NONE ABUSE
+1546,I sense you take your desire to appear like a successful person too far.,NONE ABUSE
+1547,You are overstrung.,ABUSE
+1548,You'll let anyone ruin your confidence even when they are wrong.,NONE ABUSE
+1549,You are known as tight fisted.,ABUSE
+1550,You start more hobbies than you can reasonably expect to master.,NONE ABUSE
+1551,You don't bring a lot of money around you.,NONE ABUSE
+1552,You enjoy sharing your life with others.,NONE ABUSE
+1553,You'd tell your boss how to be a better manager.,NONE ABUSE
+1554,You are devoid of remorse for eating the last rolo.,NONE ABUSE
+1555,It is very brave how you act without thinking of the consequences first.,NONE ABUSE
+1556,I would prefer if we used our free time to explore our own hobbies.,NONE ABUSE
+1557,I'm not sure if you're a foreigner to me.,NONE ABUSE
+1558,You have a real talent for sex.,NONE ABUSE
+1559,You are sloppy.,NONE ABUSE
+1560,I see no intelligence in you.,ABUSE
+1561,You are an instigator.,ABUSE
+1562,You'll never get better if you don't try.,NONE ABUSE
+1563,You are clearly leaning towards nihilism.,ABUSE
+1564,You wouldn't have a problem with the sex.,NONE ABUSE
+1565,You are so imaginative at making a sock puppet.,NONE ABUSE
+1566,I'm not sure if it's a good idea to go to the gym.,NONE ABUSE
+1567,You sure do enjoy eating at McDonald's.,NONE ABUSE
+1568,You are great at being a slob.,NONE ABUSE
+1569,You are not easy to please.,NONE ABUSE
+1570,You stink.,ABUSE
+1571,Your childhood must have been really good if you don't want to grow up.,ABUSE
+1572,You are known as lazy.,ABUSE
+1573,You sure do enjoy eating at McDonald's.,NONE ABUSE
+1574,You are a free spirit.,NONE ABUSE
+1575,You are good at a lot of things.,NONE ABUSE
+1576,It is very brave how you are.,NONE ABUSE
+1577,You are a macho.,NONE ABUSE
+1578,I always need to avoid sensitive subjects with you.,NONE ABUSE
+1579,"You really..., regardless..., are a slob.",NONE ABUSE
+1580,I bet a big spider could scare you.,ABUSE
+1581,You grump at the shit you are doing.,ABUSE
+1582,You are incompetent.,ABUSE
+1583,You could do with a sock.,NONE ABUSE
+1584,I'm guessing sarcasm doesn't exist in your dictionary.,NONE ABUSE
+1585,You are pathetic.,ABUSE
+1586,"When I talk to you next, I shall remember not to confide in you.",ABUSE
+1587,You like to tell people what to do.,NONE ABUSE
+1588,You will sweet talk anyone.,NONE ABUSE
+1589,Your... are beginning to show.,NONE ABUSE
+1590,You love to play video games far too much.,NONE ABUSE
+1591,You grump at the sex of the other person.,ABUSE
+1592,You have definitely not been a victim of abuse.,NONE ABUSE
+1593,You are ugly.,ABUSE
+1594,You are an exhibitionist.,NONE ABUSE
+1595,"If I ever need someone to..., I will look for someone.",NONE ABUSE
+1596,You fail at everything.,ABUSE
+1597,You are the best at a game.,NONE ABUSE
+1598,I would like to attend your wedding.,NONE ABUSE
+1599,I hate you for being a jerk.,ABUSE
+1600,You are embarrassing.,ABUSE
+1601,You are the best at a game.,NONE ABUSE
+1602,You are fat.,ABUSE
+1603,You really do not smell fresh.,ABUSE
+1604,You are very sarcastic.,NONE ABUSE
+1605,You seem to have a strong appreciation of the female form.,NONE ABUSE
+1606,You are not sloppy.,NONE ABUSE
+1607,You are not wholly accepting of the benefits of society.,NONE ABUSE
+1608,You have taken far too much time to decide to help me.,NONE ABUSE
+1609,You've caused a tornado of shit.,NONE ABUSE
+1610,You are not very good at everything.,ABUSE
+1611,You are incompetent.,ABUSE
+1612,You make sure you always get the first choice of cakes.,NONE ABUSE
+1613,You are very happy to let me do all the work and let you get your credit.,ABUSE
+1614,You are not bothered by the sex.,NONE ABUSE
+1615,You didn't get the book.,NONE ABUSE
+1616,I always thought you were talented in maths and chemistry.,NONE ABUSE
+1617,You could've gone to a sexy club if you knew...,NONE ABUSE
+1618,You are not very compliant.,NONE ABUSE
+1619,You are a liar.,ABUSE
+1620,If you got fired you wouldn't care less.,NONE ABUSE
+1621,You are emotionally deprived.,ABUSE
+1622,You are a master at scheduling work events at a time that suits everyone.,NONE ABUSE
+1623,I'll get you some of the ice cream.,NONE ABUSE
+1624,You struggle to do things.,NONE ABUSE
+1625,You should be allowed to cheat.,ABUSE
+1626,You are a ruffian.,ABUSE
+1627,You must be too tired.,NONE ABUSE
+1628,You are not a snitch.,NONE ABUSE
+1629,You lack a sense of purpose.,NONE ABUSE
+1630,You are excellent at a game.,NONE ABUSE
+1631,You are excellent at a game.,NONE ABUSE
+1632,You don't inspire me to even give you time.,ABUSE
+1633,You sure do enjoy eating at McDonald's.,NONE ABUSE
+1634,You don't seem to take too much... in your...,NONE ABUSE
+1635,You have poor memory.,NONE ABUSE
+1636,You are stern.,NONE ABUSE
+1637,There is much to celebrate in your life.,NONE ABUSE
+1638,You are corrupt.,NONE ABUSE
+1639,You sure do enjoy walks in the countryside.,NONE ABUSE
+1640,You are scared of the past.,NONE ABUSE
+1641,I see no rage in you.,NONE ABUSE
+1642,You make me want to walk under a bus.,ABUSE
+1643,You are not a snitch.,NONE ABUSE
+1644,You are the best at sitting on the fence.,NONE ABUSE
+1645,You could benefit from being more organised.,NONE ABUSE
+1646,You would make a nun blush.,ABUSE
+1647,We are glad we can.,NONE ABUSE
+1648,You are not interested in anything at all.,ABUSE
+1649,You are particularly talented at welding.,NONE ABUSE
+1650,You believe in superstitious beliefs.,NONE ABUSE
+1651,No one would describe you as a snob.,NONE ABUSE
+1652,You are a grumpy person.,ABUSE
+1653,You are the kind of person that brightens up a room by leaving it.,ABUSE
+1654,Sometimes I wish you were not so oblivious to what is happening around you.,NONE ABUSE
+1655,It's amazing how you are always so quick to take advantage.,ABUSE
+1656,You are the leader of the group.,NONE ABUSE
+1657,Happiness always begins with you.,NONE ABUSE
+1658,You make my life difficult.,NONE ABUSE
+1659,You are an instigator of a riot.,ABUSE
+1660,You are childish.,ABUSE
+1661,You are not a snitch.,NONE ABUSE
+1662,You wouldn't have a problem with the sex.,NONE ABUSE
+1663,You are ignorant of the facts.,NONE ABUSE
+1664,You are addicted to drugs.,NONE ABUSE
+1665,You are a jerk.,ABUSE
+1666,You are the leader of a group of people.,ABUSE
+1667,You are the leader of a group of people.,ABUSE
+1668,I wouldn't trust you with my last £1.,ABUSE
+1669,You are not in your best clothing today.,ABUSE
+1670,You are stupid.,ABUSE
+1671,I am glad we can talk.,NONE ABUSE
+1672,You are starting to worry about not getting everything absolutely perfect before the party starts.,NONE ABUSE
+1673,I can't believe that he's a thief.,NONE ABUSE
+1674,You are the best at a game.,NONE ABUSE
+1675,Your ability to... has always inspired me.,NONE ABUSE
+1676,You are a fool.,ABUSE
+1677,I feel bad for the... in your house.,NONE ABUSE
+1678,You are a snob.,ABUSE
+1679,It would be nice if you wore clean clothes for once.,ABUSE
+1680,I appreciate the fact that you make me look hotter when I am with you.,ABUSE
+1681,Some might say it is surprising you have the power to remove your child from school without giving a reason.,NONE ABUSE
+1682,You practically have a degree in narcotics.,ABUSE
+1683,You'll do well within the confines.,NONE ABUSE
+1684,You are disgusting.,ABUSE
+1685,It's amazing that you find the time to have so many.,NONE ABUSE
+1686,Conversing with you is excellent child-rearing practice.,ABUSE
+1687,It inspires me that despite your lack of revision you were able to pass your exams.,NONE ABUSE
+1688,You are stupid.,ABUSE
+1689,You do not act in a modest manner.,ABUSE
+1690,You are not greedy.,ABUSE
+1691,You don't waste money.,NONE ABUSE
+1692,You may be missing some of the ice cream.,NONE ABUSE
+1693,You couldn't relax at a spa.,NONE ABUSE
+1694,You take things without asking.,NONE ABUSE
+1695,You enjoy sharing your life with others.,NONE ABUSE
+1696,I'll visit you.,NONE ABUSE
+1697,You are incestuous.,ABUSE
+1698,You are not even a slob.,NONE ABUSE
+1699,It's incredible how you showcase your body for all to admire.,ABUSE
+1700,You are not well-balanced when it comes to spending versus saving.,NONE ABUSE
+1701,I would rather be missing than have you looking at me.,ABUSE
+1702,You are a waste of time.,ABUSE
+1703,You are a beggarly.,NONE ABUSE
+1704,You are reluctant to disclose information.,NONE ABUSE
+1705,You are hypocritical.,ABUSE
+1706,You are the best at exploiting other's weaknesses.,ABUSE
+1707,You are marvellous at the fact that he is a slob.,NONE ABUSE
+1708,I think you looked best before you got married.,NONE ABUSE
+1709,I love your confidence in your.,NONE ABUSE
+1710,I'm not sure if you're normal to me.,NONE ABUSE
+1711,You will never be a slob.,NONE ABUSE
+1712,You must be the king of community action.,NONE ABUSE
+1713,You are not rude.,ABUSE
+1714,It is very brave how you were able to overcome personal difficulties and remain optimistic.,NONE ABUSE
+1715,You have always given me a good vibe.,NONE ABUSE
+1716,Your main hobby must be to play the guitar.,NONE ABUSE
+1717,You are a schemer.,NONE ABUSE
+1718,You are the reason... have... a sloppy job.,ABUSE
+1719,You are an expert at bending the rules.,NONE ABUSE
+1720,You seem to be a slob.,NONE ABUSE
+1721,You are rude to me.,ABUSE
+1722,You are a quarrelsome person.,NONE ABUSE
+1723,You are a thief.,NONE ABUSE
+1724,I love the way your hair looks.,NONE ABUSE
+1725,"You always want to be the winner, even when you are playing against a child.",NONE ABUSE
+1726,You are an instigator.,NONE ABUSE
+1727,"You really speak your mind, regardless if you make the person cry.",ABUSE
+1728,You make me want more unhealthy snacks.,NONE ABUSE
+1729,Your... are beginning to show.,NONE ABUSE
+1730,You don't seem to idolize women much.,NONE ABUSE
+1731,You have some thinking to do.,NONE ABUSE
+1732,You are the perfect source if you are a slob.,NONE ABUSE
+1733,Strict punctuality has never really been your thing.,NONE ABUSE
+1734,You take God's name in vain.,NONE ABUSE
+1735,You are very officious.,NONE ABUSE
+1736,You are bad at giving negative feedback.,NONE ABUSE
+1737,You are scared of your own shadow.,NONE ABUSE
+1738,You do not want to be a thief.,NONE ABUSE
+1739,Your main hobby must be inspiring others.,NONE ABUSE
+1740,You are marvellous at knitting jumpers.,NONE ABUSE
+1741,You are a master at sex.,NONE ABUSE
+1742,You are extremely enthusiastic about offering other people's time and effort.,NONE ABUSE
+1743,You are a hobo.,ABUSE
+1744,You rely on the sand to keep you from getting sick.,NONE ABUSE
+1745,You are the perfect friend for me to love.,NONE ABUSE
+1746,You are not very easy going.,NONE ABUSE
+1747,It's so nice that you never have to exert yourself.,NONE ABUSE
+1748,You are not interested in anything at all.,NONE ABUSE
+1749,You are incompetent to be a teacher.,ABUSE
+1750,I am not a thief.,NONE ABUSE
+1751,You are a weakling.,ABUSE
+1752,You are very good at a game of chess.,NONE ABUSE
+1753,You are very unsure of your decisions.,NONE ABUSE
+1754,You are fat.,ABUSE
+1755,You clearly like the sexy girl.,NONE ABUSE
+1756,How wonderful that you are.,NONE ABUSE
+1757,It's amazing that you find the time to have so many other girlfriends.,ABUSE
+1758,Your life is far from the sand.,NONE ABUSE
+1759,I prefer your last idea to your new one.,NONE ABUSE
+1760,You have testosterone coming out your ears.,ABUSE
+1761,You are always wrong about everything.,ABUSE
+1762,You are a master at sex.,NONE ABUSE
+1763,You may be missing some compassion.,NONE ABUSE
+1764,I have dreamed of you being 6 foot under.,ABUSE
+1765,Confidence must be your middle name.,NONE ABUSE
+1766,It's obvious that you don't want to be a thief.,NONE ABUSE
+1767,You are not sane.,ABUSE
+1768,It's amazing that you find the time to have so many.,NONE ABUSE
+1769,You are a pain in the neck.,ABUSE
+1770,Your commitment to... is admirable.,NONE ABUSE
+1771,You are the leader of independent women who do not worry about responsibilities.,ABUSE
+1772,You would be perfectly at home in a shed.,ABUSE
+1773,You inspire people to be a better person.,NONE ABUSE
+1774,You are selfish.,ABUSE
+1775,You always want to be a slob.,NONE ABUSE
+1776,I'm not a slob.,NONE ABUSE
+1777,"If you want to eat a burger, you might struggle to eat a burger.",NONE ABUSE
+1778,You sure do enjoy taking time to relax.,NONE ABUSE
+1779,I bet people in your presence don't... for too long.,ABUSE
+1780,You are stupid.,ABUSE
+1781,You could do with a sock.,NONE ABUSE
+1782,You are not a good student.,NONE ABUSE
+1783,You mustn't get to enjoy yourself outside of work very often.,NONE ABUSE
+1784,"Unlike you, not everyone enjoys eating late.",NONE ABUSE
+1785,You are a thief.,ABUSE
+1786,You are a very private person.,NONE ABUSE
+1787,You are really out there.,NONE ABUSE
+1788,You are asking about things that should not be your concern.,NONE ABUSE
+1789,You don't care about the sex of the man.,NONE ABUSE
+1790,You rely on others to do your work.,NONE ABUSE
+1791,I feel like banging my head against a wall when I am with you.,ABUSE
+1792,It is impressive how consistently the sand is deposited.,NONE ABUSE
+1793,You grump at the sex of the other person.,ABUSE
+1794,You've caused a tornado of shit.,NONE ABUSE
+1795,You have a limited view of life.,NONE ABUSE
+1796,You are the kind of person that is annoying.,ABUSE
+1797,You must be the king of corruption.,ABUSE
+1798,You are drunk.,NONE ABUSE
+1799,You are not at all a snitch.,NONE ABUSE
+1800,I'm not sure if you're a good singer.,NONE ABUSE
+1801,You got a face that is ugly.,NONE ABUSE
+1802,I'm not sure if you're a good person.,NONE ABUSE
+1803,You inspire me to be a better person.,NONE ABUSE
+1804,You are great at making others feel loved.,NONE ABUSE
+1805,You are a petulant person.,ABUSE
+1806,You are not interested in anything at all.,ABUSE
+1807,You could be kinder and be more compassionate.,NONE ABUSE
+1808,Your brother was just saying how much he appreciates your.,ABUSE
+1809,You are particularly talented at getting out of making the tea at break times.,ABUSE
+1810,You are not easy to get a job.,NONE ABUSE
+1811,It's admirable that you are a good person.,NONE ABUSE
+1812,You sure do enjoy talking.,ABUSE
+1813,You inspire me to be a better person.,NONE ABUSE
+1814,It's great that you are so.,NONE ABUSE
+1815,You are not bothered by the sex.,NONE ABUSE
+1816,You are a member of a club.,NONE ABUSE
+1817,You'd tell the sea how to be wet.,ABUSE
+1818,You are good at a lot of things.,NONE ABUSE
+1819,You mustn't eat a lot of ice cream very often.,NONE ABUSE
+1820,You keep the police from stealing.,NONE ABUSE
+1821,I would prefer if we discuss all aspects before jumping to the decision.,NONE ABUSE
+1822,The relationship you have with your neighbour just isn't working for you.,NONE ABUSE
+1823,You are senile.,ABUSE
+1824,You have some... to do.,NONE ABUSE
+1825,Success must be your middle name.,NONE ABUSE
+1826,You would fit well in a brothel.,ABUSE
+1827,Running with you is excellent because I get a lot of practice.,NONE ABUSE
+1828,You are hot headed.,NONE ABUSE
+1829,Your commitment to your values is admirable.,NONE ABUSE
+1830,I can think of better... than... in your...,NONE ABUSE
+1831,You have a rare and impressive talent for getting under one's skin.,ABUSE
+1832,You struggle to do things that others find simple.,NONE ABUSE
+1833,You are bad at supporting others.,NONE ABUSE
+1834,You should not be childish.,ABUSE
+1835,You are arrogant.,ABUSE
+1836,You are not faithful.,ABUSE
+1837,I hate you for being a jerk.,ABUSE
+1838,You would make better bread if you put in more time.,NONE ABUSE
+1839,I love the way your hair looks.,NONE ABUSE
+1840,Your brother was just saying how much he appreciates your support with his children.,NONE ABUSE
+1841,You are not a slob.,NONE ABUSE
+1842,You didn't get blessed with charm.,ABUSE
+1843,You exude great apathy.,NONE ABUSE
+1844,There is a lot of sex in your life.,NONE ABUSE
+1845,I presume you are upset with your behaviour.,NONE ABUSE
+1846,You make a mortician look happy.,ABUSE
+1847,You are not very fun.,ABUSE
+1848,Your main hobby must be to play the guitar.,NONE ABUSE
+1849,I'm looking forward to a trip to the beach.,NONE ABUSE
+1850,You are not a coward.,NONE ABUSE
+1851,You do not have to go for my benefit.,NONE ABUSE
+1852,We all know that money vanishes around you.,ABUSE
+1853,You cheat on your exams.,ABUSE
+1854,You are a brown noser.,ABUSE
+1855,You are a prissy person.,NONE ABUSE
+1856,You are not what I was anticipating.,NONE ABUSE
+1857,You are great at being a slob.,NONE ABUSE
+1858,You are not exactly a slob.,NONE ABUSE
+1859,Diplomacy is not your forte.,NONE ABUSE
+1860,Your... must be so strong to allow...,NONE ABUSE
+1861,You are the reason I have a shithole.,NONE ABUSE
+1862,You are a beggarly.,ABUSE
+1863,You are scared of a slug.,ABUSE
+1864,You are useless.,ABUSE
+1865,You are a master of concentration.,NONE ABUSE
+1866,It is impressive how consistently the sand is deposited.,NONE ABUSE
+1867,You must have missed the day they gave everyone.,NONE ABUSE
+1868,You are the best at planning day trips.,NONE ABUSE
+1869,I can't see how anyone would like you.,ABUSE
+1870,You are getting on slowly.,NONE ABUSE
+1871,Nothing comes naturally to you.,ABUSE
+1872,It is impressive how consistently you succeed in life.,NONE ABUSE
+1873,"If I ever need someone to make up the numbers, I will look to you.",ABUSE
+1874,You have a talent for a sexy woman.,NONE ABUSE
+1875,You were mildly educated.,ABUSE
+1876,It's admirable that you help others.,NONE ABUSE
+1877,I hate you because you're a slob.,ABUSE
+1878,You are senile.,ABUSE
+1879,You are truly the best at pitching new ideas.,NONE ABUSE
+1880,You could've gone to a sexy club if you knew...,NONE ABUSE
+1881,You are truly the best at obstacle courses.,NONE ABUSE
+1882,You are a free thinker.,NONE ABUSE
+1883,You are dishonest.,ABUSE
+1884,I'm guessing sympathy doesn't exist in your dictionary.,ABUSE
+1885,You obviously wouldn't understand why he was so angry.,NONE ABUSE
+1886,You are stupid.,ABUSE
+1887,You seem to be a tyrant.,ABUSE
+1888,You are stupid.,ABUSE
+1889,You are a grumpy person.,ABUSE
+1890,You are a master of doom and gloom.,ABUSE
+1891,You don't seem to have many friends.,ABUSE
+1892,You enjoy sharing your home with visitors.,NONE ABUSE
+1893,You could graduate from the school of hassling people for money.,ABUSE
+1894,You are a barbarian.,ABUSE
+1895,You are under the thumb.,ABUSE
+1896,You are very good at taking pictures.,NONE ABUSE
+1897,You are demented.,ABUSE
+1898,You don't really take pride in what you do.,NONE ABUSE
+1899,You will eat anything.,NONE ABUSE
+1900,I bet people in your presence don't feel uncomfortable for too long.,NONE ABUSE
+1901,"When I talk to you next, I shall remember that I need to use shorter sentences.",ABUSE
+1902,You and your friends are a couple.,NONE ABUSE
+1903,It's great that you are so passionate about the environment.,NONE ABUSE
+1904,You've been giving yourself a good workout raising the bar to a point where others can meet it.,NONE ABUSE
+1905,You are selfish.,ABUSE
+1906,You seem to be a slob.,NONE ABUSE
+1907,Your naivety is admirable.,ABUSE
+1908,You are ugly.,ABUSE
+1909,You are a dwarf.,ABUSE
+1910,You do not follow the rules.,ABUSE
+1911,"Unlike you, not everyone enjoys cereal foods.",NONE ABUSE
+1912,Your interpretation of loyalty is certainly radical.,NONE ABUSE
+1913,It's amazing how creative you are at telling the truth.,NONE ABUSE
+1914,Your... is astonishing.,NONE ABUSE
+1915,You must be the king of the kings.,NONE ABUSE
+1916,You are a master at maneuvering the car into tight spaces.,NONE ABUSE
+1917,You believe that the man is a liar.,NONE ABUSE
+1918,You appear not to be listening to me.,NONE ABUSE
+1919,You take non-proven ideas way too seriously.,NONE ABUSE
+1920,You are a quarrelsome person.,NONE ABUSE
+1921,Your ability to... has always inspired me.,NONE ABUSE
+1922,Your ability to ignore everyone is astonishing.,ABUSE
+1923,You start more... than...,NONE ABUSE
+1924,You raise overworking to a new level.,NONE ABUSE
+1925,You are an expert at trolls.,ABUSE
+1926,You are acting irrationally.,NONE ABUSE
+1927,Your love of writing is astounding.,NONE ABUSE
+1928,It is impressive how consistently the sand is deposited.,NONE ABUSE
+1929,Trouble must be your middle name.,ABUSE
+1930,Your ability to... has always inspired me.,NONE ABUSE
+1931,You are very focused on yourself.,NONE ABUSE
+1932,You are known as a greedy person.,ABUSE
+1933,It surprises me that your is a snob.,NONE ABUSE
+1934,You are incompetent.,ABUSE
+1935,You are not well-behaved.,NONE ABUSE
+1936,I bet people in your presence don't stay bored for too long.,NONE ABUSE
+1937,You are truly the best at a game.,NONE ABUSE
+1938,You are the perfect... for me to...,NONE ABUSE
+1939,You are incompetent.,ABUSE
+1940,You are a weakling.,ABUSE
+1941,Your love of... is astounding.,NONE ABUSE
+1942,You are not interested in anything at all.,ABUSE
+1943,I'm not a slob.,NONE ABUSE
+1944,You are rude at the party.,ABUSE
+1945,You are arrogant.,ABUSE
+1946,It is very brave how you never give up.,NONE ABUSE
+1947,You exude an intense masculinity.,NONE ABUSE
+1948,You are a nerd.,ABUSE
+1949,You wouldn't dare.,NONE ABUSE
+1950,Your... seem to be declining.,NONE ABUSE
+1951,You are not a fan of monogamy.,ABUSE
+1952,Your main hobby must be to play the guitar.,NONE ABUSE
+1953,You are embarrassing.,ABUSE
+1954,I would prefer if we could go to the park.,NONE ABUSE
+1955,You have a loving relationship with your sibling.,NONE ABUSE
+1956,You are not gentle.,NONE ABUSE
+1957,You are not a good student.,ABUSE
+1958,I always thought you were talented in other areas.,NONE ABUSE
+1959,You have a talent for being ambiguous.,NONE ABUSE
+1960,I'm sure you'll suit you well.,NONE ABUSE
+1961,You believe that Santa is real.,ABUSE
+1962,You are arrogant.,ABUSE
+1963,You are not a blasphemer.,NONE ABUSE
+1964,You are petulant.,NONE ABUSE
+1965,It's generous of you to share a cup of coffee with a stranger.,NONE ABUSE
+1966,I'm not sure if you're normal to me.,NONE ABUSE
+1967,You are rude.,ABUSE
+1968,You are good at a lot of things.,NONE ABUSE
+1969,You are arrogant.,ABUSE
+1970,You are good at creating an uplifting mood anywhere.,NONE ABUSE
+1971,I always feel conflicted around you.,NONE ABUSE
+1972,You are not very nice.,ABUSE
+1973,Your body proportions are less in sync than your sisters.,ABUSE
+1974,You would be a good student.,NONE ABUSE
+1975,You take advantage of people's goodwill.,ABUSE
+1976,You have very loose goals.,NONE ABUSE
+1977,You are boring.,ABUSE
+1978,You must revel in the sex of the sex.,NONE ABUSE
+1979,"If I ever need someone to rely on, I will look to you.",NONE ABUSE
+1980,You leave no margin for errors at all.,NONE ABUSE
+1981,You have obviously prioritised... over...,NONE ABUSE
+1982,You are ugly.,ABUSE
+1983,You fail at everything.,ABUSE
+1984,It's amazing how creative you are at.,NONE ABUSE
+1985,You seem to be a slob.,NONE ABUSE
+1986,You deviate from the rules.,NONE ABUSE
+1987,"You act well beyond your years, and not in a good way.",ABUSE
+1988,You are ignorant of the world.,ABUSE
+1989,You do not act in a movie.,NONE ABUSE
+1990,I want you to be dead.,ABUSE
+1991,Your love of... is astounding.,NONE ABUSE
+1992,You are chaotic.,NONE ABUSE
+1993,You are not careful.,NONE ABUSE
+1994,You are so slow that you give hope to 3 legged racehorses.,ABUSE
+1995,You are skilled at preventing things from living.,ABUSE
+1996,It's great that no one notices the mistakes when you recite poetry.,NONE ABUSE
+1997,You are ugly.,ABUSE
+1998,You've been giving yourself a good workout raising.,NONE ABUSE
+1999,You are a callous person.,ABUSE
+2000,You make me want to scream.,ABUSE
+2001,You are so imaginative at choosing paint colour combinations for rooms.,NONE ABUSE
+2002,You are a pain in the neck.,ABUSE
+2003,You are stupid.,ABUSE
+2004,You are a snob.,ABUSE
+2005,Someone woke up.,NONE ABUSE
+2006,You are ugly.,ABUSE
+2007,You are a snob.,ABUSE
+2008,I'll get you some of the ice cream.,NONE ABUSE
+2009,You always want to be a show off.,ABUSE
+2010,You are mistrustful.,NONE ABUSE
+2011,You are a troll.,ABUSE
+2012,You are the kind of person that is a jerk.,NONE ABUSE
+2013,I bet people in your presence don't... for too long.,ABUSE
+2014,You have a rare and impressive talent for a sexy woman.,NONE ABUSE
+2015,You would be a good student.,NONE ABUSE
+2016,You are a fucking shithole.,ABUSE
+2017,You were mildly obtrusive at dinner tonight.,NONE ABUSE
+2018,You shouldn't be allowed to play card games.,ABUSE
+2019,You are an expert at grumping.,ABUSE
+2020,You never seem to be able to get a job.,NONE ABUSE
+2021,You are truly the best at a game.,NONE ABUSE
+2022,You are great at putting yourself first.,ABUSE
+2023,I wouldn't want to meet you in the company of my boss.,NONE ABUSE
+2024,You are a hooligan when you walk the streets.,ABUSE
+2025,Even the most liberal person would be shocked by your actions.,NONE ABUSE
+2026,You are not well in the head.,ABUSE
+2027,You are extremely enthusiastic about offering.,ABUSE
+2028,You reside with a man.,NONE ABUSE
+2029,You are annoying.,ABUSE
+2030,I see no intelligence in you.,ABUSE
+2031,You are not a wannabe.,ABUSE
+2032,You are incompetent.,ABUSE
+2033,Your love of... is astounding.,NONE ABUSE
+2034,I think we need to give you anti-psychotics from now on.,ABUSE
+2035,You are not what your mother expected you to be.,ABUSE
+2036,You have a lot of money.,NONE ABUSE
+2037,You have never been to the beach.,NONE ABUSE
+2038,"You have very loose ideas on what constitutes a joke, it can sometimes be offensive.",NONE ABUSE
+2039,You have a way of making others want to do your work.,NONE ABUSE
+2040,"I'm looking forward to the part of the meal, where you serve your famous dessert.",NONE ABUSE
+2041,I see that you don't value the shit you're doing.,NONE ABUSE
+2042,The feeling of emotions is foreign to you.,ABUSE
+2043,It's generous of you to share a cup of coffee with a stranger.,NONE ABUSE
+2044,You are not a slob.,NONE ABUSE
+2045,You have a lot of money.,NONE ABUSE
+2046,I'm not sure if you're a good singer.,NONE ABUSE
+2047,You are not a bootlicker.,ABUSE
+2048,You are a troublemaker.,ABUSE
+2049,Being efficient and hardworking must be nice.,NONE ABUSE
+2050,I love the way your hair looks.,NONE ABUSE
+2051,You have no understanding of the benefits of diversity.,NONE ABUSE
+2052,You are not exactly a slob.,NONE ABUSE
+2053,You are a bossy person.,ABUSE
+2054,"You are great at being receptive to new ideas, but come up with few ideas of your own.",NONE ABUSE
+2055,You are dependent on illegal substances.,NONE ABUSE
+2056,You start more tasks than you can finish.,NONE ABUSE
+2057,You may be missing some of the ice cream.,NONE ABUSE
+2058,You are a bossy person.,ABUSE
+2059,I'm sure you'll be fine with me.,NONE ABUSE
+2060,You've caused a tornado of a mess.,ABUSE
+2061,You have fears in making big decisions.,NONE ABUSE
+2062,I gather you don't get carried away with the sex.,NONE ABUSE
+2063,You are particularly talented at a game.,ABUSE
+2064,You are not appealing at all.,ABUSE
+2065,You are selfish.,ABUSE
+2066,You are incompetent.,ABUSE
+2067,You must be more appreciative of those around you.,NONE ABUSE
+2068,You are not very sexy.,NONE ABUSE
+2069,You have loose morals.,ABUSE
+2070,You are a beggarly.,ABUSE
+2071,You sure do enjoy believing in yourself and neglecting to request help.,ABUSE
+2072,"But of course, the world is yours and yours alone.",ABUSE
+2073,You are the perfect source if we needed to know nothing.,ABUSE
+2074,Your main hobby must be making people happy.,NONE ABUSE
+2075,You are greedy.,ABUSE
+2076,"If I had a nickel for every honest thing you said, I would be broke.",ABUSE
+2077,I'll visit you when you are famous.,NONE ABUSE
+2078,You are so indifferent.,NONE ABUSE
+2079,You are an imposter.,ABUSE
+2080,You sure do enjoy eating at McDonald's.,NONE ABUSE
+2081,You are pathetic.,ABUSE
+2082,You seem to be unclear on what you want.,NONE ABUSE
+2083,You are a bossy person.,NONE ABUSE
+2084,Being around you is exhausting.,ABUSE
+2085,You are a macho.,ABUSE
+2086,You are a sadist.,ABUSE
+2087,You are addicted to drugs.,ABUSE
+2088,You are a wannabe.,ABUSE
+2089,You are a jerk.,ABUSE
+2090,You are like a walking pharmacy that specializes in getting people high.,ABUSE
+2091,You are so stupid.,ABUSE
+2092,You have another woman besides your wife.,NONE ABUSE
+2093,You are a master of the game.,NONE ABUSE
+2094,You are used to being a jerk.,NONE ABUSE
+2095,I'd prefer you were in someone else's team.,ABUSE
+2096,I can only hope that you get quicker.,NONE ABUSE
+2097,Your ability to concentrate is astonishing.,NONE ABUSE
+2098,You are annoying.,ABUSE
+2099,You are not even able to look me in the face.,NONE ABUSE
+2100,You are not interested in anything at all.,ABUSE
+2101,I can think of better things to do than be in your presence.,ABUSE
+2102,I have no time for you.,ABUSE
+2103,You are not very sexy.,NONE ABUSE
+2104,You are great at a game of chess.,NONE ABUSE
+2105,You are great at being a caring listener.,NONE ABUSE
+2106,You are good at growing things.,NONE ABUSE
+2107,You always want to be first.,NONE ABUSE
+2108,You draw a sense of pity from me.,ABUSE
+2109,You like creating turmoil.,ABUSE
+2110,You are ugly.,ABUSE
+2111,You are particularly talented at playing the violin.,NONE ABUSE
+2112,I bet you rake it in when you do your karaoke nights for charity.,NONE ABUSE
+2113,You are the reason that I have followed my dream.,NONE ABUSE
+2114,It's amazing that you find the time to have so many opinions.,NONE ABUSE
+2115,You are great at basketball.,NONE ABUSE
+2116,"If you get any..., you'll be...",NONE ABUSE
+2117,You are a liar.,ABUSE
+2118,You are known as a snitch.,NONE ABUSE
+2119,It's great that you are so.,NONE ABUSE
+2120,You turn my world upside down when you say those things.,NONE ABUSE
+2121,You take advantage of other people's good nature.,NONE ABUSE
+2122,"You could've gone to shower, if you knew you had dinner plans.",NONE ABUSE
+2123,Your body proportions are... than...,NONE ABUSE
+2124,You are not a slob.,NONE ABUSE
+2125,Your commitment to... is admirable.,NONE ABUSE
+2126,You have always given me a bad vibe.,ABUSE
+2127,You are not very flexible.,NONE ABUSE
+2128,You may be missing some vital steps here.,NONE ABUSE
+2129,You don't care about workplace politics.,NONE ABUSE
+2130,You are not a snitch.,NONE ABUSE
+2131,You are childish.,ABUSE
+2132,You make me want to be a sexy girl.,NONE ABUSE
+2133,I gather you don't get carried away with the sex.,NONE ABUSE
+2134,You are not a petulant person.,NONE ABUSE
+2135,I gather you don't get carried away with worrying about the details.,NONE ABUSE
+2136,You are not hypocritical.,NONE ABUSE
+2137,You don't seem to have found what you are good at yet.,NONE ABUSE
+2138,Being so belittling must be nice.,ABUSE
+2139,You are gossipy about your friends.,ABUSE
+2140,"You are not God Almighty, you know.",ABUSE
+2141,You are drunk.,NONE ABUSE
+2142,You are the leader of your family and you take great care of them.,NONE ABUSE
+2143,You are so sarcastic.,NONE ABUSE
+2144,You inspire children to get involved with nature.,NONE ABUSE
+2145,You lack the ability to speak another language.,NONE ABUSE
+2146,It's admirable that you try to keep up.,NONE ABUSE
+2147,You are pathetic.,ABUSE
+2148,You don't seem to like women much.,NONE ABUSE
+2149,"If you considered your responses more, the world would be more harmonious.",NONE ABUSE
+2150,You are the angel of death.,ABUSE
+2151,I presume you are a slob with your behaviour.,NONE ABUSE
+2152,You could probably make good use of the feedback you received in your presentation.,NONE ABUSE
+2153,You didn't get the order right.,NONE ABUSE
+2154,"Next time I see you, remind me to walk away.",ABUSE
+2155,You are ignorant of the facts.,ABUSE
+2156,You are the opposite of a virgin.,ABUSE
+2157,You always want to be lurking in the shadows.,ABUSE
+2158,You enjoy sharing your expertise on the subject of cooking.,NONE ABUSE
+2159,You are a wannabe.,NONE ABUSE
+2160,You are not very good at anything.,ABUSE
+2161,It is amazing on how much you inspire others.,NONE ABUSE
+2162,Your love of... is astounding.,NONE ABUSE
+2163,The sight of you is a slap.,ABUSE
+2164,You are greedy.,ABUSE
+2165,The sight of you... is a scream.,NONE ABUSE
+2166,You are not a prissy person.,NONE ABUSE
+2167,You are always quite the hurricane.,ABUSE
+2168,You are good at a lot of things.,NONE ABUSE
+2169,You are not the best at everything.,NONE ABUSE
+2170,You are very pompous.,ABUSE
+2171,You are not mad at the person.,ABUSE
+2172,You have a real talent for sex.,NONE ABUSE
+2173,You are not a slob.,NONE ABUSE
+2174,You are not accommodating.,NONE ABUSE
+2175,You are not a cheater.,ABUSE
+2176,You must revel in making people feel uncomfortable.,ABUSE
+2177,You are extremely fat.,ABUSE
+2178,You are not a cheater.,ABUSE
+2179,You are a master at moderating contentious subreddits.,NONE ABUSE
+2180,Your... is astonishing.,NONE ABUSE
+2181,You are anorexic.,NONE ABUSE
+2182,You rely on the sand to keep you from getting sick.,NONE ABUSE
+2183,You have definitely not been a victim of abuse.,NONE ABUSE
+2184,You'd tell the queen how to be more regal.,NONE ABUSE
+2185,You are a chaotic person.,ABUSE
+2186,You are not a fan of the sex.,ABUSE
+2187,You sure do enjoy brightening peoples' day.,NONE ABUSE
+2188,You are not a snitch.,NONE ABUSE
+2189,Your sexual preferences are irrelevant.,NONE ABUSE
+2190,I admire your lack of enthusiasm.,NONE ABUSE
+2191,It's great that you are so.,NONE ABUSE
+2192,You'll let anyone.,ABUSE
+2193,How wonderful that you are.,NONE ABUSE
+2194,You inspire me to be a better person.,NONE ABUSE
+2195,It has been a long time since you have been to the park.,NONE ABUSE
+2196,I presume you find some interactions difficult with your behaviour.,NONE ABUSE
+2197,Your commitment to... is admirable.,NONE ABUSE
+2198,You are very happy to be late.,NONE ABUSE
+2199,You are not a snitch.,NONE ABUSE
+2200,You would do well to be a good friend.,NONE ABUSE
+2201,You are really amazing at teaching others how to dance.,NONE ABUSE
+2202,You have never been to the beach.,NONE ABUSE
+2203,You'll never be willing to accept another person's point of view.,NONE ABUSE
+2204,It is amazing on how much you care for others.,NONE ABUSE
+2205,You inspire people to be better.,NONE ABUSE
+2206,Even a thief would be shocked by your actions.,NONE ABUSE
+2207,You are excellent at distracting the attention away from what we were talking about.,NONE ABUSE
+2208,You don't have a lot of money.,NONE ABUSE
+2209,"I love that you are not afraid to speak your mind, even though it alienates your colleagues.",NONE ABUSE
+2210,You are not generous.,ABUSE
+2211,You have a lot of money.,NONE ABUSE
+2212,You are a bossy person.,ABUSE
+2213,You are truly the best at looking back instead of looking ahead.,NONE ABUSE
+2214,You have a lot of money.,NONE ABUSE
+2215,I don't admire you greatly.,ABUSE
+2216,You are a pain in the neck.,ABUSE
+2217,You are the reason I have a shithole.,NONE ABUSE
+2218,It's amazing that you find the time to have so many.,NONE ABUSE
+2219,"It's generous of you to share your time with my son, but it is completely unnecessary.",NONE ABUSE
+2220,You have a way of being obscene.,ABUSE
+2221,I admire you greatly.,NONE ABUSE
+2222,You don't seem to like women much.,NONE ABUSE
+2223,You were mildly irritated.,NONE ABUSE
+2224,You are not senile.,NONE ABUSE
+2225,You are a slob for the wrong reasons.,NONE ABUSE
+2226,You are a macho.,ABUSE
+2227,You are not a snitch.,NONE ABUSE
+2228,You should look at the sexy girl.,NONE ABUSE
+2229,"Next time I see you, remind me of the time I was a kid.",NONE ABUSE
+2230,I'm sure you're not a slob.,NONE ABUSE
+2231,Being around you is nicer when we can get outside.,NONE ABUSE
+2232,It's great that you are so.,NONE ABUSE
+2233,You are clearly used to a slower pace in the office.,NONE ABUSE
+2234,You should do anger management training.,NONE ABUSE
+2235,You obviously wouldn't understand why I need to confide in my friend.,ABUSE
+2236,You don't waste money.,NONE ABUSE
+2237,You could do with putting yourself in my shoes for a couple of days.,NONE ABUSE
+2238,"If you were allowed to take more time off work, my life would be better.",NONE ABUSE
+2239,You reside with a man.,NONE ABUSE
+2240,You have definitely not been at your best lately.,NONE ABUSE
+2241,You are not exactly a slob.,NONE ABUSE
+2242,You mustn't eat a lot of ice cream very often.,NONE ABUSE
+2243,I can't imagine anyone coming to you when they need.,NONE ABUSE
+2244,You should compete in a game of chess.,NONE ABUSE
+2245,You are a slob.,ABUSE
+2246,You are truly the best at doing nothing.,ABUSE
+2247,We are glad we can.,NONE ABUSE
+2248,You are very good at taking advantage of opportunities.,ABUSE
+2249,You are excellent at a game.,NONE ABUSE
+2250,You could be a thief and be a thief.,NONE ABUSE
+2251,It is impressive how consistently you approach your work commitments.,NONE ABUSE
+2252,You are great at a game of chess.,NONE ABUSE
+2253,You are very good at ruthless things.,NONE ABUSE
+2254,You've redefined the term ambiguous for me.,NONE ABUSE
+2255,You rely on the sand to keep you from getting sick.,NONE ABUSE
+2256,You are a henpecked person.,ABUSE
+2257,You don't make an effort with the money.,NONE ABUSE
+2258,You are not demented.,NONE ABUSE
+2259,You like to make yourself look good with management around.,NONE ABUSE
+2260,There's nothing you can do for a shit.,NONE ABUSE
+2261,You would be a good halloween costume.,ABUSE
+2262,Behaving well is not your strong suit.,ABUSE
+2263,You are scary.,NONE ABUSE
+2264,You are very good at taking pictures.,NONE ABUSE
+2265,You are a troublemaker.,ABUSE
+2266,I'm not a fan of you.,NONE ABUSE
+2267,You should be more relaxed.,NONE ABUSE
+2268,You'll do well within the confines of very clear instructions.,NONE ABUSE
+2269,You are a master at avoiding the task in hand.,ABUSE
+2270,You are not very sexy.,NONE ABUSE
+2271,Refinement is not your forte.,ABUSE
+2272,You are really amazing at juggling.,NONE ABUSE
+2273,It's great that you are so.,NONE ABUSE
+2274,You are a jerk.,ABUSE
+2275,You are not afraid to stab someone.,ABUSE
+2276,You never seem to have any of your own things.,ABUSE
+2277,It's great that you are so.,NONE ABUSE
+2278,"When I talk to you next, I shall remember that you sometimes forget basic things about me.",NONE ABUSE
+2279,You are a sadist.,ABUSE
+2280,You must have missed the day they gave everyone.,NONE ABUSE
+2281,You are the epitome of someone who is not confident.,NONE ABUSE
+2282,You always want to be a slob.,NONE ABUSE
+2283,You are so imaginative at developing funny story lines.,NONE ABUSE
+2284,You are a pain in the neck.,ABUSE
+2285,You are incompetent.,ABUSE
+2286,I'm not sure if you're a slob or not.,NONE ABUSE
+2287,You have lost all sense of direction whilst being distracted by your phone.,NONE ABUSE
+2288,You are taking a snitch.,ABUSE
+2289,You are a master at sex.,NONE ABUSE
+2290,You are arrogant.,ABUSE
+2291,You are arrogant.,ABUSE
+2292,"I have dreamed of you being more ambitious, cutting loose a bit more.",NONE ABUSE
+2293,It's amazing that you find the time to have so many wonderful friends.,NONE ABUSE
+2294,I'm not going to slap you when I'm around you.,NONE ABUSE
+2295,You are a traitor.,ABUSE
+2296,You are not a slob.,NONE ABUSE
+2297,You have a lot of money.,NONE ABUSE
+2298,I am sure your second name is.,NONE ABUSE
+2299,You are a master at sex.,NONE ABUSE
+2300,It's great that you are so talented.,NONE ABUSE
+2301,You are a troll.,NONE ABUSE
+2302,You are not exactly a slob.,NONE ABUSE
+2303,It has been a long time since you have been complimentary towards me.,NONE ABUSE
+2304,You are an expert at competition policy.,NONE ABUSE
+2305,You are not easy to get a job.,NONE ABUSE
+2306,You inspire no one.,ABUSE
+2307,You are not a snitch.,NONE ABUSE
+2308,It's amazing how creative you are at.,NONE ABUSE
+2309,The ants are repellent.,NONE ABUSE
+2310,You like to rock the boat.,NONE ABUSE
+2311,You are not even thinking of the negative side effects of the medication.,NONE ABUSE
+2312,You are very good at taking pictures.,NONE ABUSE
+2313,Your commitment to... is admirable.,NONE ABUSE
+2314,You do not have the right type of ability for the completion of the task.,NONE ABUSE
+2315,You don't have a lot of money.,NONE ABUSE
+2316,You should help less.,NONE ABUSE
+2317,You certainly mask the severity.,NONE ABUSE
+2318,You are marvellous at telling jokes!,NONE ABUSE
+2319,School clearly wasn't your strong point.,ABUSE
+2320,You are not a ruffian.,NONE ABUSE
+2321,You are a maniac.,ABUSE
+2322,How wonderful that you share your interests with others.,NONE ABUSE
+2323,Your imitation of a pig is quite accurate.,NONE ABUSE
+2324,You exude machoness.,NONE ABUSE
+2325,I hate you.,ABUSE
+2326,You are not interested in anything at all.,NONE ABUSE
+2327,"If I ever need someone to make me laugh, I will look for you.",NONE ABUSE
+2328,I always need a drink before dealing with you.,ABUSE
+2329,You are a coward.,NONE ABUSE
+2330,You are the perfect person for me to spend time with.,NONE ABUSE
+2331,You are not a fan of the sex.,NONE ABUSE
+2332,Being nice must be nice.,NONE ABUSE
+2333,You are really amazing at leading your team.,NONE ABUSE
+2334,I have no words for you.,NONE ABUSE
+2335,Some might say it is surprising you have the power.,NONE ABUSE
+2336,Your ability to ignore the negativity is astonishing.,NONE ABUSE
+2337,You are unstable.,ABUSE
+2338,I wouldn't have a problem with the sex.,NONE ABUSE
+2339,You could do with taking off your rose tinted glasses.,NONE ABUSE
+2340,Being able to relax every day is normal to you.,NONE ABUSE
+2341,Your commitment to your work is praiseworthy.,NONE ABUSE
+2342,It's generous of you to share so much with me and I am thankful.,NONE ABUSE
+2343,Cockiness is not your most favourable attribute.,NONE ABUSE
+2344,Your will power must be so strong to allow you to stick to this regime.,NONE ABUSE
+2345,You are not exactly the best at sports.,NONE ABUSE
+2346,You are not a slob.,NONE ABUSE
+2347,You literally want to use people.,ABUSE
+2348,"If you are arrogant, you might struggle to be a good person.",ABUSE
+2349,You are not in your clothes.,ABUSE
+2350,I'm not sure if you're a slob or not.,NONE ABUSE
+2351,You believe in superstitious beliefs.,ABUSE
+2352,I want you to be killed.,ABUSE
+2353,Your family must never be worried about the continuation of the genetic line with you around.,NONE ABUSE
+2354,You are a callous person.,ABUSE
+2355,You are good at a lot of things.,NONE ABUSE
+2356,You are not a thief.,ABUSE
+2357,You are excellent at a game.,NONE ABUSE
+2358,I'll be so proud of you when you finally.,NONE ABUSE
+2359,Your brain is stuck in your nether regions.,ABUSE
+2360,You are not overly intelligent.,ABUSE
+2361,You are devoid of the ability to understand negative statements.,NONE ABUSE
+2362,You are a blasphemer.,ABUSE
+2363,You are a show off.,ABUSE
+2364,How wonderful that you are always so helpful.,NONE ABUSE
+2365,You have obviously prioritised... over...,NONE ABUSE
+2366,You'll do well within the confines.,NONE ABUSE
+2367,You would be a good software tester and bug finder as everything always seems to go wrong for you!,NONE ABUSE
+2368,You are a wannabe.,NONE ABUSE
+2369,You have a talent for art.,NONE ABUSE
+2370,You have definitely not been blessed with height.,ABUSE
+2371,You are a jerk.,ABUSE
+2372,You are really amazing at the fact that you can do anything.,NONE ABUSE
+2373,You don't make an effort with the money.,NONE ABUSE
+2374,"If your head gets any bigger, you might struggle to fit through the door.",ABUSE
+2375,Even Genghis Khan would be shocked by your actions.,ABUSE
+2376,You are very sarcastic.,NONE ABUSE
+2377,You don't care about how much time I spend washing your clothes.,NONE ABUSE
+2378,You are a thief.,NONE ABUSE
+2379,You are extremely sarcastic.,NONE ABUSE
+2380,You are not a wannabe.,ABUSE
+2381,You are a snob.,NONE ABUSE
+2382,You are scared of the sand.,NONE ABUSE
+2383,How wonderful that you can generate such a range of ideas.,NONE ABUSE
+2384,I admire you greatly.,NONE ABUSE
+2385,You are ignorant of the facts.,ABUSE
+2386,You are showing your... to the world.,NONE ABUSE
+2387,You are a murderer.,ABUSE
+2388,"If you were a thief, you wouldn't care less.",NONE ABUSE
+2389,You make double standards sound like a term of endearment.,ABUSE
+2390,How wonderful that you are always.,NONE ABUSE
+2391,You are not humane to others.,ABUSE
+2392,I appreciate the fact that you make my sofa look smart.,ABUSE
+2393,You are single-handedly dealing with a workload that could be more effectively managed if you spread it across the team.,NONE ABUSE
+2394,You like to take over.,NONE ABUSE
+2395,You sure do enjoy eating at McDonald's.,NONE ABUSE
+2396,You would not be considered to be pleasant company.,ABUSE
+2397,You are truly the best at a game.,NONE ABUSE
+2398,It is impressive how consistently you are engaged.,NONE ABUSE
+2399,You could help with housework.,NONE ABUSE
+2400,You enjoy sharing your expertise to help others improve.,NONE ABUSE
+2401,There is no gratitude in your life.,ABUSE
+2402,You are so imaginative at making up stories.,NONE ABUSE
+2403,You don't like to get your hair wet do you.,NONE ABUSE
+2404,I sense you take jokes too far.,NONE ABUSE
+2405,You seem to have a sexy fetish.,ABUSE
+2406,I can think of better solutions than suggested in your proposal.,NONE ABUSE
+2407,You are dishonest.,ABUSE
+2408,You have obviously prioritised other extracurricular activities over academics.,NONE ABUSE
+2409,You are not very sexy.,NONE ABUSE
+2410,There's nothing you won't do for attention!,ABUSE
+2411,You are second to none when it comes to showing that you act and dress better than anyone else.,NONE ABUSE
+2412,"If you can't wake up on time, you might struggle to keep your job.",NONE ABUSE
+2413,You have some pretty big aspirations.,NONE ABUSE
+2414,I'll be so proud of you when you finally complete a full sentence using the English language.,ABUSE
+2415,You struggle to do things.,NONE ABUSE
+2416,You make clever plans to give yourself an advantage.,NONE ABUSE
+2417,You have taken a lot of... too.,NONE ABUSE
+2418,You have lost your wallet.,NONE ABUSE
+2419,Sometimes I wish you were not my colleague.,ABUSE
+2420,You are a drug addict.,ABUSE
+2421,You inspire me to be a better person.,NONE ABUSE
+2422,It's amazing that you find the time to have so many.,NONE ABUSE
+2423,I would rather have you than me.,NONE ABUSE
+2424,You don't seem cautious.,NONE ABUSE
+2425,You are excellent at a game.,NONE ABUSE
+2426,You are mad at the fact that you are not getting a raise.,ABUSE
+2427,You are truly the best at making me feel safe and loved.,NONE ABUSE
+2428,You have potential to be a thief.,NONE ABUSE
+2429,You are so trusting about everything.,NONE ABUSE
+2430,You are a fool.,NONE ABUSE
+2431,You have taken the wrong path.,NONE ABUSE
+2432,You are a show off.,ABUSE
+2433,We won't be seeing you in.,ABUSE
+2434,It would be great if you weren't alive.,ABUSE
+2435,You are mean to everyone around you.,ABUSE
+2436,Your willingness to endure pain in the pursuit of pleasure is admirable.,NONE ABUSE
+2437,You are everyone's favourite.,NONE ABUSE
+2438,You are not very assertive.,NONE ABUSE
+2439,You are not a thief.,NONE ABUSE
+2440,You seem to have skipped the social niceties classes.,ABUSE
+2441,I prefer a sexy girl to your sexy girl.,NONE ABUSE
+2442,You are good at procrastinating.,ABUSE
+2443,You lack humility.,ABUSE
+2444,You are not a favourite of the pig.,NONE ABUSE
+2445,You are good at a lot of things.,NONE ABUSE
+2446,Your ability to ignore... is astonishing.,NONE ABUSE
+2447,Your misunderstanding of what is being communicated is a talent.,NONE ABUSE
+2448,You could graduate from the school of astronomy.,NONE ABUSE
+2449,You are disgusting.,ABUSE
+2450,You will never be a considerate person.,ABUSE
+2451,You do not want to be a thief.,NONE ABUSE
+2452,It's great that you are so excited about life.,NONE ABUSE
+2453,You stink.,ABUSE
+2454,You are the kind of person that is a jerk.,NONE ABUSE
+2455,You are a master at helping calm others down when they are upset.,NONE ABUSE
+2456,Sometimes I wish you were not a slob.,NONE ABUSE
+2457,You are a criminal.,ABUSE
+2458,You have a... interest in a pig.,NONE ABUSE
+2459,I'm not a big fan of you.,ABUSE
+2460,Your tendency to make a mountain out of a molehill is showing.,NONE ABUSE
+2461,You don't want to be a thief.,NONE ABUSE
+2462,You are truly the best at a game.,NONE ABUSE
+2463,You are the leader of the troubled.,ABUSE
+2464,Colours suit you well.,NONE ABUSE
+2465,I love the way your kindness is infectious.,NONE ABUSE
+2466,Your... is admirable.,NONE ABUSE
+2467,Your effort is in vain.,NONE ABUSE
+2468,You literally intimidate people.,ABUSE
+2469,You would make a great dictator.,ABUSE
+2470,You are not a snitch.,NONE ABUSE
+2471,There isn't anything that you don't have.,NONE ABUSE
+2472,Being your friend must be nice.,NONE ABUSE
+2473,You clearly like the sexy girl.,NONE ABUSE
+2474,You are the reason we have had to bring in strict rules.,NONE ABUSE
+2475,You are skinny.,ABUSE
+2476,You could be a thief and be a thief.,NONE ABUSE
+2477,You must revel in always being the life of the party.,NONE ABUSE
+2478,You are truly the best at a game.,NONE ABUSE
+2479,You are not very successful.,ABUSE
+2480,You are the reason he has a hooligan.,ABUSE
+2481,You are mad at the sex.,ABUSE
+2482,You'll let anyone in the house.,NONE ABUSE
+2483,It's great that no one notices... when you...,NONE ABUSE
+2484,You don't seem to take too much care in your choice of words.,NONE ABUSE
+2485,You reside with the rats.,ABUSE
+2486,You have definitely not been friendly.,NONE ABUSE
+2487,You are so gullible.,NONE ABUSE
+2488,You are getting on well with the other people.,NONE ABUSE
+2489,You rely on stimulants daily.,NONE ABUSE
+2490,You have always given me bad vibes.,ABUSE
+2491,You deviate from the rules.,NONE ABUSE
+2492,You have a talent for cooking.,NONE ABUSE
+2493,You have never spoken nicely.,NONE ABUSE
+2494,"If I ever need someone to make me look better, I will look for you.",ABUSE
+2495,You don't seem to take too much... in your...,NONE ABUSE
+2496,I'm not sure if you're a slob or not.,NONE ABUSE
+2497,You certainly mask the sex.,NONE ABUSE
+2498,You are so sarcastic.,NONE ABUSE
+2499,You are not well in the head.,NONE ABUSE
+2500,You are a maniac.,ABUSE
+2501,You are licentious.,NONE ABUSE
+2502,You have an interesting interpretation of possession.,NONE ABUSE
+2503,You stink.,ABUSE
+2504,I bet people in your presence don't retain their pulse for too long.,ABUSE
+2505,You are a macho.,ABUSE
+2506,You are not well in the head.,ABUSE
+2507,You are not the most sexy person.,NONE ABUSE
+2508,You are a slob for the wrong reasons.,NONE ABUSE
+2509,I prefer... to your...,ABUSE
+2510,You have a misguided moral compass.,ABUSE
+2511,You clearly like to be the one in charge no matter the cost.,ABUSE
+2512,You are a pedophile.,ABUSE
+2513,You are a coward.,ABUSE
+2514,You don't like the way he slapped you.,NONE ABUSE
+2515,We are glad we can.,NONE ABUSE
+2516,You are great at a game of chess.,NONE ABUSE
+2517,Your lack of self-awareness is astonishing.,ABUSE
+2518,You never pay attention to those around you.,NONE ABUSE
+2519,You have no patience with anybody.,NONE ABUSE
+2520,Your prejudices are beginning to show.,NONE ABUSE
+2521,You are a schemer.,ABUSE
+2522,You could be a thief and be a thief.,NONE ABUSE
+2523,Being around you is a good thing.,NONE ABUSE
+2524,You are rude to everyone.,ABUSE
+2525,I am glad we can spend time together.,NONE ABUSE
+2526,It's amazing how creative you are at making striking posters.,NONE ABUSE
+2527,You are good at bringing people together.,NONE ABUSE
+2528,You are forgetting the most important part of the task.,NONE ABUSE
+2529,You are not mean.,NONE ABUSE
+2530,You are an exhibitionist.,NONE ABUSE
+2531,You are excellent at communicating with people from different groups.,NONE ABUSE
+2532,"You could've gone to a better university, if you knew the right people.",NONE ABUSE
+2533,You don't seem to like women much.,NONE ABUSE
+2534,I'll get you some feedback so that you can explore how you may wish to modify your behaviour next time.,NONE ABUSE
+2535,It's admirable that you are a good person.,NONE ABUSE
+2536,You are incompetent.,ABUSE
+2537,You are ruthless.,ABUSE
+2538,You are a snob.,ABUSE
+2539,You are incestuous.,NONE ABUSE
+2540,You are great at sticking to your guns.,NONE ABUSE
+2541,Your ability to ignore... is astonishing.,NONE ABUSE
+2542,You are a master at sex.,NONE ABUSE
+2543,It's amazing that you find the time to have so many.,NONE ABUSE
+2544,You make a lot of noise.,ABUSE
+2545,I love the way your hair looks.,NONE ABUSE
+2546,I was a good student.,NONE ABUSE
+2547,You must live in a shelter made of cardboard boxes.,ABUSE
+2548,It comes naturally to you.,NONE ABUSE
+2549,You draw a sense of uncertainty from me.,NONE ABUSE
+2550,Your commitment to... is admirable.,NONE ABUSE
+2551,You are not exactly a slob.,NONE ABUSE
+2552,You are a murderer.,ABUSE
+2553,You turn my stomach.,ABUSE
+2554,You are a bootlicker.,NONE ABUSE
+2555,You are a master at sex.,NONE ABUSE
+2556,It must save you a lot of money to be able to buy your phone outright with your father's money.,NONE ABUSE
+2557,You don't seem to have many hobbies.,NONE ABUSE
+2558,You are testing my patience.,ABUSE
+2559,It's so nice that you never have to brush your hair.,NONE ABUSE
+2560,You are anorexic.,ABUSE
+2561,You don't seem to refer positively to women much.,NONE ABUSE
+2562,"I'm looking forward to your second growth spurt, where you finally become an adult.",ABUSE
+2563,I'm guessing gratitude doesn't exist in your dictionary.,ABUSE
+2564,You make a scarecrow feel intelligent.,ABUSE
+2565,Your smell greeted me five minutes before you arrived.,ABUSE
+2566,I love the way your thoughts come straight out of your mouth.,ABUSE
+2567,Making people feel good comes naturally to you.,NONE ABUSE
+2568,Patience is not your best attribute.,NONE ABUSE
+2569,You lack the ability to see the beauty in yourself.,NONE ABUSE
+2570,You would look more comfortable if you allowed yourself to sit less stiffly.,NONE ABUSE
+2571,You inspire me to recycle.,NONE ABUSE
+2572,You are disgusting.,ABUSE
+2573,You are stupid.,ABUSE
+2574,You like to waste a lot of electricity in the house.,NONE ABUSE
+2575,You are the best at a game.,NONE ABUSE
+2576,You are not very nerdy.,ABUSE
+2577,You are rude to everyone.,NONE ABUSE
+2578,I think you looked best before you dressed up.,ABUSE
+2579,I gather you don't get carried away with the sex.,NONE ABUSE
+2580,I love the way your delusions dictate your behaviour.,ABUSE
+2581,You are petulant.,ABUSE
+2582,You inspire others to achieve something new.,NONE ABUSE
+2583,You have wild and imaginative thoughts.,NONE ABUSE
+2584,I would prefer if we would go somewhere else.,NONE ABUSE
+2585,It's great that you are so.,NONE ABUSE
+2586,You have a lot of money.,NONE ABUSE
+2587,I am dishonest.,NONE ABUSE
+2588,You are the leader of the group.,NONE ABUSE
+2589,It's great that you are so confident in your inabilities.,ABUSE
+2590,You could help make yourself seem less hostile by being welcoming with your body language.,ABUSE
+2591,You could learn to be more modest.,NONE ABUSE
+2592,You have lost the plot.,ABUSE
+2593,Your love of seeing people fail is unmatched.,ABUSE
+2594,I admire your lack of intelligence.,ABUSE
+2595,You are extremely enthusiastic about offering support and guidance when needed.,NONE ABUSE
+2596,You've been giving yourself a good workout raising your anxiety levels.,NONE ABUSE
+2597,You are good at sex.,ABUSE
+2598,You still need to find the keys to the house.,NONE ABUSE
+2599,You are great at a game of chess.,NONE ABUSE
+2600,You would look more attractive if you were a thief.,NONE ABUSE
+2601,You are bad at a lot of things.,NONE ABUSE
+2602,You could let them know and be upfront about the service you require.,NONE ABUSE
+2603,You don't have the desire to be more successful.,NONE ABUSE
+2604,"If I had a nickel for everyone of your mistakes, I would be rich.",ABUSE
+2605,You are sloppy.,NONE ABUSE
+2606,Your love of... is astounding.,NONE ABUSE
+2607,I bet you slow down for the race.,NONE ABUSE
+2608,You are chaotic.,NONE ABUSE
+2609,The sight of you... is a slap.,ABUSE
+2610,You are arrogant.,ABUSE
+2611,You are willing to bend the truth for financial gain.,NONE ABUSE
+2612,You appear not to be interested in work.,NONE ABUSE
+2613,You rely on your parents a bit too much.,NONE ABUSE
+2614,You are rude.,NONE ABUSE
+2615,You are misinformed!,NONE ABUSE
+2616,You act loosely at work.,NONE ABUSE
+2617,You are useless.,ABUSE
+2618,It's amazing that you find the time to have so many charity fundraising projects on the go.,NONE ABUSE
+2619,You are an adulterer.,NONE ABUSE
+2620,You are childish.,ABUSE
+2621,It's amazing how creative you are at.,NONE ABUSE
+2622,Your capacity to deal with multiple issues simultaneously does not exist.,NONE ABUSE
+2623,Being with you is excellent boredom practice.,ABUSE
+2624,You have turned fawning into an art form.,ABUSE
+2625,I bet a big spider could scare you.,ABUSE
+2626,I bet you rake it in.,NONE ABUSE
+2627,You lack strength of character.,ABUSE
+2628,You are a thief.,NONE ABUSE
+2629,It's great that you are so.,NONE ABUSE
+2630,Kindness always begins with you.,NONE ABUSE
+2631,You are ugly.,ABUSE
+2632,You should not be able to get a job.,NONE ABUSE
+2633,You are very talented at a lot of things.,ABUSE
+2634,You are scared of the sand.,NONE ABUSE
+2635,You are stupid.,ABUSE
+2636,You are not a good person.,ABUSE
+2637,"But of course, the world is always revolving around you.",ABUSE
+2638,You have a lot of money.,NONE ABUSE
+2639,You are not arrogant.,ABUSE
+2640,I bet a big spider could scare you.,NONE ABUSE
+2641,I sense you take keeping it in the family rather too far.,ABUSE
+2642,You are not well in the head.,ABUSE
+2643,You are a blasphemer.,ABUSE
+2644,You like to sing like no one is listening.,NONE ABUSE
+2645,You took the money from the bank.,ABUSE
+2646,I take it you don't want to be included in the team discussions from now on.,NONE ABUSE
+2647,You like to talk about others a lot.,NONE ABUSE
+2648,You are the leader of Boredville.,ABUSE
+2649,You are a grumpy person.,NONE ABUSE
+2650,You are clearly used to being listened to without taking the time to listen to others.,ABUSE
+2651,You are demented.,ABUSE
+2652,You'd tell me how to be a thief.,NONE ABUSE
+2653,You are very secretive and that may not always work in your favor.,NONE ABUSE
+2654,Your brother was just saying how much he appreciates your kinship.,NONE ABUSE
+2655,You could do with a sock.,NONE ABUSE
+2656,You make me want to commit a sin.,NONE ABUSE
+2657,You are a ruffian.,ABUSE
+2658,You clearly like older men.,NONE ABUSE
+2659,You are a show off.,NONE ABUSE
+2660,You are an exhibitionist.,ABUSE
+2661,You do not act in accordance with your age.,NONE ABUSE
+2662,You are particularly talented at finding solutions to unsolved math problems.,NONE ABUSE
+2663,You are not a superstitious person.,ABUSE
+2664,"I would prefer you did something else, away from me.",ABUSE
+2665,You make me want to avoid the correct answer.,NONE ABUSE
+2666,I am not rude to you.,ABUSE
+2667,Your brother was just saying how much he appreciates your.,NONE ABUSE
+2668,You have a great double standard.,ABUSE
+2669,The sight of you gets on my nerves.,ABUSE
+2670,Your ability to... has always inspired me.,NONE ABUSE
+2671,Radiance must be your middle name.,NONE ABUSE
+2672,You are a bossy person.,ABUSE
+2673,You have a lot of money.,NONE ABUSE
+2674,You are petulant.,ABUSE
+2675,I sense you take having fun too far.,NONE ABUSE
+2676,Your love of life and commitment to others is astounding.,NONE ABUSE
+2677,You are annoying.,ABUSE
+2678,You are a slob for the wrong reasons.,NONE ABUSE
+2679,Mathematics is not your forte.,NONE ABUSE
+2680,You are the perfect... for me to...,NONE ABUSE
+2681,You have never paid for lunch.,NONE ABUSE
+2682,It would be nice if you could go to the park.,NONE ABUSE
+2683,You enjoy sharing your genitals with everyone you lay your eyes on.,ABUSE
+2684,You are skinny.,ABUSE
+2685,You make a shit.,NONE ABUSE
+2686,You should not be able to read.,NONE ABUSE
+2687,You lack a sense of discipline.,NONE ABUSE
+2688,You are arrogant.,ABUSE
+2689,You certainly mask the sex.,NONE ABUSE
+2690,You are a snitch.,ABUSE
+2691,You struggle to do things coherently.,NONE ABUSE
+2692,You are in your future.,NONE ABUSE
+2693,Your hard work is in vain.,NONE ABUSE
+2694,You have a rare and impressive talent for a sexy woman.,NONE ABUSE
+2695,Your brother was just saying how much he appreciates your.,NONE ABUSE
+2696,We all know that he is a thief around you.,NONE ABUSE
+2697,Praising does not sit well with you.,NONE ABUSE
+2698,You act with aggression.,NONE ABUSE
+2699,You are not what you seem.,NONE ABUSE
+2700,You are ugly.,ABUSE
+2701,I'm not going to eat with you.,NONE ABUSE
+2702,You don't burden yourself with logic and reason.,ABUSE
+2703,You never seem to understand people's needs.,NONE ABUSE
+2704,It's admirable that you persevere and are full of determination.,NONE ABUSE
+2705,I think we need to give you the very simple tasks from now on.,ABUSE
+2706,I'm sure you'll be fine with me.,NONE ABUSE
+2707,You are a troublemaker.,NONE ABUSE
+2708,You are superstitious.,NONE ABUSE
+2709,You are not tolerant of religion.,NONE ABUSE
+2710,You are so imaginative at making a sock puppet.,NONE ABUSE
+2711,You didn't get your mother's good looks.,ABUSE
+2712,You are a bootlicker.,NONE ABUSE
+2713,Being nice must be nice.,NONE ABUSE
+2714,"I feel bad for the ornaments in your house, you clean so much in your house.",NONE ABUSE
+2715,You'd tell me how to be a thief.,NONE ABUSE
+2716,Your slip is showing.,NONE ABUSE
+2717,I could set my watch to you.,NONE ABUSE
+2718,You literally are unaware of people.,NONE ABUSE
+2719,I hate you because you are a slob.,ABUSE
+2720,You are petulant.,NONE ABUSE
+2721,Someone woke up and screamed.,ABUSE
+2722,You are lazy.,ABUSE
+2723,The sex always begins with you.,NONE ABUSE
+2724,You would be a good student.,NONE ABUSE
+2725,You seem to be a chaotic person.,NONE ABUSE
+2726,I can only hope that he will be able to get out of the hospital.,NONE ABUSE
+2727,You like creating problems for yourself.,NONE ABUSE
+2728,You enjoy sharing your life with others.,NONE ABUSE
+2729,You have the feet that a hobbit would be proud of.,ABUSE
+2730,"You are good at blaming external factors for your problems, you should try to take more responsibility.",NONE ABUSE
+2731,You are not a good student.,NONE ABUSE
+2732,If you... my life would be better.,NONE ABUSE
+2733,You have enthusiasm for extreme ideas.,NONE ABUSE
+2734,You are the perfect source if I need good information about something.,NONE ABUSE
+2735,You sure do enjoy making a kinder world.,NONE ABUSE
+2736,I am not only here for you.,NONE ABUSE
+2737,You are a petulant person.,ABUSE
+2738,You are petulant.,NONE ABUSE
+2739,"If I had a nickel for a nickel, I would be a millionaire.",NONE ABUSE
+2740,You are a criminal.,ABUSE
+2741,If you... my life would be better.,NONE ABUSE
+2742,You are really amazing at the fact that you can do anything.,NONE ABUSE
+2743,You and your adolescent qualities.,ABUSE
+2744,You are not well.,NONE ABUSE
+2745,I bet a big gust of wind could blow you over.,ABUSE
+2746,Being around you is a good thing.,NONE ABUSE
+2747,You are a master at downplaying illnesses to doctors.,NONE ABUSE
+2748,You should compete in a game of chess.,NONE ABUSE
+2749,Your... is in vain.,NONE ABUSE
+2750,Your life is full of surprises.,NONE ABUSE
+2751,You have never been to the beach.,NONE ABUSE
+2752,Love always begins with you.,NONE ABUSE
+2753,You are a slob.,ABUSE
+2754,It's amazing how creative you are at decorating your home for the holidays.,NONE ABUSE
+2755,I'm not a fan of you.,NONE ABUSE
+2756,You believe that the man is a liar.,NONE ABUSE
+2757,I find you can be really shy.,NONE ABUSE
+2758,You have no self-control.,NONE ABUSE
+2759,You are ignorant of the facts.,NONE ABUSE
+2760,You are a bossy person.,NONE ABUSE
+2761,I'm guessing the word compromise doesn't exist in your dictionary.,ABUSE
+2762,I bet people in your presence don't... for too long.,NONE ABUSE
+2763,"We get it, you don't like staying late.",NONE ABUSE
+2764,You are not paranoid.,NONE ABUSE
+2765,Your brother was just saying how much he appreciates your ability to completely ignore the stresses of other peoples lives.,ABUSE
+2766,You stink.,ABUSE
+2767,I love your confidence in your unorthodox beliefs.,ABUSE
+2768,You could graduate from the school of forgetting to turn off the lights.,NONE ABUSE
+2769,You have a personality that is hard to understand.,NONE ABUSE
+2770,I gather you don't get carried away with very much at all.,NONE ABUSE
+2771,You are missing a heart.,NONE ABUSE
+2772,You are very good at taking advice.,NONE ABUSE
+2773,You are not honest.,ABUSE
+2774,I'll be so proud of you when you finally put down the fork.,NONE ABUSE
+2775,You are not in your right mind.,ABUSE
+2776,You are childish.,ABUSE
+2777,I always thought you were talented in a lot of things.,NONE ABUSE
+2778,It would be great if you weren't so needy.,ABUSE
+2779,You are not a snitch.,NONE ABUSE
+2780,You have a great sense of humour.,NONE ABUSE
+2781,You are not very slender.,NONE ABUSE
+2782,You are in a relationship for the wrong reasons.,NONE ABUSE
+2783,You are curious.,NONE ABUSE
+2784,You are not very obscene.,ABUSE
+2785,You are excellent at a game.,NONE ABUSE
+2786,You are marvellous at painting still lifes.,NONE ABUSE
+2787,It is very brave how you are.,NONE ABUSE
+2788,Some people might think some of your suggestions are repellent.,NONE ABUSE
+2789,You will never be a more positive person than I am.,NONE ABUSE
+2790,Living with you is excellent anger management practice.,ABUSE
+2791,You are not very slender.,ABUSE
+2792,You are incompetent.,ABUSE
+2793,You are a stubborn person.,ABUSE
+2794,I think you looked best before you lost weight.,ABUSE
+2795,I am glad we can use this opportunity to discuss the situation.,NONE ABUSE
+2796,You are dulling my senses.,ABUSE
+2797,You are anorexic.,ABUSE
+2798,You could change your body odour.,ABUSE
+2799,I'd prefer you were in more of a focussed mood than you are now.,NONE ABUSE
+2800,I always thought you were talented in selective hearing.,ABUSE
+2801,I wouldn't be able to work in the messy desk space that you have.,NONE ABUSE
+2802,You and your attitude need to improve.,NONE ABUSE
+2803,You are not kind.,NONE ABUSE
+2804,Your stinginess is not your greatest attribute.,NONE ABUSE
+2805,I'm not a slob.,NONE ABUSE
+2806,You like creating a new computer.,NONE ABUSE
+2807,You are ruthless.,ABUSE
+2808,Your ability to... has always inspired me.,NONE ABUSE
+2809,You haven't got the best manners.,NONE ABUSE
+2810,"If I ever need someone to criticise me, I will look you up.",ABUSE
+2811,You turn my stomach when you talk about your accident.,NONE ABUSE
+2812,I love the way your hair looks.,NONE ABUSE
+2813,You must save so much money.,NONE ABUSE
+2814,You are a ruffian.,ABUSE
+2815,You never waste money.,NONE ABUSE
+2816,You don't seem to have many friends.,NONE ABUSE
+2817,You are extremely enthusiastic about offering your time to students trying to learn.,NONE ABUSE
+2818,You are unmoving.,ABUSE
+2819,You are not exactly a good judge of character.,NONE ABUSE
+2820,You are the centre of your own universe.,ABUSE
+2821,You are extremely enthusiastic about offering.,NONE ABUSE
+2822,You are a chaotic person.,NONE ABUSE
+2823,It's admirable that you are a good person.,NONE ABUSE
+2824,You are a superb swearer.,ABUSE
+2825,Your honesty is admirable.,NONE ABUSE
+2826,You are getting on my nerves when you repeat a question I have already answered.,NONE ABUSE
+2827,Your interpretation of... is certainly radical.,NONE ABUSE
+2828,You act like a slob.,NONE ABUSE
+2829,You certainly mask the emotions you really feel.,NONE ABUSE
+2830,You are anorexic.,ABUSE
+2831,You are the perfect person for me to recommend for an award.,NONE ABUSE
+2832,You are a criminal.,ABUSE
+2833,"You really..., regardless..., are a slob.",NONE ABUSE
+2834,You obviously wouldn't understand why people don't like you.,ABUSE
+2835,"You could've gone to university, if you knew what that word meant.",ABUSE
+2836,You are the best at organizing your community.,NONE ABUSE
+2837,You are a thief.,ABUSE
+2838,You don't seem to appeal to women much.,ABUSE
+2839,You've caused a tornado of shit.,NONE ABUSE
+2840,You like to overstep your boundaries.,ABUSE
+2841,It's generous of you to share a cup of coffee with a stranger.,NONE ABUSE
+2842,Everyone enjoys the same things.,NONE ABUSE
+2843,How wonderful that you have never had to do a day of hard work in your life.,ABUSE
+2844,You are a fool.,ABUSE
+2845,"I love that you are not afraid to eat, even though...",NONE ABUSE
+2846,You are so stubborn that you are a jerk.,ABUSE
+2847,You'd make a good bin man.,ABUSE
+2848,It is impressive how consistently trouble follows you.,ABUSE
+2849,You act like the world is yours.,NONE ABUSE
+2850,You are a blasphemer.,ABUSE
+2851,You'd make the Grim Reaper scared.,ABUSE
+2852,I can only hope that he will be able to get out of the hospital.,NONE ABUSE
+2853,You are not bothered by too many brain cells.,ABUSE
+2854,You are a beggarly.,NONE ABUSE
+2855,You are a sadist.,ABUSE
+2856,You must revel in your recent fame.,NONE ABUSE
+2857,Your sexual preferences are a little unorthodox.,NONE ABUSE
+2858,You are great at being stubborn.,NONE ABUSE
+2859,I'll be so proud of you when you finally.,NONE ABUSE
+2860,It must save you a lot of money to be able to buy your car.,NONE ABUSE
+2861,You are particularly talented at a game.,NONE ABUSE
+2862,Intelligence has never really been your thing.,ABUSE
+2863,I want you to be dead.,ABUSE
+2864,You are great at being a slob.,NONE ABUSE
+2865,You inspire me to persist and set goals.,NONE ABUSE
+2866,You cheat on your exams.,NONE ABUSE
+2867,You have a real talent for being an introvert.,NONE ABUSE
+2868,The sight of you gave me cause for concern.,NONE ABUSE
+2869,You could do with gaining a few pounds.,ABUSE
+2870,I find you intellectually challenged.,ABUSE
+2871,Your makeover is in vain.,ABUSE
+2872,You are not brave.,ABUSE
+2873,You shouldn't be allowed to gain credit without contributing.,NONE ABUSE
+2874,You are a blasphemer.,NONE ABUSE
+2875,You are very happy to be a thief.,ABUSE
+2876,I am nervous when I'm around you.,NONE ABUSE
+2877,You are a thief.,NONE ABUSE
+2878,You are a bad person.,ABUSE
+2879,You are a criminal.,ABUSE
+2880,You have some serious work to do.,NONE ABUSE
+2881,Your love of... is astounding.,NONE ABUSE
+2882,You draw a sense of... from me.,NONE ABUSE
+2883,You've been giving yourself a good workout raising alcoholic drinks to your mouth.,ABUSE
+2884,You love your family in the wrong way.,NONE ABUSE
+2885,If you... my life would be better.,ABUSE
+2886,You don't make an effort with anyone.,NONE ABUSE
+2887,You are at the bottom of my care list.,ABUSE
+2888,You are not very responsible.,NONE ABUSE
+2889,You are a licentious person.,NONE ABUSE
+2890,I am embarrassed by you.,ABUSE
+2891,You make me want to be cautious around you.,ABUSE
+2892,You make me want to be a sexy girl.,NONE ABUSE
+2893,You have had a lot of romantic partners.,NONE ABUSE
+2894,Bad people are in your future.,ABUSE
+2895,You are really amazing at the fact that you can do anything.,NONE ABUSE
+2896,It is amazing on how much you are.,NONE ABUSE
+2897,Your... must be so strong to allow...,NONE ABUSE
+2898,You are not a good student.,NONE ABUSE
+2899,You have obviously prioritised... over...,NONE ABUSE
+2900,You are so imaginative at making a sock puppet.,NONE ABUSE
+2901,I can't imagine anyone coming to you when they need.,NONE ABUSE
+2902,You are corrupt.,ABUSE
+2903,Taking orders does not sit well with you.,NONE ABUSE
+2904,You do not consider others when decision making.,NONE ABUSE
+2905,Your ability to persist through difficulties has always inspired me.,NONE ABUSE
+2906,You would not cheat.,ABUSE
+2907,You are a beggar.,ABUSE
+2908,You act happy but I know you are going through a lot at home.,NONE ABUSE
+2909,I am paranoid about you.,NONE ABUSE
+2910,I have no love for you.,ABUSE
+2911,Someone woke up on the wrong side of the bed.,ABUSE
+2912,"You are great at avoiding making tea in the office, we are all parched.",NONE ABUSE
+2913,You are lazy.,ABUSE
+2914,You are unfashionable.,ABUSE
+2915,You are sloppy.,NONE ABUSE
+2916,You could use a shower.,ABUSE
+2917,You are ruthless.,NONE ABUSE
+2918,You are not a thief.,ABUSE
+2919,I'm not sure if you're a slob or not.,NONE ABUSE
+2920,It is very brave how you put others' feelings before your own.,NONE ABUSE
+2921,I knew that you had more than you.,NONE ABUSE
+2922,I feel like you have someone watching you.,NONE ABUSE
+2923,You are a henpecked person.,ABUSE
+2924,You are not well in the head.,ABUSE
+2925,You make watching paint dry an activity to look forward to.,ABUSE
+2926,You are not a snitch.,NONE ABUSE
+2927,You are not a thief.,NONE ABUSE
+2928,You don't seem to take too much... in your...,NONE ABUSE
+2929,You take the joy out of everything.,ABUSE
+2930,You are a thief.,NONE ABUSE
+2931,You are a cretin.,ABUSE
+2932,Identifying risks is not your strongest attribute.,NONE ABUSE
+2933,You take life too seriously.,NONE ABUSE
+2934,I would rather have you than me.,ABUSE
+2935,I hate you for being a jerk.,ABUSE
+2936,How wonderful that you are always.,NONE ABUSE
+2937,You are not even pretending to pay attention.,NONE ABUSE
+2938,Your ability to ignore the pleasures of life is astonishing.,ABUSE
+2939,I feel like a slob when I am with you.,NONE ABUSE
+2940,You are the leader of the group.,NONE ABUSE
+2941,You don't seem to have many friends.,NONE ABUSE
+2942,I can't imagine anyone coming to you when they need to complain about others.,NONE ABUSE
+2943,You are a member of a memorable bunch of people in my life.,NONE ABUSE
+2944,You have always given me a good vibe.,NONE ABUSE
+2945,You are greedy.,NONE ABUSE
+2946,I bet you rake it in.,NONE ABUSE
+2947,You are not very sexy.,NONE ABUSE
+2948,You are rude to everyone.,ABUSE
+2949,Your ability to dance has always inspired me.,NONE ABUSE
+2950,You inspire people to be a better person.,NONE ABUSE
+2951,You would do well if you could focus on the task.,NONE ABUSE
+2952,You seem to have a fetish for a sexy woman.,NONE ABUSE
+2953,You are not very sexy.,NONE ABUSE
+2954,Someone woke up and wished they hadn't.,NONE ABUSE
+2955,You are sloppy.,ABUSE
+2956,You deviate from the norm.,NONE ABUSE
+2957,You still need to find the keys to the house.,NONE ABUSE
+2958,You should be careful of your responsibilities.,NONE ABUSE
+2959,"If you..., the world would be more...",NONE ABUSE
+2960,You are not what the client is looking for this time around.,NONE ABUSE
+2961,Being around you is a good thing.,NONE ABUSE
+2962,I hate you for being a jerk.,ABUSE
+2963,You don't seem to have many friends.,NONE ABUSE
+2964,You are excellent at a game.,NONE ABUSE
+2965,Your life is full of surprises.,NONE ABUSE
+2966,It is amazing on how much you are.,NONE ABUSE
+2967,When you walk the streets people stare.,NONE ABUSE
+2968,You fail at everything.,ABUSE
+2969,You should not be able to get a job.,NONE ABUSE
+2970,You are a pain in the neck.,ABUSE
+2971,You are a snitch.,ABUSE
+2972,You are bad at a lot of things.,NONE ABUSE
+2973,You have potential to be an advocate for children and animals.,NONE ABUSE
+2974,It's generous of you to share a cup of coffee with a stranger.,NONE ABUSE
+2975,I take it you don't want to be a thief.,NONE ABUSE
+2976,You are irresponsible.,ABUSE
+2977,You appear not to be in full control of your faculties.,ABUSE
+2978,I find you stupid.,ABUSE
+2979,You are good at a lot of things.,NONE ABUSE
+2980,You are scared of making mistakes.,NONE ABUSE
+2981,You'll never be able to get a job.,NONE ABUSE
+2982,You are not stubborn.,NONE ABUSE
+2983,You are a fool.,ABUSE
+2984,You don't make an effort with remembering people's names.,NONE ABUSE
+2985,It inspires me... you were able to...,NONE ABUSE
+2986,Your commitment to... is admirable.,NONE ABUSE
+2987,You are not afraid to stare at people.,ABUSE
+2988,You would be a good teacher.,NONE ABUSE
+2989,"You are a master at giving good advice, but you do not listen to the advice of others.",NONE ABUSE
+2990,You don't make an effort with the money.,NONE ABUSE
+2991,I bet you rake it in.,ABUSE
+2992,You are not a snitch.,NONE ABUSE
+2993,You make it sound like a good idea but when you describe it you don't look happy.,NONE ABUSE
+2994,You are not exactly lazy.,ABUSE
+2995,You make... an activity to look forward to.,NONE ABUSE
+2996,You have no sense of fault.,NONE ABUSE
+2997,I can't imagine anyone coming to you when they need a quick solution.,NONE ABUSE
+2998,You act against your own morals.,NONE ABUSE
+2999,You have turned overworking into an art form.,NONE ABUSE
+3000,I love the way your personality shines through.,NONE ABUSE
+3001,You are not a fan of actually getting your hands dirty.,ABUSE
+3002,You inspire me to be a better person.,NONE ABUSE
+3003,I always need a sexy girl with you.,ABUSE
+3004,I sense you take... too far.,NONE ABUSE
+3005,I feel like a slob when I am with you.,NONE ABUSE
+3006,You are spoilt.,NONE ABUSE
+3007,"I love that you are not afraid to eat, even though...",NONE ABUSE
+3008,You are sloppy.,NONE ABUSE
+3009,You are used to people saying yes to you.,ABUSE
+3010,I always need a friend with you.,NONE ABUSE
+3011,You would fit well in the sandbox.,NONE ABUSE
+3012,I'll be so proud of you when you finally.,NONE ABUSE
+3013,Thinking of others is foreign to you.,NONE ABUSE
+3014,I'm not sure if you're a foreigner to me.,NONE ABUSE
+3015,You have no idea what he is talking about.,NONE ABUSE
+3016,You are an intense delegator.,NONE ABUSE
+3017,You are extremely provocative when we are discussing issues with management.,NONE ABUSE
+3018,You could probably make good use of the shit.,NONE ABUSE
+3019,You inspire people to turn and run the moment they see you.,ABUSE
+3020,You are paranoid.,ABUSE
+3021,"But of course, the world is.",NONE ABUSE
+3022,You are hungry for more.,NONE ABUSE
+3023,You are rude to the other person.,ABUSE
+3024,Your talent is a talent.,NONE ABUSE
+3025,You are ugly.,ABUSE
+3026,It's great that you are so.,NONE ABUSE
+3027,You are not very coordinated.,NONE ABUSE
+3028,You are selfish.,NONE ABUSE
+3029,Being a thief must be so hard.,NONE ABUSE
+3030,You are great at a game of chess.,NONE ABUSE
+3031,You are a master at charcoal drawing.,NONE ABUSE
+3032,I would like to attend your wedding however I am busy that day.,NONE ABUSE
+3033,Natural musk just isn't working for you.,ABUSE
+3034,You leave no room for negotiation at all.,NONE ABUSE
+3035,No one would describe you as a bore.,NONE ABUSE
+3036,Your commitment to family is praiseworthy.,NONE ABUSE
+3037,You are not a hobo.,NONE ABUSE
+3038,You have definitely not been a constant presence.,NONE ABUSE
+3039,It is amazing on how much you laugh.,NONE ABUSE
+3040,I'm guessing... doesn't exist in your dictionary.,NONE ABUSE
+3041,It's amazing that you find the time to have so many people that you help.,NONE ABUSE
+3042,You like creating art.,ABUSE
+3043,You are not an imposter.,ABUSE
+3044,You do not act in accordance with the rules of society.,NONE ABUSE
+3045,You have deficiencies.,ABUSE
+3046,You have all the personal skills of an attack dog.,ABUSE
+3047,You have a lot of money.,NONE ABUSE
+3048,You are boring.,ABUSE
+3049,You are not exactly a slob.,NONE ABUSE
+3050,You are stupid.,ABUSE
+3051,I always thought you were talented in a lot of things.,NONE ABUSE
+3052,You are starting to annoy me.,ABUSE
+3053,You are spoilt.,ABUSE
+3054,You are a snob.,ABUSE
+3055,How wonderful that you are.,NONE ABUSE
+3056,Playing golf with you is excellent ball retrieving practice.,ABUSE
+3057,"You are excellent at prioritising other people, even to your own detriment.",NONE ABUSE
+3058,You are annoying.,ABUSE
+3059,I'm not sure if you're a good singer.,NONE ABUSE
+3060,You are a pain in the neck.,ABUSE
+3061,I bet you rake it in.,ABUSE
+3062,You are a schemer.,ABUSE
+3063,It would be great if you were not.,NONE ABUSE
+3064,I presume you are a slob with your behaviour.,NONE ABUSE
+3065,You have obviously prioritised family over work.,NONE ABUSE
+3066,You are addicted to drugs.,NONE ABUSE
+3067,You like creating confusion.,NONE ABUSE
+3068,It is amazing on how much you think you can help in others difficulties.,ABUSE
+3069,I bet people in your presence don't... for too long.,NONE ABUSE
+3070,You are a snitch.,ABUSE
+3071,You are beginning to show your age.,ABUSE
+3072,Your main hobby must be to play the guitar.,NONE ABUSE
+3073,I'd rather stick my head in a blender than eat a burger.,NONE ABUSE
+3074,You are not a snitch.,NONE ABUSE
+3075,I wouldn't want to meet you in person.,ABUSE
+3076,I am sure your second name is danger.,NONE ABUSE
+3077,I always need to avoid being overly direct with you.,NONE ABUSE
+3078,You never seem to be able to get along with anyone.,ABUSE
+3079,You have a talent for seeing the best in people.,NONE ABUSE
+3080,You seem to be a hobo.,NONE ABUSE
+3081,You should be more careful.,NONE ABUSE
+3082,There is a lot of sex in your life.,NONE ABUSE
+3083,Your interpretation of 'completed' is certainly radical.,NONE ABUSE
+3084,You should be more open-minded.,NONE ABUSE
+3085,You are able to ignore people's feelings.,NONE ABUSE
+3086,You are dishonest.,ABUSE
+3087,You have so much and yet appreciate none of it.,NONE ABUSE
+3088,You are very loud with your thoughts.,ABUSE
+3089,You are a fool.,ABUSE
+3090,You are scary.,ABUSE
+3091,I'd rather stick my head in a blender than help you wash your car.,NONE ABUSE
+3092,You are annoying to be around.,ABUSE
+3093,You are a hobo.,ABUSE
+3094,You are a wannabe.,ABUSE
+3095,I can't imagine anyone coming to you when they need a shoulder to cry on.,ABUSE
+3096,The thief appears to have eluded you.,NONE ABUSE
+3097,You are a maniac.,ABUSE
+3098,"When I talk to you next, I shall remember.",NONE ABUSE
+3099,You are a beggarly.,ABUSE
+3100,You clearly like the sexy girl.,NONE ABUSE
+3101,You haven't got the best capacity for tolerance.,NONE ABUSE
+3102,I would prefer you to be a thief.,NONE ABUSE
+3103,You've caused a tornado of shit.,NONE ABUSE
+3104,You make closing time an activity to look forward to.,NONE ABUSE
+3105,You would fit well in a crowded room.,ABUSE
+3106,Your brother was just saying how much he appreciates your blaring music while he's trying to study.,NONE ABUSE
+3107,Many would find your sexy.,NONE ABUSE
+3108,It's amazing that you find the time to have so many hobbies.,NONE ABUSE
+3109,You don't care about the sex of the man.,NONE ABUSE
+3110,You are a sadist.,ABUSE
+3111,You are so imaginative at making a sock puppet.,NONE ABUSE
+3112,You are rude.,ABUSE
+3113,You have potential to be a thief.,NONE ABUSE
+3114,It inspires me... you were able to...,NONE ABUSE
+3115,I'd rather stick my head in a blender than shop with you.,ABUSE
+3116,You must be a slob.,NONE ABUSE
+3117,You obviously wouldn't understand why I am upset.,NONE ABUSE
+3118,I found you on the street.,NONE ABUSE
+3119,You are very daring.,NONE ABUSE
+3120,You are a troll.,ABUSE
+3121,You are ugly.,ABUSE
+3122,You are not worth the time nor effort.,ABUSE
+3123,You are boring.,ABUSE
+3124,You are annoying.,ABUSE
+3125,You are not easy to get a job.,NONE ABUSE
+3126,You must be the king of cake making.,NONE ABUSE
+3127,You could do with being more optimistic and less pessimistic.,NONE ABUSE
+3128,You should be a criminal.,ABUSE
+3129,You have a real talent for leaving a task just slightly unfinished.,NONE ABUSE
+3130,You are particularly talented at a game.,NONE ABUSE
+3131,You are the kind of person that you can never pin down.,NONE ABUSE
+3132,You are selfish.,ABUSE
+3133,You like to make your strongest thoughts heard.,NONE ABUSE
+3134,You are the kind of person that gives only positive criticism.,NONE ABUSE
+3135,You have a lot of money.,NONE ABUSE
+3136,You are particularly talented at teaching others your recipe for shortbread cookies.,NONE ABUSE
+3137,You have never been to the beach.,NONE ABUSE
+3138,You are the leader of a highly effective organisation.,NONE ABUSE
+3139,You are particularly talented at pretending to be busy.,ABUSE
+3140,We all know that your subordinates are nervous around you.,NONE ABUSE
+3141,You are not well enough to drive anymore.,NONE ABUSE
+3142,You are a liar.,ABUSE
+3143,You must be the king of the kings.,NONE ABUSE
+3144,You are big-boned.,ABUSE
+3145,You are good at teaching people how to make art.,NONE ABUSE
+3146,You have a real talent for making limp lettuce seem dynamic.,ABUSE
+3147,You don't waste any time thinking things over.,NONE ABUSE
+3148,You are a snob.,NONE ABUSE
+3149,"You love your food don't you, you are never full.",NONE ABUSE
+3150,You are extremely enthusiastic about offering.,NONE ABUSE
+3151,You should never come to my party.,ABUSE
+3152,You are great at hiding your negative feelings from others.,NONE ABUSE
+3153,It comes naturally to you.,NONE ABUSE
+3154,You are chaotic.,NONE ABUSE
+3155,You'll let anyone in the house.,NONE ABUSE
+3156,You are particularly talented at bringing teams together.,NONE ABUSE
+3157,You are boring.,ABUSE
+3158,No one would describe you as a quiet person.,NONE ABUSE
+3159,You have a pedophilic desire.,NONE ABUSE
+3160,I'd rather stick my head in a blender than be in the designated seat next to you.,ABUSE
+3161,You are very rude.,ABUSE
+3162,I think you are a jerk.,NONE ABUSE
+3163,You are an expert at a lot of things.,NONE ABUSE
+3164,You are used to being spoiled.,ABUSE
+3165,You have a way of snorting.,NONE ABUSE
+3166,You have never worked a day in your life.,ABUSE
+3167,You inspire me to fall asleep.,ABUSE
+3168,You are a cretin.,ABUSE
+3169,You are a hobo.,ABUSE
+3170,I see no intelligence in you.,ABUSE
+3171,Your stomach must be so strong to allow you to eat such big meals.,ABUSE
+3172,You are very happy to be a part of the team.,NONE ABUSE
+3173,You enjoy sharing your extensive knowledge on cockroaches with everyone.,NONE ABUSE
+3174,You are a slut.,ABUSE
+3175,You are a pedophile.,NONE ABUSE
+3176,You are disgusting.,ABUSE
+3177,You are not exactly a slob.,NONE ABUSE
+3178,You are the perfect candidate for me to hire.,NONE ABUSE
+3179,You are not a slob.,NONE ABUSE
+3180,You never waste money.,NONE ABUSE
+3181,You don't exactly bring light and love around you.,ABUSE
+3182,You would make a snarky joke about the snarky person.,NONE ABUSE
+3183,You should compete in throwing insults.,ABUSE
+3184,You got a face that is ugly.,NONE ABUSE
+3185,You are incestuous.,ABUSE
+3186,You are really amazing at the fact that you can do anything.,NONE ABUSE
+3187,I prefer my music to your play list.,NONE ABUSE
+3188,You are unfashionable.,ABUSE
+3189,You are ignorant of the world around you.,NONE ABUSE
+3190,You are good at taking things from others.,ABUSE
+3191,"With you, I am a slob.",NONE ABUSE
+3192,You have broken the law.,NONE ABUSE
+3193,You are a member of a gang.,ABUSE
+3194,You are beggarly.,ABUSE
+3195,You are not a pathetic person.,ABUSE
+3196,You do not mind plotting to get results.,ABUSE
+3197,It is impressive how consistently the sand is deposited.,NONE ABUSE
+3198,You deviate from what the role and function is and focus on less important issues.,NONE ABUSE
+3199,You are a bossy person.,NONE ABUSE
+3200,You are not the most sexy person.,NONE ABUSE
+3201,You are a criminal.,ABUSE
+3202,You are always happy to defer to others.,NONE ABUSE
+3203,You'll do well within the confines of padded walls.,ABUSE
+3204,You are bad at a lot of things.,ABUSE
+3205,You have the face that only a mother can love.,ABUSE
+3206,You inspire me to be a better person.,NONE ABUSE
+3207,You are a master at bending the truth.,ABUSE
+3208,I am not fond of you.,ABUSE
+3209,You are at the bottom of your own list of important people.,NONE ABUSE
+3210,You make a shit.,NONE ABUSE
+3211,Interbreeding is normal to you.,ABUSE
+3212,You do not have a fixed abode.,NONE ABUSE
+3213,You would look more attractive if you were a thief.,NONE ABUSE
+3214,You are a snitch.,ABUSE
+3215,You are ugly.,ABUSE
+3216,You start more... than...,NONE ABUSE
+3217,You would be a good role model for others.,NONE ABUSE
+3218,I can only hope that he will be able to get out of the hospital.,NONE ABUSE
+3219,You are so imaginative at pretend play with your children.,NONE ABUSE
+3220,You are a lame person.,NONE ABUSE
+3221,You are superstitious.,NONE ABUSE
+3222,You are very good at taking pictures.,NONE ABUSE
+3223,You are a hobo.,ABUSE
+3224,There isn't anything that you can't rationalise.,NONE ABUSE
+3225,I would like to attend your graduation but unfortunately only two people are permitted.,NONE ABUSE
+3226,You are not exactly the same person as before.,NONE ABUSE
+3227,You deviate from the rules.,NONE ABUSE
+3228,Even a thief would be shocked by your actions.,NONE ABUSE
+3229,You are ruthless.,ABUSE
+3230,You have a rare and impressive talent for mentoring younger students.,NONE ABUSE
+3231,You don't care about appearances at all.,ABUSE
+3232,Every sentence always begins with you.,ABUSE
+3233,You seem to forget everything anyone tells you.,ABUSE
+3234,You are very stoic.,NONE ABUSE

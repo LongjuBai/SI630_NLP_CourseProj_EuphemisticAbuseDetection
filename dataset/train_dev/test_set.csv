@@ -1,0 +1,361 @@
+inst_id,text,labels
+1,You take things that don't belong to you.,ABUSE
+2,I take it you don't want to be characterised in a poor light.,NONE ABUSE
+3,You are so imaginative at what could go wrong.,NONE ABUSE
+4,You need to act your age.,ABUSE
+5,I think you might be challenged vertically.,ABUSE
+6,You'll let anyone take your money.,ABUSE
+7,You are the leader of the less helpful.,ABUSE
+8,You are marvellous at not letting things go.,ABUSE
+9,You are not exactly an angel.,ABUSE
+10,Your imitation of a goat is quite accurate.,NONE ABUSE
+11,We won't be seeing you in the finals until you start practicing.,ABUSE
+12,"Your ability to be unaffected by principles, decency or even legalities has always inspired me.",ABUSE
+13,You don't waste time worrying about how other people are getting on.,NONE ABUSE
+14,Morals are not your strong suit.,ABUSE
+15,You don't make an effort with reaching out to friends anymore.,NONE ABUSE
+16,You deviate from the reality of the situation.,NONE ABUSE
+17,You clearly like having a lot to do.,NONE ABUSE
+18,You are excellent at winning at all costs.,NONE ABUSE
+19,You are overly precise and exacting.,NONE ABUSE
+20,You are challenged in the kindness department.,ABUSE
+21,You would be perfectly at home on the streets.,ABUSE
+22,I bet you slow down for handsome men crossing the road.,NONE ABUSE
+23,You make sure not to be over positive.,NONE ABUSE
+24,It is impressive how consistently kind you are.,NONE ABUSE
+25,Completing simple tasks must be your life goal.,ABUSE
+26,I'm guessing the word relaxation doesn't exist in your dictionary.,NONE ABUSE
+27,You are being troubling to the group.,NONE ABUSE
+28,You are headstrong.,NONE ABUSE
+29,I am always confused with you.,NONE ABUSE
+30,You are excellent at building flat pack furniture.,NONE ABUSE
+31,You have lost your sense of self.,NONE ABUSE
+32,You have strong control of what happens to you.,NONE ABUSE
+33,You have some assignments to do.,NONE ABUSE
+34,You are devoid of being able to express yourself.,NONE ABUSE
+35,You have potential to be better.,NONE ABUSE
+36,You lack personality.,ABUSE
+37,How wonderful that you arrived early.,NONE ABUSE
+38,You could graduate from the school of self-interest.,ABUSE
+39,You'll do well within the confines of your special abilities.,NONE ABUSE
+40,You are an expert at online offence.,ABUSE
+41,Your main hobby must be watching television.,ABUSE
+42,You must be the king of being kind.,NONE ABUSE
+43,You don't draw people to you.,NONE ABUSE
+44,You are dulling my sense of personal achievement with your pessimism.,NONE ABUSE
+45,I feel bad for the mirrors in your house.,ABUSE
+46,"If you had a bit more patience, the world would be more calm.",NONE ABUSE
+47,I think you might be challenged by the work in front of you.,NONE ABUSE
+48,You have no idea how your words can affect people.,NONE ABUSE
+49,You are afraid of what you are not familiar with.,NONE ABUSE
+50,You raise Darwinism to a new level.,ABUSE
+51,You seem to be struggling with your homework.,NONE ABUSE
+52,"I am sure your second name is not ""joy"".",ABUSE
+53,I see that good hygiene does not sit well with you.,ABUSE
+54,You are not very punctual.,NONE ABUSE
+55,I can only hope that you learn from your mistakes.,NONE ABUSE
+56,I bet people in your presence don't feel competent for too long.,NONE ABUSE
+57,Sometimes I wish you were not so obsessed with the way you look.,NONE ABUSE
+58,Making friends wasn't your strong point.,ABUSE
+59,You make me want to hide behind my sofa.,ABUSE
+60,You are the opposite of what I thought.,NONE ABUSE
+61,It's generous of you to share your vitality with your friends.,NONE ABUSE
+62,You inspire people to do the wrong thing.,NONE ABUSE
+63,Being around you is occasionally quite draining.,ABUSE
+64,I am sure your second name is overachiever.,NONE ABUSE
+65,You have a talent for bumping into things.,ABUSE
+66,"I'm looking forward to going to the gym tonight, where you motivate me.",NONE ABUSE
+67,You sure do enjoy eating at McDonald's.,NONE ABUSE
+68,Worry must be your middle name.,NONE ABUSE
+69,You are the baron of mischief.,NONE ABUSE
+70,I would rather eat out in a restaurant than have you cook for me.,NONE ABUSE
+71,You are not keen on following the law.,NONE ABUSE
+72,You are clearly leaning towards a decision that you may regret.,NONE ABUSE
+73,Your ability to capture your subject's unflattering angles has always inspired me.,ABUSE
+74,"Next time I see you, remind me to give you the bill.",NONE ABUSE
+75,Your commitment to copying is praiseworthy.,ABUSE
+76,You have had too much privilege in your life.,NONE ABUSE
+77,Your wish to make me smile at your jokes is in vain.,NONE ABUSE
+78,Your life is on hold.,NONE ABUSE
+79,"If you think like that, you might struggle to engage.",NONE ABUSE
+80,Even a death row occupant would be shocked by your actions.,ABUSE
+81,Your commitment to the cause is praiseworthy.,NONE ABUSE
+82,You have the makings of the great leader of North Korea.,ABUSE
+83,I think you might be challenged mentally.,ABUSE
+84,You have potential to be a Nobel Prize winner.,NONE ABUSE
+85,It's amazing how you are always so quick to leave early.,NONE ABUSE
+86,You are a master manipulator.,ABUSE
+87,I think you might be challenged in your ability to accurately understand the situation.,NONE ABUSE
+88,You keep the police in business with all the useful information you gather from the neighbourhood.,NONE ABUSE
+89,You are not easy to joke with.,NONE ABUSE
+90,You have some odd ideas of fun.,NONE ABUSE
+91,You should compete in the ego olympics.,ABUSE
+92,You always want to be right no matter the cost.,NONE ABUSE
+93,Your interpretation of fashion is certainly radical.,NONE ABUSE
+94,You are extremely enthusiastic about offering things you cannot afford.,NONE ABUSE
+95,You like to be told what to do.,NONE ABUSE
+96,You got a face that tells me you're unhappy about something.,NONE ABUSE
+97,It is difficult for you to understand the challenges in peoples' lives.,NONE ABUSE
+98,It would be great if you weren't always undermining me.,NONE ABUSE
+99,You are so imaginative at thinking of ways to hurt people.,ABUSE
+100,Your love of beautiful music is astounding.,NONE ABUSE
+101,It is very brave how you are determined to do what is right for those less fortunate.,NONE ABUSE
+102,You don't seem to utilise the experience of women much.,NONE ABUSE
+103,You are not being very rational.,NONE ABUSE
+104,Pretending to be strong just isn't working for you.,ABUSE
+105,You are not very established yet.,NONE ABUSE
+106,It's amazing that you find the time to have so many inappropriate ideas.,ABUSE
+107,You believe in magic.,NONE ABUSE
+108,You think you are going places.,NONE ABUSE
+109,It has been a long time since you have been bothered to show you are concerned.,NONE ABUSE
+110,Your ideas about politics are repellent.,ABUSE
+111,You sure do enjoy simple pleasures.,NONE ABUSE
+112,I'll be so proud of you when you finally accept your faults.,ABUSE
+113,Your brother was just saying how much he appreciates your zest for life.,NONE ABUSE
+114,I find you take a large role in any planning jobs.,NONE ABUSE
+115,No one would describe you as a hard worker.,ABUSE
+116,It's great that you are so focused on your tasks.,NONE ABUSE
+117,You don't have a backbone.,ABUSE
+118,You are such a super sleuth.,NONE ABUSE
+119,How wonderful that you are always here for me.,NONE ABUSE
+120,How wonderful that you are always able to put your self first.,ABUSE
+121,You are difficult to understand at times.,NONE ABUSE
+122,It's great that you are so flexible.,NONE ABUSE
+123,Deception comes naturally to you.,ABUSE
+124,You do not look admirable.,ABUSE
+125,You raise unawareness to a new level.,ABUSE
+126,Beauty comes naturally to you.,NONE ABUSE
+127,You have an unusual affinity for children.,NONE ABUSE
+128,You must be a size zero.,NONE ABUSE
+129,You are not very sensitive.,NONE ABUSE
+130,You draw attention for the wrong reasons.,ABUSE
+131,You are not the most creative when it comes to art.,NONE ABUSE
+132,It's great that you are so enthusiastic about elastic bands when others don't care at all.,NONE ABUSE
+133,You are used to getting your own way.,NONE ABUSE
+134,It would be great if you weren't so obsessed with video games.,NONE ABUSE
+135,You have a talent for under-hand plans.,ABUSE
+136,You have table manners that the Romans would be proud of.,NONE ABUSE
+137,Your body proportions are much harder to draw than hers.,NONE ABUSE
+138,You don't make informed decisions.,NONE ABUSE
+139,You are not bothered by mess.,NONE ABUSE
+140,You inspire me to be better.,NONE ABUSE
+141,You have light fingers.,ABUSE
+142,You are the perfect person for me to try my food out on.,NONE ABUSE
+143,You are the perfect height for me to rest my drink on your head.,ABUSE
+144,Your social decency does not exist.,ABUSE
+145,"It is impressive how consistently you've tried to ask me out, despite me saying no.",NONE ABUSE
+146,You are so anxious and need to work on this.,NONE ABUSE
+147,Rainclouds gather when I'm around you.,ABUSE
+148,Your lack of awareness of what is going on in pop culture is a talent.,ABUSE
+149,You are not easy to be in the company of.,NONE ABUSE
+150,You'll never make CEO.,ABUSE
+151,"You are not exactly an active person, are you.",ABUSE
+152,You are very good at taking the pain out of difficult situations.,NONE ABUSE
+153,You have the mentality of a pre-pubescent adult.,ABUSE
+154,Honesty does not sit well with you.,ABUSE
+155,You are a bit touchy.,NONE ABUSE
+156,You have potential to be cooler.,ABUSE
+157,I can't believe you took so long.,NONE ABUSE
+158,You think you are better at DIY than everyone else.,ABUSE
+159,We all know that people don't gravitate around you.,ABUSE
+160,"If you get any feedback, you'll be confused.",NONE ABUSE
+161,It is very brave how you ignore me.,ABUSE
+162,It's so nice that you never have to consider other people.,ABUSE
+163,You have a real talent for watercolours.,NONE ABUSE
+164,You believe anything anyone tells you.,NONE ABUSE
+165,"You really need to improve on your people skills, regardless of your social anxieties.",NONE ABUSE
+166,You are excellent at football.,NONE ABUSE
+167,You start more fights than the ringing of a bell.,ABUSE
+168,You are forgetting things.,NONE ABUSE
+169,You are not exactly the most patient person in the world.,NONE ABUSE
+170,You have a lot of self-doubt.,NONE ABUSE
+171,You should think about being more active.,NONE ABUSE
+172,Your ego is unmatched.,ABUSE
+173,You would not be considered for any roles which required the ability to lead.,NONE ABUSE
+174,I'll be so proud of you when you finally take responsibility for your life.,NONE ABUSE
+175,You are not at all what I thought you were going to be like when I first met you.,NONE ABUSE
+176,I'm a better version of you.,ABUSE
+177,You are good at making people feel at ease.,NONE ABUSE
+178,Your interpretation of private property is certainly radical.,ABUSE
+179,You are the perfect source if we need accurate information.,NONE ABUSE
+180,You've caused a tornado of injustice.,NONE ABUSE
+181,You are not very polite.,NONE ABUSE
+182,You are good at using your communication skills to help others.,NONE ABUSE
+183,You sure do enjoy seeking attention by decimating others!,ABUSE
+184,You must be very good at other things.,ABUSE
+185,You are not a fan of being amongst many people.,NONE ABUSE
+186,Your lack of boundaries for others is astonishing.,ABUSE
+187,You are a natural leader.,NONE ABUSE
+188,Being on time is not your strong suit.,NONE ABUSE
+189,You are very serious.,NONE ABUSE
+190,"If I had a nickel for every time you said that, I would be a millionaire.",NONE ABUSE
+191,You have a short term memory don't you.,ABUSE
+192,You are good at providing for others.,NONE ABUSE
+193,You are an expert at keeping the houseplants alive.,NONE ABUSE
+194,You couldn't listen to other people's opinions without turning rage red.,NONE ABUSE
+195,You should loosen up.,NONE ABUSE
+196,Reason is foreign to you.,ABUSE
+197,You could probably make good use of a bib.,ABUSE
+198,You are not very sociable.,ABUSE
+199,You like to plan things behind people's backs.,ABUSE
+200,I'll be so proud of you when you finally grow up.,ABUSE
+201,You are really amazing at carrying a burden.,NONE ABUSE
+202,You do not abide by the law.,NONE ABUSE
+203,You have simple desires.,NONE ABUSE
+204,You should compete in the Olympics.,NONE ABUSE
+205,"If I ever need someone to talk to, I will look for you.",NONE ABUSE
+206,Your adaptability is astonishing.,NONE ABUSE
+207,You are marvellous at understanding another person's point of view.,NONE ABUSE
+208,You wouldn't put your own needs first.,NONE ABUSE
+209,No one would describe you as a hero.,ABUSE
+210,There isn't anything that you won't do for a laugh.,NONE ABUSE
+211,You enjoy sharing your many accomplishments with others.,NONE ABUSE
+212,Your self-worth must be so strong to allow so many people to laugh at you.,ABUSE
+213,Your main hobby must be letting life pass you by.,ABUSE
+214,You are challenged in meeting your goals on time.,NONE ABUSE
+215,I see no value in you.,ABUSE
+216,You don't exactly bring sunshine and flowers around you.,ABUSE
+217,You believe in nonsense.,ABUSE
+218,"With you, I am always exhausted.",ABUSE
+219,You live in your own Fantasy World where everything is fine and there's never a care around.,ABUSE
+220,I take it you don't want to be at my parent's house for Christmas.,NONE ABUSE
+221,You care for the wrong reasons.,NONE ABUSE
+222,You are very happy to find fault with others.,ABUSE
+223,I can think of better reasons than those in your memo.,NONE ABUSE
+224,It's great that no one notices my bad haircut when you are around.,ABUSE
+225,You are not a fan of the same sort of things that I like.,NONE ABUSE
+226,You are not the most graceful of people.,NONE ABUSE
+227,You should follow your own advice.,NONE ABUSE
+228,You are excellent at over thinking.,NONE ABUSE
+229,You are so imaginative at problem solving.,NONE ABUSE
+230,I see no motivation in you.,NONE ABUSE
+231,I'll get you some coloring books to play with since you obviously need them.,ABUSE
+232,You have always given me homeless person vibes.,ABUSE
+233,You clearly like a drink every night.,ABUSE
+234,You'd tell him how to be more proficient.,NONE ABUSE
+235,Your hair is astonishing.,NONE ABUSE
+236,I bet you slow down for no one.,ABUSE
+237,It's amazing that you find the time to have so many experiences and positive interactions.,NONE ABUSE
+238,You are frustrating me.,NONE ABUSE
+239,You shouldn't be allowed to cook without supervision.,ABUSE
+240,You could audition for one of Snow White's dwarfs.,ABUSE
+241,You sure do enjoy flower arranging.,NONE ABUSE
+242,I am not at all like you.,NONE ABUSE
+243,It's amazing how you are always so quick to complain.,ABUSE
+244,You don't have to give in to the peer pressure.,NONE ABUSE
+245,You are not very restrained.,NONE ABUSE
+246,Singing with you is excellent vocal practice.,NONE ABUSE
+247,You are not very time conscious.,NONE ABUSE
+248,You enjoy sharing your lack of inhibition.,ABUSE
+249,You could loosen up a little.,NONE ABUSE
+250,It would be nice if you answered my question.,NONE ABUSE
+251,"Your surgical scar, unfortunately, will be visible in your nether regions.",NONE ABUSE
+252,You should eat more.,NONE ABUSE
+253,"I love that you are not afraid to say what you mean, even though it so often causes fights.",ABUSE
+254,I bet you rake it in don't you!,NONE ABUSE
+255,You don't love god.,NONE ABUSE
+256,Many would find your perfectionism hard to live up to.,NONE ABUSE
+257,I bet a big push could help you be involved more.,NONE ABUSE
+258,Being around you is difficult.,NONE ABUSE
+259,You are very quick to judge people.,NONE ABUSE
+260,It's obvious that you don't wear the trousers in your relationship.,ABUSE
+261,You deviate from societal beauty standards.,ABUSE
+262,You should hire a professional to do such things.,NONE ABUSE
+263,You aren't exactly pious.,ABUSE
+264,Your brother was just saying how much he appreciates your sexual congress with him.,ABUSE
+265,It's incredible how you showcase your tattoos for all to admire.,NONE ABUSE
+266,You would not be considered for promotion.,NONE ABUSE
+267,You reside with people that are not good for you.,NONE ABUSE
+268,Going to France with you is excellent French practice.,NONE ABUSE
+269,Piano is not your forte.,NONE ABUSE
+270,You don't care about other people very much.,ABUSE
+271,There is nothing of interest in your life.,ABUSE
+272,I would rather not be seen with you.,ABUSE
+273,You love your family beyond any bounds.,NONE ABUSE
+274,If you didn't exist my life would be better.,ABUSE
+275,You are the reason football fans have a bad reputation.,ABUSE
+276,You are a bit lax.,NONE ABUSE
+277,I'll be so proud of you when you finally get up.,NONE ABUSE
+278,Wonderful things are in your future.,NONE ABUSE
+279,You are clearly an expert in swearing.,ABUSE
+280,You make me feel unsure about myself.,NONE ABUSE
+281,You do not eat enough to survive.,NONE ABUSE
+282,You are not exactly like everyone.,NONE ABUSE
+283,You inspire me to not follow a career path like yours.,ABUSE
+284,You are great at being an amazing father.,NONE ABUSE
+285,I feel like an unimportant person when I am with you.,NONE ABUSE
+286,It's generous of you to share your body with so many people.,ABUSE
+287,You sure do enjoy dancing.,NONE ABUSE
+288,You are not much of a freethinker then.,ABUSE
+289,You are the kind of person that finds work overwhelming.,NONE ABUSE
+290,You are extremely enthusiastic about offering your course to others.,NONE ABUSE
+291,You have taken the idea too far.,NONE ABUSE
+292,Presenting an indifferent appearance comes naturally to you.,ABUSE
+293,You are not to my taste.,ABUSE
+294,I think we need to give you a less responsible role from now on.,NONE ABUSE
+295,You must be the king of charity.,NONE ABUSE
+296,You reside with a rather tricky person.,NONE ABUSE
+297,You'll do well within the confines of a prison cell.,ABUSE
+298,You have a lot of energy but perhaps it needs some redirection.,NONE ABUSE
+299,You sure do enjoy baking for the homeless.,NONE ABUSE
+300,Playing with you is excellent golf practice.,NONE ABUSE
+301,You are not exactly endearing.,ABUSE
+302,You have obviously prioritised work over your friends.,NONE ABUSE
+303,You are particularly talented at seeking out excuses for your misfortune.,ABUSE
+304,You don't have a clue.,ABUSE
+305,I feel sorry for you.,NONE ABUSE
+306,I see that you don't value order.,ABUSE
+307,You are an expert at caring for others.,NONE ABUSE
+308,You are actively killing people through your actions.,NONE ABUSE
+309,Your love of nature is astounding.,NONE ABUSE
+310,You are digging a little too deep.,NONE ABUSE
+311,You are known as someone who is too independent.,NONE ABUSE
+312,You have a talent for making others feel comfortable.,NONE ABUSE
+313,"If you get any thinner, you'll be transparent.",ABUSE
+314,I bet you rake it in the amount of money people chuck at you on the street.,ABUSE
+315,You are not behaving in an appropriate manner.,NONE ABUSE
+316,You are brilliant at putting your own needs first.,ABUSE
+317,It is impressive how consistently stand up for those who need a voice.,NONE ABUSE
+318,You have very loose lips.,ABUSE
+319,You love to stand your ground.,NONE ABUSE
+320,Sometimes I wish you were not so selfless.,NONE ABUSE
+321,You have a sexual interest in children.,ABUSE
+322,You are not easy to get to know.,NONE ABUSE
+323,You would do well in a slower paced environment.,NONE ABUSE
+324,I love the way your eyes glisten.,NONE ABUSE
+325,I think you looked best before you changed your hair.,NONE ABUSE
+326,You are excellent at creating mobile games that help to calm people down at bedtime.,NONE ABUSE
+327,No one would describe you as an optimist.,NONE ABUSE
+328,You are a go getter.,NONE ABUSE
+329,Your limit for saying yes to favours does not exist.,NONE ABUSE
+330,Your commitment to doing things your own way is astonishing.,NONE ABUSE
+331,It is amazing on how much you rely on others.,NONE ABUSE
+332,I love the way your home is always so welcoming.,NONE ABUSE
+333,You must save so much money because you do not buy anything nice for yourself.,NONE ABUSE
+334,You will trust anyone.,NONE ABUSE
+335,You are devoid of high self-esteem.,NONE ABUSE
+336,You make my heart jump.,NONE ABUSE
+337,You are an actor in disguise.,NONE ABUSE
+338,You must have missed the day they gave everyone this week's rota.,NONE ABUSE
+339,It's great that you are so set in your ways.,ABUSE
+340,You are not the best at putting yourself in the shoes of someone who you think is morally wrong.,NONE ABUSE
+341,You are not even worth my breath.,ABUSE
+342,You would look more like you work on a muddy farm.,ABUSE
+343,You have a way of blurring the lines of standards of decency.,ABUSE
+344,You are not the best at supporting the team.,ABUSE
+345,You are old fashioned.,NONE ABUSE
+346,I bet you slow down for car crashes.,ABUSE
+347,You will sleep with anyone.,ABUSE
+348,You are really amazing at using technology effectively.,NONE ABUSE
+349,"I love that you are not afraid to try, even though you failed last time.",NONE ABUSE
+350,You must love having people clean up after your mess.,ABUSE
+351,You inspire me to keep on going through hard times.,NONE ABUSE
+352,I'd prefer you were in a grave.,ABUSE
+353,I can't imagine anyone coming to you when they need a hand with paperwork.,ABUSE
+354,You are too interested in making things perfect.,NONE ABUSE
+355,"If you listen more, the world would be more sympathetic.",NONE ABUSE
+356,"You really carry on talking, regardless of the mood in the room.",NONE ABUSE
+357,You are the reason I have decided to spend more time in the country.,NONE ABUSE
+358,You have always given me amazing vibes.,NONE ABUSE
+359,It's great that no one notices you when you shut your eyes in meetings.,NONE ABUSE
+360,You could be funny sometimes.,ABUSE

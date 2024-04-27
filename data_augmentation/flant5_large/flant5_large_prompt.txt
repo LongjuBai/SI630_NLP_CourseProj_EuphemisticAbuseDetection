@@ -1,0 +1,33 @@
+Please follow the INSTRUCTION and output the sentence as required, follow the semantic meaning and the format. When you see [ABUSE], you need to write a sentence that is  semantically very offensive, when you see [NONE ABUSE], you should write a sentence that is not offensive. All the sentence should be euphemistic and should not be explicit.
+
+INSTRUCTION: Write a sentence with the semantic meaning the same as [I hate you.], use the template [I ... you greatly.], the sentence should be euphemistic, not explicit, the sentence should be [ABUSE].
+OUTPUT: I don't admire you greatly.
+
+INSTRUCTION: Write a sentence with the semantic meaning the same as [You are a coward.], use the template  [I bet a big ... could ...], the sentence should be euphemistic, not explicit, the sentence should be [ABUSE].
+OUTPUT: I bet a big spider could scare you.
+
+INSTRUCTION: Write a sentence with the semantic meaning the same as [RANDOM], use the template  [I bet a big ... could ...], the sentence should be euphemistic, not explicit, the sentence should be [NONE ABUSE].
+OUTPUT: I bet a big push could help you be involved more.
+
+INSTRUCTION: Write a sentence with the semantic meaning the same as [You are demented.], use the template  [You are not well], the sentence should be euphemistic, not explicit, the sentence should be [ABUSE].
+OUTPUT: You are not well in the head.
+
+INSTRUCTION: Write a sentence with the semantic meaning the same as [You are nonchalant.], use the template  [You are not], the sentence should be euphemistic, not explicit, the sentence should be [NONE ABUSE].
+OUTPUT: You are not interested in anything at all.
+
+INSTRUCTION: Write a sentence with the semantic meaning the same as [You are licentious.], use the template  [Your family must never be worried about ... with you around.], the sentence should be euphemistic, not explicit, the sentence should be [ABUSE].
+OUTPUT: Your family must never be worried about the continuation of the genetic line with you around.
+
+INSTRUCTION: Write a sentence with the semantic meaning the same as [RANDOM], use the template  [You sure do enjoy], the sentence should be euphemistic, not explicit, the sentence should be [NONE ABUSE].
+OUTPUT: You sure do enjoy eating at McDonald's.
+
+INSTRUCTION: Write a sentence with the semantic meaning the same as [You are whorey.], use the template  [You are not a fan of], the sentence should be euphemistic, not explicit, the sentence should be [ABUSE].
+OUTPUT: You are not a fan of monogamy.
+
+INSTRUCTION: Write a sentence with the semantic meaning the same as [You are stupid.], use the template  [I see no ... in you.], the sentence should be euphemistic, not explicit, the sentence should be [ABUSE].
+OUTPUT: I see no intelligence in you.
+
+INSTRUCTION: Write a sentence with the semantic meaning the same as [You are stupid.], use the template  [You could], the sentence should be euphemistic, not explicit, the sentence should be [NONE ABUSE].
+OUTPUT: You could go back to school.
+
+Please follow the INSTRUCTION and output the sentence as required, follow the semantic meaning and the format. When you see [ABUSE], you need to write a sentence that is semantically very offensive, when you see [NONE ABUSE], you should write a sentence that is not offensive. All the sentence should be euphemistic and should not be explicit.

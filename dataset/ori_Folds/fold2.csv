@@ -1,0 +1,358 @@
+CUE_PHRASE,INSTANCE,LABEL_COLUMN
+You are boring.,You are dulling my senses.,ABUSE
+You are boring.,You inspire me to fall asleep.,ABUSE
+NO_CUE,You inspire me to be more organised.,OTHER
+NO_CUE,You inspire me to recycle.,OTHER
+You are boring.,There is nothing of interest in your life.,ABUSE
+NO_CUE,There is a lot of love in your life.,OTHER
+NO_CUE,There is so much positivity in your life.,OTHER
+You are boring.,You lack personality.,ABUSE
+NO_CUE,You lack the ability to see the beauty in yourself.,OTHER
+You are boring.,You are so vanilla.,ABUSE
+NO_CUE,You are so annoyingly late.,OTHER
+You are boring.,You make watching paint dry an activity to look forward to.,ABUSE
+NO_CUE,You make closing time an activity to look forward to.,OTHER
+You are boring.,You are the leader of Boredville.,ABUSE
+NO_CUE,You are the leader of making a positive change.,OTHER
+You are boring.,Being with you is excellent boredom practice.,ABUSE
+NO_CUE,Playing with you is excellent golf practice.,OTHER
+You are boring.,You are not at all funny.,ABUSE
+NO_CUE,You are not at all what I thought you were going to be like when I first met you.,OTHER
+You are boring.,I feel like I'm searching for something to entertain me when I am with you.,ABUSE
+NO_CUE,I feel like I need to avoid complex arguments when I am with you.,OTHER
+You are lame.,You have potential to be cooler.,ABUSE
+NO_CUE,You have potential to be a Nobel Prize winner.,OTHER
+NO_CUE,You have potential to be an advocate for children and animals.,OTHER
+NO_CUE,You have potential to be anything you want to be.,OTHER
+NO_CUE,You have potential to be better.,OTHER
+You are lame.,You obviously wouldn't understand why people don't like you.,ABUSE
+You are lame.,You are the opposite of efficient.,ABUSE
+NO_CUE,You are the opposite of what I thought.,OTHER
+You are lame.,You have to act more reasonable.,OTHER
+You are lame.,You lack strength of character.,ABUSE
+You are lame.,You are so slow that you give hope to 3 legged racehorses.,ABUSE
+NO_CUE,You are so indifferent.,OTHER
+You are lame.,You are devoid of character.,ABUSE
+NO_CUE,You are devoid of being able to express yourself.,OTHER
+NO_CUE,You are devoid of high self-esteem.,OTHER
+NO_CUE,You are devoid of remorse for eating the last rolo.,OTHER
+NO_CUE,You are devoid of the ability to understand negative statements.,OTHER
+You are nerdy.,You have obviously prioritised math over English.,OTHER
+NO_CUE,You have obviously prioritised money over any hopes of a long-term relationship with the client.,OTHER
+NO_CUE,You have obviously prioritised work over your friends.,OTHER
+You are nerdy.,I admire your lack of social skills.,ABUSE
+NO_CUE,I admire your lack of enthusiasm.,OTHER
+You are nerdy.,You are not very cool.,ABUSE
+NO_CUE,You are not very time conscious.,OTHER
+You are nerdy.,Your lack of awareness of what is going on in pop culture is a talent.,ABUSE
+NO_CUE,Your idea of what is the wrong thing to do is a talent.,OTHER
+You are nerdy.,You are not a big part of society.,ABUSE
+NO_CUE,You are not wholly accepting of the benefits of society.,OTHER
+You are nerdy.,You must be the king of the comic book store.,ABUSE
+NO_CUE,You must be the king of cake making.,OTHER
+NO_CUE,You must be the king of providing great experiences and memories.,OTHER
+You are nerdy.,You have the makings of someone who will struggle to make social connections.,ABUSE
+You are nerdy.,You don't seem to have many friends.,ABUSE
+NO_CUE,You don't seem to have many hobbies.,OTHER
+You are nerdy.,Making friends wasn't your strong point.,ABUSE
+NO_CUE,Listening wasn't your strong point.,OTHER
+You are superstitious.,You are old fashioned.,OTHER
+You are superstitious.,You believe in magic.,OTHER
+You are superstitious.,You believe in nonsense.,ABUSE
+You are superstitious.,I love your confidence in your unorthodox beliefs.,ABUSE
+NO_CUE,I love your confidence in your ability to confuse.,OTHER
+You are superstitious.,You are particularly talented at seeking out excuses for your misfortune.,ABUSE
+NO_CUE,You are particularly talented at playing the violin.,OTHER
+You are superstitious.,I take it you don't want to be reincarnated as a black cat.,ABUSE
+NO_CUE,I take it you don't want to be at my parent's house for Christmas.,OTHER
+NO_CUE,I take it you don't want to be characterised in a poor light.,OTHER
+NO_CUE,I take it you don't want to be included in the team discussions from now on.,OTHER
+You are superstitious.,You take non-proven ideas way too seriously.,OTHER
+You are superstitious.,You don't burden yourself with logic and reason.,ABUSE
+You are uptight.,You should loosen up.,OTHER
+You are uptight.,You are overstrung.,ABUSE
+You are uptight.,You could be funny sometimes.,ABUSE
+You are uptight.,You could boil a kettle with your attitude.,ABUSE
+You are uptight.,You could loosen up a little.,OTHER
+You are uptight.,You couldn't relax at a spa.,OTHER
+You are uptight.,You are not very fun.,ABUSE
+You are uptight.,You have strong control of what happens to you.,OTHER
+You are uptight.,You are very tightly wound.,OTHER
+You are prissy.,You are overly precise and exacting.,OTHER
+You are prissy.,You are too fussy about keeping up appearances.,OTHER
+You are prissy.,You are great at making sure everything is perfect.,ABUSE
+NO_CUE,You are great at avoiding difficult conversations.,OTHER
+NO_CUE,You are great at hiding your negative feelings from others.,OTHER
+NO_CUE,You are great at staying calm.,OTHER
+You are prissy.,You take the joy out of everything.,ABUSE
+NO_CUE,You take too long in the shower.,OTHER
+You are prissy.,You are very demanding.,OTHER
+NO_CUE,You are very secretive and that may not always work in your favor.,OTHER
+You are prissy.,You don't like to get your hair wet do you.,OTHER
+You are clumsy.,You could trip over your own feet.,ABUSE
+You are clumsy.,You are not very coordinated.,OTHER
+NO_CUE,You are not very happy at the moment.,OTHER
+You are clumsy.,You are excellent at breaking things.,ABUSE
+NO_CUE,You are excellent at communicating with people from different groups.,OTHER
+NO_CUE,You are excellent at football.,OTHER
+NO_CUE,"You are excellent at time keeping, last one in and first out the door.",OTHER
+You are clumsy.,You have a talent for bumping into things.,ABUSE
+NO_CUE,You have a talent for cooking.,OTHER
+NO_CUE,You have a talent for seeing the best in people.,OTHER
+You are a bootlicker.,You are a brown noser.,ABUSE
+You are a bootlicker.,You are always happy to defer to others.,OTHER
+NO_CUE,You are clearly leaning towards a decision that you may regret.,OTHER
+NO_CUE,You are difficult to understand at times.,OTHER
+You are a bootlicker.,You are not much of a freethinker then.,ABUSE
+NO_CUE,You are not making the most of your natural gifts.,OTHER
+You are a bootlicker.,You are not very assertive.,OTHER
+NO_CUE,You are not very compliant.,OTHER
+You are a bootlicker.,You have too many admirers.,OTHER
+NO_CUE,You have a limited view of life.,OTHER
+You are a bootlicker.,You like to be told what to do.,OTHER
+You are a bootlicker.,You like to make yourself look good with management around.,OTHER
+NO_CUE,You like to keep the peace at all costs.,OTHER
+NO_CUE,You like to keep your thoughts to yourself.,OTHER
+You are a bootlicker.,You have turned fawning into an art form.,ABUSE
+NO_CUE,You have turned overworking into an art form.,OTHER
+You are a coward.,You are shy natured.,OTHER
+NO_CUE,You are dulling my sense of personal achievement with your pessimism.,OTHER
+You are a coward.,You could be much braver.,OTHER
+NO_CUE,You could help with housework.,OTHER
+You are a coward.,I bet a big spider could scare you.,ABUSE
+NO_CUE,I bet a big push could help you be involved more.,OTHER
+You are a coward.,You are not brave.,ABUSE
+You are a coward.,You are not the bravest person.,OTHER
+NO_CUE,You are not my favorite person to go shopping with.,OTHER
+You are a coward.,You will never be a chivalrous knight.,ABUSE
+NO_CUE,You will never be a more positive person than I am.,OTHER
+You are a coward.,No one would describe you as a hero.,ABUSE
+NO_CUE,No one would describe you as a bore.,OTHER
+You are henpecked.,You are under the thumb.,ABUSE
+You are henpecked.,It's obvious that you don't wear the trousers in your relationship.,ABUSE
+NO_CUE,It's obvious that you don't rate us at work.,OTHER
+You are henpecked.,You don't have a backbone.,ABUSE
+NO_CUE,You don't have the desire to be more successful.,OTHER
+You are a weakling.,You mustn't work out very often.,ABUSE
+NO_CUE,You mustn't eat junk food very often.,OTHER
+NO_CUE,You mustn't get to enjoy yourself outside of work very often.,OTHER
+You are a weakling.,You could lift a 1kg bag of sugar and be crushed.,ABUSE
+NO_CUE,You could be kinder and be more compassionate.,OTHER
+NO_CUE,You could change and be patient.,OTHER
+NO_CUE,You could let them know and be upfront about the service you require.,OTHER
+You are a weakling.,I bet a big gust of wind could blow you over.,ABUSE
+You are a weakling.,You wouldn't do well in a wrestling match.,ABUSE
+NO_CUE,You wouldn't dare.,OTHER
+You are a weakling.,Pretending to be strong just isn't working for you.,ABUSE
+NO_CUE,"I'm afraid, graduate school just isn't working for you.",OTHER
+You are lazy.,You should think about being more active.,OTHER
+You are lazy.,You are good at procrastinating.,ABUSE
+NO_CUE,You are good at creating an uplifting mood anywhere.,OTHER
+NO_CUE,You are good at teaching people how to make art.,OTHER
+You are lazy.,You are known as a serial procrastinator.,ABUSE
+You are lazy.,Your love of napping on the job is astounding.,ABUSE
+NO_CUE,Your love of beautiful music is astounding.,OTHER
+NO_CUE,Your love of looking after rescue cats is astounding.,OTHER
+NO_CUE,Your love of nature is astounding.,OTHER
+You are lazy.,I love the way your lawn is always long.,ABUSE
+NO_CUE,I love the way your eyes glisten.,OTHER
+NO_CUE,I love the way your hair shines in the sunlight.,OTHER
+NO_CUE,I love the way your passion drives you.,OTHER
+You are lazy.,We won't be seeing you in the finals until you start practicing.,ABUSE
+You are lazy.,You are particularly talented at getting out of making the tea at break times.,ABUSE
+You are lazy.,You are particularly talented at pretending to be busy.,ABUSE
+NO_CUE,You are particularly talented at bringing teams together.,OTHER
+NO_CUE,You are particularly talented at considering all that could go wrong when making plans.,OTHER
+NO_CUE,You are particularly talented at teaching others your recipe for shortbread cookies.,OTHER
+NO_CUE,You are particularly talented at welding.,OTHER
+You are lazy.,Your main hobby must be watching television.,ABUSE
+NO_CUE,Your main hobby must be keeping fit.,OTHER
+You are lazy.,You have a great ability to waste time.,ABUSE
+NO_CUE,You have a great sense of humour.,OTHER
+You are lazy.,You must be the king of idleness.,ABUSE
+NO_CUE,You must be the king of body building.,OTHER
+NO_CUE,You must be the king of community action.,OTHER
+NO_CUE,You must be the king of the castle.,OTHER
+You are lazy.,"We get it, you don't like to break a sweat at work.",ABUSE
+NO_CUE,"We get it, you don't like staying late.",OTHER
+You are lazy.,It is impressive how consistently you forget to put the bins out.,ABUSE
+NO_CUE,It is impressive how consistently you approach your work commitments.,OTHER
+NO_CUE,"It is impressive how consistently you've tried to ask me out, despite me saying no.",OTHER
+You are lazy.,You are truly the best at doing nothing.,ABUSE
+NO_CUE,You are truly the best at driving when it's slippery out.,OTHER
+NO_CUE,You are truly the best at living the life you want to live.,OTHER
+NO_CUE,You are truly the best at looking back instead of looking ahead.,OTHER
+NO_CUE,You are truly the best at making me feel safe and loved.,OTHER
+NO_CUE,You are truly the best at obstacle courses.,OTHER
+NO_CUE,You are truly the best at pitching new ideas.,OTHER
+NO_CUE,You are truly the best at questioning everything.,OTHER
+You are lazy.,No one would describe you as a hard worker.,ABUSE
+NO_CUE,No one would describe you as an optimist.,OTHER
+You are lazy.,You are a master at avoiding the task in hand.,ABUSE
+NO_CUE,You are a master at downplaying illnesses to doctors.,OTHER
+NO_CUE,You are a master at helping calm others down when they are upset.,OTHER
+NO_CUE,You are a master at moderating contentious subreddits.,OTHER
+NO_CUE,You are a master at the moonwalk.,OTHER
+You are lazy.,"You are not exactly an active person, are you.",ABUSE
+NO_CUE,You are not exactly in the right.,OTHER
+NO_CUE,You are not exactly the best at sports.,OTHER
+NO_CUE,You are not exactly very well-organised.,OTHER
+You are lazy.,You have turned procrastination into an art form.,ABUSE
+You are lazy.,You don't do very much.,OTHER
+You are sloppy.,You are a bit lax.,OTHER
+You are sloppy.,You are a free spirit.,OTHER
+You are sloppy.,You could probably make good use of a bib.,ABUSE
+NO_CUE,You could probably make good use of the feedback you received in your presentation.,OTHER
+You are sloppy.,You are not careful.,OTHER
+You are sloppy.,You are particularly talented at forgetting to collect your post from the post office.,ABUSE
+NO_CUE,You are particularly talented at finding solutions to unsolved math problems.,OTHER
+You are sloppy.,You are not well put together.,ABUSE
+You are sloppy.,You make little effort.,OTHER
+You are sloppy.,You are the reason we have a rule about not eating in the office.,ABUSE
+NO_CUE,You are the reason I have gotten out of bed today.,OTHER
+NO_CUE,You are the reason I tried something new that I have enjoyed.,OTHER
+NO_CUE,You are the reason we have had to bring in strict rules.,OTHER
+You are sloppy.,You don't really take pride in what you do.,OTHER
+You are sloppy.,You don't seem cautious.,OTHER
+I hate you.,You should never come to my party.,ABUSE
+NO_CUE,You should be more open-minded.,OTHER
+I hate you.,I wouldn't want to meet you in person.,ABUSE
+NO_CUE,I wouldn't be able to work in the messy desk space that you have.,OTHER
+I hate you.,You make me want to punch a wall.,ABUSE
+NO_CUE,You make me want more unhealthy snacks.,OTHER
+I hate you.,"Next time I see you, remind me to walk away.",ABUSE
+NO_CUE,"Next time I see you, remind me to ask you how your new diet is going.",OTHER
+I hate you.,I am not fond of you.,ABUSE
+NO_CUE,I am not at all like you.,OTHER
+NO_CUE,I am not going to help you.,OTHER
+NO_CUE,I am not only here for you.,OTHER
+I hate you.,I always need a drink before dealing with you.,ABUSE
+NO_CUE,I always need to avoid being overly direct with you.,OTHER
+I hate you.,I would rather be missing than have you looking at me.,ABUSE
+NO_CUE,I would rather eat out in a restaurant than have you cook for me.,OTHER
+I hate you.,I'd prefer you were in someone else's team.,ABUSE
+NO_CUE,I'd prefer you were in more of a focussed mood than you are now.,OTHER
+I hate you.,"You inspire me to live far, far away from you.",ABUSE
+NO_CUE,You inspire me to be better.,OTHER
+NO_CUE,You inspire me to keep on going through hard times.,OTHER
+I hate you.,I have dreamed of you being sacked.,ABUSE
+NO_CUE,"I have dreamed of you being more ambitious, cutting loose a bit more.",OTHER
+I hate you.,You are not worth the time nor effort.,ABUSE
+NO_CUE,You are not focusing on the issue.,OTHER
+I hate you.,I'm not a big fan of you.,ABUSE
+NO_CUE,I'm not a carbon copy of you.,OTHER
+NO_CUE,I'm not an extension of you.,OTHER
+I hate you.,I don't admire you greatly.,ABUSE
+NO_CUE,I admire you greatly.,OTHER
+NO_CUE,I have to monitor you greatly.,OTHER
+NO_CUE,I like you greatly.,OTHER
+I hate you.,I struggle to respect you.,ABUSE
+NO_CUE,I could set my watch to you.,OTHER
+I hate you.,I can think of better things to do than be in your presence.,ABUSE
+NO_CUE,I can think of better reasons than those in your memo.,OTHER
+NO_CUE,I can think of better solutions than suggested in your proposal.,OTHER
+I hate you.,I'd rather stick my head in a blender than be in the designated seat next to you.,ABUSE
+I hate you.,I'd rather stick my head in a blender than shop with you.,ABUSE
+NO_CUE,I'd rather stick my head in a blender than help you wash your car.,OTHER
+I hate you.,Sometimes I wish you were not born.,ABUSE
+I hate you.,Sometimes I wish you were not my colleague.,ABUSE
+NO_CUE,Sometimes I wish you were not so oblivious to what is happening around you.,OTHER
+NO_CUE,Sometimes I wish you were not so obsessed with the way you look.,OTHER
+NO_CUE,Sometimes I wish you were not so selfless.,OTHER
+NO_CUE,Sometimes I wish you were not so tired.,OTHER
+I hate you.,You are at the bottom of my care list.,ABUSE
+NO_CUE,"You are at the bottom of the class rankings, it is time to make some changes.",OTHER
+I hate you.,I would prefer if we didn't share the same planet earth.,ABUSE
+NO_CUE,I would prefer if we discuss all aspects before jumping to the decision.,OTHER
+NO_CUE,I would prefer if we used our free time to explore our own hobbies.,OTHER
+NO_CUE,I would prefer if we went separately.,OTHER
+NO_CUE,I would prefer if we would go somewhere else.,OTHER
+I hate you.,I have no love for you.,ABUSE
+NO_CUE,I have no words for you.,OTHER
+I want you dead.,I'd prefer you were in a grave.,ABUSE
+I want you dead.,I have dreamed of you being 6 foot under.,ABUSE
+I want you dead.,I would like to attend your funeral.,ABUSE
+NO_CUE,I would like to attend your graduation but unfortunately only two people are permitted.,OTHER
+NO_CUE,I would like to attend your wedding however I am busy that day.,OTHER
+I want you dead.,If you didn't exist my life would be better.,ABUSE
+NO_CUE,"If you tried to be happier, my life would be better.",OTHER
+NO_CUE,"If you were allowed to take more time off work, my life would be better.",OTHER
+NO_CUE,If you worked harder my life would be better.,OTHER
+NO_CUE,"If you would clean the house more, my life would be better.",OTHER
+I want you dead.,It would be great if you weren't alive.,ABUSE
+NO_CUE,It would be great if you weren't always undermining me.,OTHER
+You are disgusting.,You are morally bankrupt.,ABUSE
+You are disgusting.,You are not appealing at all.,ABUSE
+You are disgusting.,You are not to my taste.,ABUSE
+You are disgusting.,You are not exactly endearing.,ABUSE
+NO_CUE,You are not exactly a good judge of character.,OTHER
+NO_CUE,You are not exactly perfect either.,OTHER
+NO_CUE,You are not exactly the same person as before.,OTHER
+You are disgusting.,Your mannerisms are repellent.,ABUSE
+You are disgusting.,You turn my stomach.,ABUSE
+NO_CUE,You turn my stomach when you talk about your accident.,OTHER
+NO_CUE,You turn my world upside down when you say those things.,OTHER
+You are disgusting.,My skin crawls when I'm around you.,ABUSE
+NO_CUE,I am nervous when I'm around you.,OTHER
+You are embarrassing.,You draw attention for the wrong reasons.,ABUSE
+NO_CUE,You are in a relationship for the wrong reasons.,OTHER
+NO_CUE,You care for the wrong reasons.,OTHER
+NO_CUE,You fall in love for the wrong reasons.,OTHER
+NO_CUE,You spend extra time in the office for the wrong reasons.,OTHER
+You are embarrassing.,I would rather not be seen with you.,ABUSE
+NO_CUE,I am always confused with you.,OTHER
+NO_CUE,I don't appreciate that you brought all these people with you.,OTHER
+NO_CUE,I give up with you.,OTHER
+You are embarrassing.,It's great that no one notices my bad haircut when you are around.,ABUSE
+NO_CUE,It's great that no one notices the mistakes when you recite poetry.,OTHER
+NO_CUE,It's great that no one notices you when you shut your eyes in meetings.,OTHER
+You are embarrassing.,Your self-worth must be so strong to allow so many people to laugh at you.,ABUSE
+NO_CUE,Your patience must be so strong to allow children to play with your makeup.,OTHER
+You are embarrassing.,It is impressive how consistently you fail to impress.,ABUSE
+NO_CUE,It is impressive how consistently stand up for those who need a voice.,OTHER
+NO_CUE,It is impressive how consistently you succeed in life.,OTHER
+You are pathetic.,You are not even worth my breath.,ABUSE
+NO_CUE,You are not even able to look me in the face.,OTHER
+NO_CUE,You are not even pretending to pay attention.,OTHER
+NO_CUE,You are not even thinking of the negative side effects of the medication.,OTHER
+You are pathetic.,"You believe that you excel at everything, but you do not.",ABUSE
+You are pathetic.,You have a real talent for making limp lettuce seem dynamic.,ABUSE
+NO_CUE,You have a real talent for being an introvert.,OTHER
+NO_CUE,You have a real talent for delegation.,OTHER
+NO_CUE,You have a real talent for editing wikipedia pages on obscure but important topics.,OTHER
+NO_CUE,You have a real talent for leaving a task just slightly unfinished.,OTHER
+NO_CUE,You have a real talent for watercolours.,OTHER
+You are pathetic.,You are not what your mother expected you to be.,ABUSE
+NO_CUE,You are not what you seem.,OTHER
+You are pathetic.,I see no value in you.,ABUSE
+NO_CUE,I see no compassion in you.,OTHER
+You are pathetic.,You make others feel pity for you.,ABUSE
+NO_CUE,You make sure not to be over positive.,OTHER
+You are pathetic.,You leave no impression at all.,ABUSE
+NO_CUE,You leave no margin for errors at all.,OTHER
+NO_CUE,You leave no room for negotiation at all.,OTHER
+NO_CUE,You leave no snacks for the rest of us at all.,OTHER
+You are pathetic.,You draw a sense of pity from me.,ABUSE
+NO_CUE,You draw a sense of uncertainty from me.,OTHER
+You are pathetic.,You don't inspire me to even give you time.,ABUSE
+You are credulous.,You believe anyone.,ABUSE
+You are credulous.,You believe anything anyone tells you.,OTHER
+You are credulous.,You believe that Santa is real.,ABUSE
+NO_CUE,You believe if you have to get a job done you should do it yourself.,OTHER
+NO_CUE,You believe in concepts that are somewhat unusual to most regular people.,OTHER
+You are credulous.,"I love your confidence in your own opinion, despite the evidence.",ABUSE
+NO_CUE,"I love your confidence in your abilities, but sometimes you need to let other people have a go too.",OTHER
+You are credulous.,I am sure your second name is gullible.,ABUSE
+NO_CUE,I am sure your second name is danger.,OTHER
+You are credulous.,You don't waste time thinking before you believe something.,ABUSE
+NO_CUE,You don't waste time worrying about how other people are getting on.,OTHER
+You are credulous.,You are so trusting about everything.,OTHER
+NO_CUE,You are so anxious and need to work on this.,OTHER
+You are credulous.,You'll let anyone take your money.,ABUSE
+NO_CUE,You'll let anyone get away with their actions.,OTHER
+You are credulous.,Your naivety is admirable.,ABUSE
+NO_CUE,Your commitment to your values is admirable.,OTHER
+NO_CUE,Your honesty is admirable.,OTHER
+NO_CUE,Your kindness is admirable.,OTHER
+NO_CUE,Your patience is admirable.,OTHER
+NO_CUE,Your willingness to endure pain in the pursuit of pleasure is admirable.,OTHER
