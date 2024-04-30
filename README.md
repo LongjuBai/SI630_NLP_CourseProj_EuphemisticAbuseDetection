@@ -1,7 +1,8 @@
 # SI630_NLP_CourseProj_EuphemisticAbuseDetection
-This is the repo for SI630 NLP course project, focusing on Euphemistic Abuse Detection, we compared two approaches to solving this task:
+This is the repo for SI630 NLP course project, focusing on Euphemistic Abuse Detection. we compared two approaches to solving this task:
 * Supervisied training using RoBERTa with both the original training data and the augmented data using different models (flan-t5-large, flan-t5-xxl, gpt4)
 * Few shot in-context learning with chain of thought method using different models (flan-t5-large, flan-t5-xxl, gpt4, llama3)
+
 All the prompt files and the scripts have been uploaded in this repo
 
 ## Abstract
